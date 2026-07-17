@@ -240,9 +240,18 @@ function renderShell(): void {
     </div>
     <footer class="site-footer">
       <nav class="footer-links" aria-label="Follow and contact">
-        <a href="https://whatsapp.com/channel/0029VbDBdm75kg6ylzr4rr1U" rel="noopener noreferrer" target="_blank">WhatsApp Channel</a>
-        <a href="https://t.me/healthtechcircle" rel="noopener noreferrer" target="_blank">Telegram Channel</a>
-        <a href="mailto:drpatelakshat@gmail.com?subject=HTC%20News%20%E2%80%94%20Suggestion%20/%20Sponsorship">Suggestions &amp; Sponsorship</a>
+        <a href="https://whatsapp.com/channel/0029VbDBdm75kg6ylzr4rr1U" rel="noopener noreferrer" target="_blank">
+          <svg class="footer-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38c1.45.79 3.08 1.21 4.79 1.21h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2Zm0 18.02h-.01c-1.52 0-3.01-.41-4.3-1.18l-.31-.18-3.12.82.83-3.04-.2-.31a8.2 8.2 0 0 1-1.26-4.39c0-4.54 3.7-8.24 8.25-8.24 2.2 0 4.27.86 5.83 2.42a8.19 8.19 0 0 1 2.41 5.83c0 4.54-3.7 8.24-8.25 8.24Zm4.52-6.16c-.25-.12-1.47-.72-1.69-.81-.23-.08-.39-.12-.56.13-.16.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.12-1.05-.39-1.99-1.23-.74-.66-1.23-1.47-1.38-1.72-.14-.25-.02-.38.11-.51.11-.11.25-.29.37-.43.13-.14.17-.25.25-.41.08-.17.04-.31-.02-.43-.06-.12-.56-1.34-.76-1.84-.2-.48-.4-.42-.56-.43h-.48c-.17 0-.43.06-.66.31-.23.25-.86.85-.86 2.07 0 1.22.89 2.4 1.01 2.56.12.17 1.75 2.67 4.23 3.74.59.26 1.05.41 1.41.52.59.19 1.13.16 1.56.1.48-.07 1.47-.6 1.68-1.18.21-.58.21-1.07.14-1.18-.06-.11-.22-.17-.47-.29Z"/></svg>
+          <span>WhatsApp</span>
+        </a>
+        <a href="https://t.me/healthtechcircle" rel="noopener noreferrer" target="_blank">
+          <svg class="footer-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M21.94 4.6 18.6 20.36c-.25 1.11-.91 1.38-1.85.86l-5.1-3.76-2.46 2.37c-.27.27-.5.5-1.02.5l.36-5.19 9.45-8.54c.41-.36-.09-.57-.64-.2L5.62 13.06.6 11.49c-1.09-.34-1.11-1.09.23-1.62L20.53 3.03c.91-.34 1.7.2 1.41 1.57Z"/></svg>
+          <span>Telegram</span>
+        </a>
+        <a href="mailto:drpatelakshat@gmail.com?subject=HTC%20News%20%E2%80%94%20Suggestion%20/%20Sponsorship">
+          <svg class="footer-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2Zm0 2v.4l8 5 8-5V6H4Zm16 2.75-7.47 4.67c-.33.2-.73.2-1.06 0L4 8.75V18h16V8.75Z"/></svg>
+          <span>Suggestions &amp; Sponsorship</span>
+        </a>
       </nav>
       <p>Summaries are original. Every headline links to the publisher.</p>
       <p class="disclaimer">

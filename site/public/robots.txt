@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://htcnews.github.io/sitemap.xml
+Sitemap: https://weblrsolutions.github.io/htcnews/sitemap.xml

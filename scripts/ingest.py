@@ -307,7 +307,7 @@ def resolve_country(
 def fetch_feed(url: str) -> feedparser.FeedParserDict:
     return feedparser.parse(
         url,
-        request_headers={"User-Agent": "HTCNewsBot/0.1 (+https://htcnews.github.io/)"},
+        request_headers={"User-Agent": "HTCNewsBot/0.1 (+https://weblrsolutions.github.io/htcnews/)"},
     )
 
 

@@ -4,8 +4,9 @@ import { dirname, resolve } from "node:path";
 
 const root = dirname(fileURLToPath(import.meta.url));
 
-// GitHub Pages project sites live at /<repo>/ — override with VITE_BASE_PATH
-const base = process.env.VITE_BASE_PATH || "/";
+// Relative base ("./") keeps assets working at any URL — root user/org page,
+// project page, or custom domain — without rebuilding. Override with VITE_BASE_PATH.
+const base = process.env.VITE_BASE_PATH || "./";
 
 export default defineConfig({
   base,

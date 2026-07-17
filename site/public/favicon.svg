@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HTC News">
+  <rect width="64" height="64" rx="12" fill="#fffcf9"/>
+  <path d="M14 44V20M14 32h13M27 44V20" fill="none" stroke="#191919" stroke-width="6" stroke-linecap="round"/>
+  <path d="M40 24c-5 0-8 3-8 8s3 8 8 8c3 0 5-1 6-3" fill="none" stroke="#191919" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="52" cy="20" r="5" fill="#ff5400"/>
+</svg>

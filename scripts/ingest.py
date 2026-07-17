@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Your Health Tech Guy — RSS ingest, dedupe, LLM categorize/summarize, JSON store.
+HTC News (Health Tech Circle's News) — RSS ingest, dedupe, LLM categorize/summarize, JSON store.
 
 Usage:
   python scripts/ingest.py
@@ -307,7 +307,7 @@ def resolve_country(
 def fetch_feed(url: str) -> feedparser.FeedParserDict:
     return feedparser.parse(
         url,
-        request_headers={"User-Agent": "YourHealthTechGuyBot/0.1 (+https://github.com/weblrsolutions/yourhealthtechguy)"},
+        request_headers={"User-Agent": "HTCNewsBot/0.1 (+https://htcnews.github.io/)"},
     )
 
 

@@ -200,8 +200,8 @@ function renderShell(): void {
       <header class="site-header">
         <div class="brand-row">
           <h1 class="logo">
-            <a href="./" aria-label="Your Health Tech Guy">
-              <span class="logo-mark">Your Health Tech <span>Guy</span></span>
+            <a href="./" aria-label="HTC News — Health Tech Circle's News">
+              <span class="logo-mark">Health Tech Circle's <span>News</span></span>
             </a>
           </h1>
           <div class="search">
@@ -209,7 +209,7 @@ function renderShell(): void {
           </div>
         </div>
         <p class="intro">
-          Digital health, medtech &amp; wellness-tech news from major sources — aggregated in one place.
+          HTC News — digital health, medtech, AI-in-healthcare &amp; wellness-tech headlines from trusted sources, aggregated in one place.
         </p>
       </header>
 

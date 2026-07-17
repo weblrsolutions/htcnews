@@ -99,9 +99,8 @@ jobs:
 
       - name: Build site
         working-directory: site
-        env:
-          # For project pages: /<repo>/  — set repo name via github.event.repository.name
-          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+        # Relative base ("./") is set in vite.config.ts, so the build works at
+        # any Pages URL (root user/org page, project page, or custom domain).
         run: npm run build
 
       - name: Upload Pages artifact

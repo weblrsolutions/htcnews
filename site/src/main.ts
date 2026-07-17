@@ -77,11 +77,36 @@ const TIME_WINDOWS: { id: TimeWindow; label: string; hours: number | null }[] = 
   { id: "all", label: "All time", hours: null },
 ];
 
+const PAGE_SIZE = 12;
+
 let activeRegion = "all";
 let activeCategory = "all";
 let activeTime: TimeWindow = "7d";
 let searchQuery = "";
 let activeTrend = "";
+let currentPage = 1;
+
+/** Compact page list with ellipses, e.g. 1 … 4 5 6 … 20 */
+function pageWindow(current: number, total: number): (number | "…")[] {
+  const delta = 1;
+  const range: number[] = [];
+  for (let i = 1; i <= total; i++) {
+    if (i === 1 || i === total || (i >= current - delta && i <= current + delta)) {
+      range.push(i);
+    }
+  }
+  const out: (number | "…")[] = [];
+  let prev: number | undefined;
+  for (const i of range) {
+    if (prev !== undefined) {
+      if (i - prev === 2) out.push(prev + 1);
+      else if (i - prev > 2) out.push("…");
+    }
+    out.push(i);
+    prev = i;
+  }
+  return out;
+}
 
 function withinTimeWindow(iso: string, window: TimeWindow): boolean {
   const hours = TIME_WINDOWS.find((t) => t.id === window)?.hours ?? null;
@@ -237,6 +262,7 @@ function renderShell(): void {
         <p class="meta-bar" id="meta" hidden></p>
       </div>
       <ul class="feed" id="feed" aria-live="polite"></ul>
+      <nav class="pager" id="pager" aria-label="Pagination" hidden></nav>
     </div>
     <footer class="site-footer">
       <nav class="footer-links" aria-label="Follow and contact">
@@ -341,17 +367,27 @@ function renderFeed(articles: Article[], updatedAt: string | null): void {
     activeRegion === "all" ? "All regions" : countryLabel(activeRegion) || activeRegion;
   const timeLabel = TIME_WINDOWS.find((t) => t.id === activeTime)?.label ?? activeTime;
 
-  meta.hidden = false;
-  meta.textContent = `${articles.length} stor${articles.length === 1 ? "y" : "ies"} · ${timeLabel} · ${regionName}${
-    updatedAt ? ` · ${formatUpdated(updatedAt)}` : ""
-  }`;
-
   if (articles.length === 0) {
+    meta.hidden = false;
+    meta.textContent = `0 stories · ${timeLabel} · ${regionName}${
+      updatedAt ? ` · ${formatUpdated(updatedAt)}` : ""
+    }`;
     feed.innerHTML = `<li class="empty">No stories match. Try another time range, region, or clear trending / search.</li>`;
+    renderPager(1);
     return;
   }
 
-  feed.innerHTML = articles
+  const totalPages = Math.max(1, Math.ceil(articles.length / PAGE_SIZE));
+  currentPage = Math.min(Math.max(1, currentPage), totalPages);
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const pageItems = articles.slice(start, start + PAGE_SIZE);
+
+  meta.hidden = false;
+  meta.textContent = `Showing ${start + 1}–${start + pageItems.length} of ${articles.length} · ${timeLabel} · ${regionName}${
+    updatedAt ? ` · ${formatUpdated(updatedAt)}` : ""
+  }`;
+
+  feed.innerHTML = pageItems
     .map((a) => {
       const cat = CATEGORY_LABELS[a.category] ?? a.category;
       const country = a.country ? countryLabel(a.country) : "";
@@ -378,6 +414,42 @@ function renderFeed(articles: Article[], updatedAt: string | null): void {
       `;
     })
     .join("");
+
+  renderPager(totalPages);
+}
+
+function renderPager(totalPages: number): void {
+  const pager = document.querySelector<HTMLElement>("#pager");
+  if (!pager) return;
+
+  if (totalPages <= 1) {
+    pager.hidden = true;
+    pager.innerHTML = "";
+    return;
+  }
+
+  pager.hidden = false;
+  const numbers = pageWindow(currentPage, totalPages)
+    .map((p) =>
+      p === "…"
+        ? `<span class="pager-gap" aria-hidden="true">…</span>`
+        : `<button type="button" class="pager-num${
+            p === currentPage ? " is-active" : ""
+          }" data-page="${p}"${
+            p === currentPage ? ' aria-current="page"' : ""
+          } aria-label="Page ${p}">${p}</button>`,
+    )
+    .join("");
+
+  pager.innerHTML = `
+    <button type="button" class="pager-btn" data-page="prev"${
+      currentPage === 1 ? " disabled" : ""
+    } aria-label="Previous page">‹ Prev</button>
+    <div class="pager-pages">${numbers}</div>
+    <button type="button" class="pager-btn" data-page="next"${
+      currentPage === totalPages ? " disabled" : ""
+    } aria-label="Next page">Next ›</button>
+  `;
 }
 
 async function loadArticles(): Promise<ArticlesFile> {
@@ -405,8 +477,10 @@ async function boot(): Promise<void> {
     const catSelect = document.querySelector<HTMLSelectElement>("#category");
     const search = document.querySelector<HTMLInputElement>("#q");
     const trending = document.querySelector<HTMLElement>("#trending");
+    const pager = document.querySelector<HTMLElement>("#pager");
 
-    const refresh = () => {
+    const refresh = (resetPage = true) => {
+      if (resetPage) currentPage = 1;
       renderFeed(filterArticles(articles), data.updated_at);
       syncTrendUi();
     };
@@ -445,6 +519,23 @@ async function boot(): Promise<void> {
       ev.preventDefault();
       activeTrend = activeTrend === word.dataset.word ? "" : word.dataset.word;
       refresh();
+    });
+
+    pager?.addEventListener("click", (ev) => {
+      const btn = (ev.target as HTMLElement).closest<HTMLButtonElement>("button[data-page]");
+      if (!btn || btn.disabled) return;
+      const val = btn.dataset.page;
+      if (val === "prev") currentPage -= 1;
+      else if (val === "next") currentPage += 1;
+      else {
+        const n = Number(val);
+        if (Number.isNaN(n)) return;
+        currentPage = n;
+      }
+      refresh(false);
+      document
+        .querySelector(".feed-head")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
     });
 
     refresh();

@@ -376,6 +376,63 @@ h2 {
 }
 
 /* —— Footer —— */
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 1.5rem auto 0.5rem;
+  width: min(100% - 2rem, var(--wrap));
+}
+
+.pager-pages {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.pager-btn,
+.pager-num {
+  min-width: 2.1rem;
+  padding: 0.42rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg-elev);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.85rem;
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    background 0.15s var(--ease),
+    border-color 0.15s var(--ease),
+    color 0.15s var(--ease);
+}
+
+.pager-btn:hover:not([disabled]),
+.pager-num:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.pager-num.is-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  cursor: default;
+}
+
+.pager-btn[disabled] {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pager-gap {
+  padding: 0 0.15rem;
+  color: var(--ink-muted);
+}
+
 .site-footer {
   border-top: 1px dotted var(--line-soft);
   color: var(--ink-muted);
@@ -586,7 +643,9 @@ h2 {
   .item,
   .search input,
   .toolbar select,
-  .trend-word {
+  .trend-word,
+  .pager-btn,
+  .pager-num {
     transition: none;
   }
 

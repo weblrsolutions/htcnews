@@ -1,6 +1,149 @@
 {
-  "updated_at": "2026-07-18T07:59:31Z",
+  "updated_at": "2026-07-18T13:25:26Z",
   "articles": [
+    {
+      "id": "16ff7981282b5d1b",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbThMWjVkajFRZGJPQ0hIZ2FkeWNSRUsxc1VhcV9PdWVXNTB2X09XcmZLLWctUXYtUmZ0QWRzck9leFdnWmpROEsyTUZJZGY4bDFQa3dycjJ5M0k0NFRhWVc1bVRlcU1CeXV0aWtpZG9KeUl0VHNkZS01T2dTYzRSc2hJWHJtc0nSAYcBQVVfeXFMTW04TFo1ZGoxUWRiT0NISGdhZHljUkVLMXNVYXFfT3VlVzUwdl9PV3JmSy1nLVF2LVJmdEFkc3JPZXhXZ1pqUThLMk1GSWRmOGwxUGt3cnIyeTNJNDRUYVlXNW1UZXFNQnl1dGlraWRvSnlJdFRzZGUtNU9nU2M0UnNoSVhybXNJ?oc=5",
+      "title": "Odisha brings cancer treatment under Ayushman Bharat - orissapost.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T12:56:44Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Odisha brings cancer treatment under Ayushman Bharat orissapost.com.",
+      "ingested_at": "2026-07-18T13:24:40Z"
+    },
+    {
+      "id": "a5ca03863307aaa8",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVdiVWtTeTJOLVotY0dkYjBSaUhPWVFwcEtLa2hublB3R0lDR0ZHM0VUd3Y3Qk1fRjJYUHZwSUVHTUFKRHZDYjJ0TS1GblFlb3NmMVoxa1RXUGgzMFgwYmFMSkgya0ZqS2pPUkF3UU9VaFFjcWdpVXN0d1ByQ1lkZE16Z1FqRHdjdXdvN09tazM1Zk5qSzZSNnVFQWRwdTBjUmI4TGlHUmFBNnlDelUzdmxFdVlSNTVpeGhqQVhkcm9hdlNqMXEwbUZMTE0yV0hBdE9yNUNuUGpWcG_SAeIBQVVfeXFMUDV2NmJiME5QcHJaZmI2T0ZYZ3c4MWw5SXdmWllNck5BeVgtMGwxQzNWNHZEcG9mdG1YRVU5SWpjUC1xWjVWQ1BaTUNUeDlzcVlaZ0RmemNsRG5seW1jNUxVazkxbTNrYU5sTWJwb25namdZbnpQNW9YXzZQaUFEYkZCMFYyazg0dVo1VHRGWHg3VE1RRnBSZlRtNnpyRTgtVUxjS2ZqS2RuSkE1ODcyR0d4Z0dkbzVtNDZSdTBpckVHWUJ3WGkzNzk3MG9jaGZUaGZ6WVdNSHlRaHR5Sm81akNldw?oc=5",
+      "title": "Two years on, Ayushman cover reaches only 1.29 crore of 6 crore eligible seniors - BusinessLine",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T12:30:56Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Two years on, Ayushman cover reaches only 1.29 crore of 6 crore eligible seniors BusinessLine.",
+      "ingested_at": "2026-07-18T13:24:40Z"
+    },
+    {
+      "id": "923466a31ab746fd",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUR5YXdWU3BRcVBqQm5IMGhud0VCUGZmQ05fc0ZxTUNzZXowRDl3SDRUMUhPX1BXMXlrT0R1cUdiZm9rS2ZzV0MzT0FFdnI3SVRkaFhCM1gzNVNWakR5a3MwMDR6bEdkaHZoZ01Db1d0SVZjM3RSU19Wdl9nVTdaTHdSeG5nVFVrUU0ycVpJNl9GR1hmUlVfM0Rpd0hra0dTQ2RRdGt1RHc1NVB3QU1vVUZId1ktcUFiU0RnekZrTm1VODVFVjVjVE5QQlhYcUthU1RpbkRMRDh2Zw?oc=5",
+      "title": "Phone Amplifiers Market Forecast to 2035: Growth Driven by Telehealth and Aging Population - News and Statistics - IndexBox",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-18T12:26:12Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Phone Amplifiers Market Forecast to 2035: Growth Driven by Telehealth and Aging Population - News and Statistics IndexBox.",
+      "ingested_at": "2026-07-18T13:24:41Z"
+    },
+    {
+      "id": "f07b4d2b171b6368",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR3RfT2N3MDhzaThmc2NPSk1EcC1JdHY1cXctaHBKdGhOenVBUUdWb2FjS3VxcXVBYzdKaHNuNVF0Mm5yeVctd1ZPdUZNV3dkd1A5TFY2d0hTcDdGUUNxYldIdndCZFN6VlpUWTl5V1d3UGJsQ0c5T0tXQUUxVWIzRUw0cm1QM1g1aE0wTk5sNU4zTmsxM2Y0LWl0MkhBX3pLQVdwTVNranJLcFZjVHZRLVY2N19rclNXZmgxMF9ISVp3ZFVPdS1JbFlPdks3M1NKVUxtNEppRWZnZXZDRFhybGdJeVRkMUXSAewBQVVfeXFMTmZRWG9YcGFmNzhDbHJ0dGdfSjFaTndyaGhWTGJaV3pMb1dlZmV5SE5rbkRiNFpFNHQzbXZvRVVwc0lsVkZhVTI1Z05Hd2lDVy04VmFuTVo3QkY0VjFBOGxqVElObVY0dXpod3VnNWUxLWZSX29QZzNPMTVNY2Y1OXBxbE5FSlFLQjNYYUJjWDFWMjZiaXVldXhIYjdnajYzNUNGQTZZc3pNTy14Ti00aGkxeVB1Z2lnY3ZYZjdqODkySGhoUTZNUlVhVVMyc0VtNWE1SWE5eDZTQ2tfQ25MZFM1T3ZZYlB6cDltQ0w?oc=5",
+      "title": "NMC Warns Medical Colleges Over Digital Non-compliance, 450 Institutions Yet To Complete Ayushman Integration - ETV Bharat",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T12:19:23Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NMC Warns Medical Colleges Over Digital Non-compliance, 450 Institutions Yet To Complete Ayushman Integration ETV Bharat.",
+      "ingested_at": "2026-07-18T13:24:42Z"
+    },
+    {
+      "id": "52feca5e15623943",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRGhXdkkwNjhMTUhhZXd6dXY5QkNRQzFsZGF6Ylp3Q0xKR2lmcjBSYWxUeTRELWl6RnhscDFGZ3YwYkRjQVM3WFhkbWxneE1wemlGSjRhNU1yX1d4NUFCVVpjY0FQeEt5bWFlXzZSUFR2M2xvY3RaN09Mb2dkb0thUDViRVNyYUVMNlpiczd6UExhWEw5U3hXWVcyRjRzNklTczdpV2RFQkNjSWMyTmlkdmlGUzJpQzRvU09CNmFBWmZTS0hhaXdvMTBzZmxpdEdmbVJLM0Y5eTI?oc=5",
+      "title": "NHA charts next phase of Ayushman Bharat reforms, stresses digital health adoption and financial sustainability - DD India",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-18T12:11:18Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA charts next phase of Ayushman Bharat reforms, stresses digital health adoption and financial sustainability DD India.",
+      "ingested_at": "2026-07-18T13:24:42Z"
+    },
+    {
+      "id": "d0f2747962dcf311",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOF9sdF9DNGxEbFpUbGNnbllKbllfMmRoWWxnMk1GQzBHVDBtdGtZbVhkWndNQ01TdDNRZUswdE1NQmQ2dlRaNEszcWlMdDlNeFVUWS1CV2ttQzRub09nMEFDMmJGSjl6N1NzcWxxOWhybkZNUjh4Szh3RF80Ul8zMVJMQ2pVa25qd1lrSjEyRlZNanVwR3ZxYzg0SzFpRnlMUC0zYXNmblg4M1d5akdkNHN0WW5WcXh5TTdUOUc4TEZ5N2R6VlpuMGYxSjROLWc0X2c?oc=5",
+      "title": "NHA charts next phase of Ayushman Bharat reforms, stresses digital health adoption and financial sustainability - DD News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T12:09:57Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA charts next phase of Ayushman Bharat reforms, stresses digital health adoption and financial sustainability DD News.",
+      "ingested_at": "2026-07-18T13:24:43Z"
+    },
+    {
+      "id": "f79b8be6d098fc2c",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LWG5rUjdndjBaMzB6a0FOVUIyZVhVUlpJMXlUNjJyMzRtSF9JcHdxTmJXcVpMY0NBeXdPQV9tRzc4MGN2OW96cnpHcUZaQVAwV0o0ZTZIM3lEeWxPNUUyQ1RFcmxnbmpNQUdaQmZNRS0tUQ?oc=5",
+      "title": "NHA Ayushman Bharat Review Boosts Digital Health - The Impressive Times",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T12:03:30Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA Ayushman Bharat Review Boosts Digital Health The Impressive Times.",
+      "ingested_at": "2026-07-18T13:24:44Z"
+    },
+    {
+      "id": "11ae450c25dc0e28",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUnI5TXJqQ29qckVnVUt5M25OZEFmYWFzRWVNeS1pY3hJck82cnJEX1ZHSTdUXzhUT1ZzUEhBb2V2dVVVbWxGNERVeVV5RGJ5c1JMUHcwa1c1VkpWT3U2Q084R0tja0xUNGltek01dVYxSTh4cDV4eGFoc0pOVXNFTlgzQ3JFdUhDTFMwWFduSFZ4MU1fRk0yWDFaUFoxc2d3UUdmSDlkYW9MbHpzU2xYUWxwbnRKcmlocGJuV0xnX3NCMlBXbmlTSmhpVVBUMzI0cEh4Q1pXNEdRdi1FQ0NwUWQ5c0txQkM1VXlyaG5pSkF3bWc?oc=5",
+      "title": "CMS launches dedicated health technology office as AI and interoperability pressure mounts on hospital IT teams - MarketScale",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-18T11:22:59Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "CMS launches dedicated health technology office as AI and interoperability pressure mounts on hospital IT teams MarketScale.",
+      "ingested_at": "2026-07-18T13:24:44Z"
+    },
+    {
+      "id": "5cf0641f3b324056",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakNnM0Y1aW9BQUdvem91QzJpUVo0bGVBckpqOXlIdVBIS1BGOTRZUDA0RjhueHFHMHI4N19RRGtPSDF5b1g1NVR5WjJoYnpNQkN5R1lmREZkYmtDVVJ6Vk1rbjlCR2FBYzMteUdhT1VsX01OV0Q1WEpxakUzLUJ1ME42ODdmVlpjek1wS2FYME1Qd0pHeXYweHJPd0Z4eW5XVFNNMVVxeGY3RjdEdmRB0gG0AUFVX3lxTFBzZ0ljcExEYkc4YnFGaXJpZWU3UWYtaF8wNlJmWWZSRW4xS3g4SVY0QWYzNG9jdGlpTmxwN1hNWW03SnJQUm9tN1Q3TjUwR3Zmel9UVU5xbWpCZkF0TllOTGRjb1ZCM1NUanNNOW9LdXNkck11SWtOVlpfQnhmUjdBaEdYV3JkVWhIUnV1WWQ5NXB0QUFEOV9IYTdEcmEtWmExVktRdGgxT2wwLW9ncDdVYm8xQw?oc=5",
+      "title": "Transforming Healthcare: India's Digital Health Revolution - Devdiscourse",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T11:18:15Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Transforming Healthcare: India's Digital Health Revolution Devdiscourse.",
+      "ingested_at": "2026-07-18T13:24:45Z"
+    },
+    {
+      "id": "3f6fe23fa0e27b3a",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMjhkc2VYR0s5eGNjVkJocm9sYktTSlpwcS14QlBKWXBRYU12WDQ4aEFNZ1haSkVncXJzSzgwLXVRbjdxT2NrbERSVE9Jdk83R3NCQXgzdjNmMDR4SUxWSEF2TDVyb3B6aHg4SE9ic3ZiZ0I4S2NmQ0R2clR3QXgtNnJha1p3WHp3SGpXQnpXVjlNM3N4VHJzZ044SGhnR1VIODliMW9ZaE9wSEMwS2l6RGdPQ0U1MVRUU2ZSbUEteHk5cVQydVJuc2xZeWotcWx5aUd6aEd1SGVTdTA2ME5KZ3dOLTRoaW1VUTRQOXpXUXFRekptbVd1VzRhanN6UUZw?oc=5",
+      "title": "SAVVY SENIOR: Doctor visits without the drive: How Medicare covers telehealth - Clinton Herald",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-18T10:45:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "SAVVY SENIOR: Doctor visits without the drive: How Medicare covers telehealth Clinton Herald.",
+      "ingested_at": "2026-07-18T13:24:45Z"
+    },
+    {
+      "id": "d60c1ab6246e29be",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVpWZFpmMDI0dmdXVjZlS2k2YldIVmN5T1M5TkxnbVNLbWxsRlpfbnVDYWt0YmcxNC03VHQ1amFnbGRRdmJNNGwyMWRDNmtqejhEV01CSkxnZ2N4S0xVeFRpN0VaaEZBeDRJY3NxcVdwZlRodk54UVZ2TERVMjctSmpkcHdweHdXUktpbkVXVU9KcHNWM00tWnBDX2p3cTlQa0lWWG1zcG0?oc=5",
+      "title": "Cancer Treatment to Be Covered Under Ayushman Bharat, Says Odisha Health Minister - Pragativadi",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T10:33:17Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Cancer Treatment to Be Covered Under Ayushman Bharat, Says Odisha Health Minister Pragativadi.",
+      "ingested_at": "2026-07-18T13:24:46Z"
+    },
+    {
+      "id": "1052c94692bd829c",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelV4NkJOaXkyLWg2dElKR21EZW4wWDhNSS03TWRMZG1URk1hQWRybUF5VE5GWlpTcDEwM1UwekhEVXl1cGJWRW02ODhpUDcwbU1zQl83TXJLaFJudmFyOFZmR0NaOWdwM3dETWVqRkhZMU5Wb0VLNWY5NzRIYllLZ19iWjd4ZzZPTjV3?oc=5",
+      "title": "Journalists Dig Into HHS’ Covid Injury List, ACA Sign-Ups, and Telehealth - KFF Health News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-18T09:04:47Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Journalists Dig Into HHS’ Covid Injury List, ACA Sign-Ups, and Telehealth KFF Health News.",
+      "ingested_at": "2026-07-18T13:24:46Z"
+    },
+    {
+      "id": "de435727ad6718a0",
+      "url": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor",
+      "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
+      "source": "STAT News",
+      "published_at": "2026-07-18T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "“The real opportunity is to move beyond policies and narratives that pit specialties against one another,” presidents of the AAFP, ACP, and AAP write.",
+      "ingested_at": "2026-07-18T13:24:47Z"
+    },
     {
       "id": "e37b8599641f07a2",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb284VWZBa3dqM01tNWFmdGw5QnJfWVJOb1ZldmRPUWVTWmRtdXlEM2NDNV9xMXhZUU02VFYtWlBLWFktSXl2YTVTbTI0OFo4VlNpRm96LU5IYUl0eXFKQlpzX19HNUwzVWtoM19TeWlhRzd1MXA5dklUaXdIeDQ4dXNLVXVGMEZvY1JlRzhzNF9YdEU2UFVyVVc4WVRERElFMnVuR2lCdlpHNWVUUVZhZjdFTk9BM1llZkJ4U3dtamxMeHR5b2h0bjNfM2lUMGtHeVNaRzd0MzhZRV9TZUhDeWVpc21WcF9velRlVdIB8gFBVV95cUxQMWhYRDRodWlGWk00RldWQmhQU24zUDU2NEU4RXRqaUVNWEh5cFdFdFpqalA1SnU5RzVRRS1EVnRTWnVNb3loVTRXdVNGblNVY3hSODlwWVBNUHFKejMwQ0dsV1FlM1FVWFd3dE1OT2Jnd0tCcHBQcnhRaTg1XzFyRmY1MEc3Q01GYWdtckRIdjZOU0dqOHZoQXlMRlllTVpkaFJUcTl2aGJZRWV5bGVkb0VBdEttb0EyTmhrMDJidkJUWU1IMzBTOTFUSGg1R3FmU05EdkJTSnphZ1lRc3pBMi1nYUo4T0Y4NzU2X3lDMmszQQ?oc=5",
@@ -1727,6 +1870,17 @@
       "country": "GLOBAL",
       "summary": "One Click, Countless Hours: How AI Is Revolutionizing Safety Monitoring in Medtech Unite.AI.",
       "ingested_at": "2026-07-16T19:18:49Z"
+    },
+    {
+      "id": "8e40f442277e304a",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTBUU2Z1ajBBdXBtYkxPZ0lPSml5aUx4dXdiYTRNMlpVT0VpZVNSZjFiNmFTX2hNd3V1SkVLc0hCZVBBYWI1SHJZTmZNRVcwSm8yVjAwVllDeFBMa29JZklYMURnZEpGVDllbVI2dVdhZVlKcGFIdzRkakc1SFZFOFZEWmZqX1B6SklxQm1VQkdyTF9ZS1NTM1F2YWVHLW53V0F2Y0U4akVka0E5anpMS21pZ0hHNjN6TXdIcE85Ui1tMEU?oc=5",
+      "title": "CHAI launches AI initiative for public health agencies - Fierce Healthcare",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-07-16T17:00:00Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "CHAI launches AI initiative for public health agencies Fierce Healthcare.",
+      "ingested_at": "2026-07-18T13:24:47Z"
     },
     {
       "id": "5ab29fd387285035",
@@ -5260,6 +5414,17 @@
       "ingested_at": "2026-07-18T02:49:43Z"
     },
     {
+      "id": "5580ddad64530789",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbnNZWnMzUlJEdmVPX25zNWtORU5KREE0SVdYR0dvZl9jcG5FUWFrY0QtZDdTZzExYUo3YVdpbXpMRDR3eXM2dFZ1YjEwaXNLanVYZTN3dzRONXY2VV85Sk1sUGUteExoSU9sbFBEamJoemtGNlJOSHpESlV0M3pjaXlvcEVpXzI0ZDBhLWZGU1liSU1ES2VTRk5DZTJObHZ0VGNlaTBjcmN5MXczM1NPTTI3d1JMVFpCaGdKdkJDekNLcFhXcmVCWk1TZFMxMm1BOUh6SmdwenV2V2RvbE5Gc1NEdElabmxBS3VNay1OWFBhZ2ItajFCWmk5dGUzYWVreUszQktfRm7SAY4CQVVfeXFMUDU4SXZLUHN4bzVKb1U5d2FYWVY0V3gxRl90dWJNWVd4RUF6LTktbWREZDhPWVRldkdzSFhWWFFRaUhFRW5qU29pb1hod0U5aGtXcGs5MEZQUWdiN3NnOERPYWdleEh1WmpEc21FSVhOU3NUMUl0MFJlalBuQnpGSURFUmQ4RlBxZDFfcVZyblBiS0FaeE1mTVFSd3lJbEhtaGM2bHQ1d0N3YnZCTXBQS0lDWkxWLTdWOFlxd0lVN1lmZmszRkh5dXcwVXZBb1RITHZKSXk5TTZocVI2M2Ezdk1wQk9lWVJybDRnSDJGbTdJUG80eDlmemZVYVJtOXZtU2syY3c3Xzhld2VkSU5B?oc=5",
+      "title": "PM Ayushman Bharat medical insurance cover may get double from Rs 5 lakh to Rs 10 lakh: Check latest updat - The Economic Times",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-14T09:28:10Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "PM Ayushman Bharat medical insurance cover may get double from Rs 5 lakh to Rs 10 lakh: Check latest updat The Economic Times.",
+      "ingested_at": "2026-07-18T13:24:48Z"
+    },
+    {
       "id": "5f29c18dd602246c",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmpJYTNvTkx3VGlNc0FoV3h6TmFUamxtTE1DWDVmajBoalRXbnNfbXBnbGxIZW13OGx3Y2dHQkhCRjVuYWdiZUlNRTVsVUVxZEdtRlpIcTNhTkZBYjZRTmhRZXJqUVI0b19mMjdtVjFOVWhJNGgtblJYWDkwQndlN1N4Y1NaNlFzeGZIel9aV2ZFR3RXbHhWWjlLUzJLY2Q4cE9v?oc=5",
       "title": "Bausch + Lomb Launches Orphia AI Digital Health Platform for Eye Care - Digital Health News",
@@ -6305,6 +6470,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "edfb4d7b95741c99",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93UEQ4eFJ2ZkJncG5MTGxiT1RDZmlma0lLSjZaOE1MSVRFUXV6RHRGSUQwbzNhSU9Ma0c1c2dzeW5COHYxOGFPZ1QwbjBZUnBRU011dk9Cd2c5cnV0RHJUdXR3dlpuMjhMb2c5M3R6Szk3SDB2UFRnQlpnTQ?oc=5",
+      "title": "Ayushman Bharat Digital Mission - PIB",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-06T06:05:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat Digital Mission PIB.",
+      "ingested_at": "2026-07-18T13:24:49Z"
+    },
+    {
       "id": "4ddf11054906d653",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yTnVSckFKNU1vVktjSXhpOUNMdU9qTzN5U3RRcVpSNGVHMDBQRnJtWGJjZnNETGlyaENDUmhoNjdDenJVUFpNelItZ3NRTC1ER2hObzlwQlFoMFpLWkRvZzBUUTgxX1RmQlZrN0FYWS1reHItSG44?oc=5",
       "title": "Care without limits: How VA telehealth is reaching Veterans where they are - VA News (.gov)",
@@ -6536,6 +6712,17 @@
       "ingested_at": "2026-07-16T19:19:06Z"
     },
     {
+      "id": "e7c6874f67b13fe3",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW1VWXRHWnpCQldaaF9yTTZ1MnNvNUk5cC0xb0VPOTJGQmtqSUVDVVJ6OGR2NmEtNVdCcVphOFJScUZjNUZlaEZaT0pZUy1xX1FLcXp4Y1NPU0ZDcGNhX2pqOWpUM1kxZ2trc1M1UXhCTDd4eHVZOUdseF91OHVnOVkxU3VoOFk0ckJJ?oc=5",
+      "title": "Google’s Gemma 4 to Power New Aarogya Setu 2.0 Health App - IndiaMedToday",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-07-01T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Google’s Gemma 4 to Power New Aarogya Setu 2.0 Health App IndiaMedToday.",
+      "ingested_at": "2026-07-18T13:24:49Z"
+    },
+    {
       "id": "0c823c69c20dc1e8",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
       "title": "FDA Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients",
@@ -6556,6 +6743,28 @@
       "country": "IN",
       "summary": "Coverage of Google's Gemma 4 powers new Aarogya Setu 2.0 app from the health-tech news cycle.",
       "ingested_at": "2026-07-17T13:49:27Z"
+    },
+    {
+      "id": "0b1238bcfd28a2d4",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUxtN0phSTJHcHFFbnE0NkJUbjFmZnUtc2JYVWotX1dzcTBHQ3hGTEZMRG9XbU4yVHY2bG9FRXc1OHctX0xWYWNmVDZtVjc4bzF2MzdmS2tRT05COUFJbWk4X3otZllpV0lTQk1aRnJCalZUc0I4Mkd6emM4SDI0ckZ5dUZjZHBKN2MtNTVVdGNlUEExUTViN0lYYjdkV2fSAaQBQVVfeXFMUFJPSWdxQXk2Q0J5OTFTR1o3dFJJaHhEV0N5SEdDdHpwUkg3SU9DdmI4Y0hXNndWaWVrQW9lNi14T3J3YUw5YXN2d3AwNDBnRDRRVEJhaW5vTjcyMjVYb20zM2ZXMXNrUHdPRnA1Wld5NmJ5VnlwN2lYZUtMcEF2TlNPcDdyUFY0RUphRXZpTTJXQ2JMTjAtU2JrUUE1azlrM2o5Mkg?oc=5",
+      "title": "Nadda launches Drug Registry under ABDM to standardise medicine data - Express Pharma",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-30T09:00:54Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Nadda launches Drug Registry under ABDM to standardise medicine data Express Pharma.",
+      "ingested_at": "2026-07-18T13:24:50Z"
+    },
+    {
+      "id": "445890a7f6a1a3ff",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejJVWnRGcVNLVUJIRVRGckthaXFtd3N3U2xrdkVUd2xNVmJkUWk3alk0ajIzaEhFbTFWYmFjRUxxZ0hyUFFTczFZOHRrYjZabUtqVXl3LUdieGswNGZ3TDVXcURsZUlkWFpvMnlMODZMVGVqUGc1NkxLa2hXUDY4ZzNfRGtMaUVnR1hDS2IwSG1rU2VLZWFPRjA5WUdVT2tRRERXSmc3NUYyWEh0MWtRZzRscmZ3V1dZWHNKbWdvZlpFdGxCbVM0cFlTU2hBYzFJeUNESg?oc=5",
+      "title": "Aarogya Setu 2.0: India's health app gets Google's gen AI booster dose - Deccan Herald",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-30T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Aarogya Setu 2.0: India's health app gets Google's gen AI booster dose Deccan Herald.",
+      "ingested_at": "2026-07-18T13:24:50Z"
     },
     {
       "id": "f5805ca552498fcd",
@@ -6591,6 +6800,17 @@
       "ingested_at": "2026-07-16T14:37:55Z"
     },
     {
+      "id": "6a5ec4fecc1e41dd",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOanl1US1wallLbDVuSTlCdzE4VGZSYWdKVFdadGRmSUFuaTZCcExxc2pYWXNxRmQwSi01OVo1bVhoVVN3aUw2YVd2VU1sZE5fNW9nTVBybXg0RVR4bDZaNmRWRkp5eDZkZU85TFVpdWY1T3ZnWGdrX0Z3d3lac2pEOG1fTTQ4c2lnYjh3TERVWE5sTVZjbXB4ZVE1eDhEb3VTa2pUZUY5THg1bGRITXJYbGlOQmUwZ1hJYkM4SFlETkNSdWVIaE45TUd5RS1hbUUxMTdseU1HbWlqOTRCMzY40gHkAUFVX3lxTE5CMnoxMTUxdXl2TkQ1dF9TczM0ejJXQ3BHX0N1dWJpbXZMUUJ3S1hTX0w3U1FaRGFSd19IeWQtclkyWWxHdmVzd0FyekI2UFlEXzIzM3YxcWtUVmF1WjBaZ2JxQUpzRll6TWN2dzJjalVEQWZtSW1rZG5hd2dnQ0p0NVh4UERMMmEyV0xKSm9NZ25IT002al9JcmZNNTY0RTk5ZURvQmdtaXBtMjh3SWFtcEpsTnhLX1pDcWstWXpRZTVlTHk4N3pyaTdBZ2tHX0lTQWZzSi10eE9PSEZFcV9JVWtiaQ?oc=5",
+      "title": "Health Minister Nadda Unveils 5 Major Digital Health Platforms To Accelerate Ayushman Bharat Digital Mission - ETV Bharat",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-29T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Health Minister Nadda Unveils 5 Major Digital Health Platforms To Accelerate Ayushman Bharat Digital Mission ETV Bharat.",
+      "ingested_at": "2026-07-18T13:24:51Z"
+    },
+    {
       "id": "3c019bc9874ce2a9",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFFHYkZDUVltN1pQd0pGWDJWb3ZsZjFSM1c0d0pPV25WSHJDRFZoS19lc2pocTFUZEl3VElvMkVkTWdncjcycVp2QlVXTkpyenBLWUlTcElncnlFc1lkV19uVlZUejVPTFpxM1k2VFZvU244RzJWOWF2dWdQUG40WjhBeWp5MEZpZDBGcTRXUDhfV2Zs?oc=5",
       "title": "Bringing AI to India’s digital health infrastructure - blog.google",
@@ -6624,6 +6844,17 @@
       "ingested_at": "2026-07-17T13:49:29Z"
     },
     {
+      "id": "3bfe440e0e8d93c3",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1BNaWxwZmZFMjVWVU9aVDV1YmMxd3FDd2lFQkNiYV9jVHVUR2o1eDd0SVBuSExpa3ZnOVJ6d1lXdThNOGh0YkdnLW1rYUloMldaUmIwNWt5OXpzU3dIakRRM0hheWJpbVNKRTRLaVpfdmQtTFJnUVR3bURBelZhM2o3aGpuOVVPZ0lfMTNjQ3hmMkxabmtRbkR3V004a0lzSDdUVmVVbHjSAagBQVVfeXFMTXdQTWlscGZmRTI1VlVPWlQ1dWJjMXdxQ3dpRUJDYmFfY1R1VEdqNXg3dElQbkhMaWt2ZzlSendZV3U4TThodGJHZy1ta2FJaDJXWlJiMDVreTl6c1N3SGpEUTNIYXliaW1TSkU0S2laX3ZkLUxSZ1FUd21EQXpWYTNqN2hqbjlVT2dJXzEzY0N4ZjJMWm5rUW5Ed1dNOGtJc0g3VFZlVWx4?oc=5",
+      "title": "Ayushman Bharat Fraud: Why India Shields Doctors Over Patients - The Probe",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-27T16:25:48Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat Fraud: Why India Shields Doctors Over Patients The Probe.",
+      "ingested_at": "2026-07-18T13:24:52Z"
+    },
+    {
       "id": "149c48a13fe8c1b2",
       "url": "https://health.economictimes.indiatimes.com/news/medical-devices/cdsco-restricts-supply-of-ivf-consumables-to-registered-fertility-centres/132027181",
       "title": "CDSCO Restricts Supply Of IVF Consumables To Registered Fertility Centres",
@@ -6646,6 +6877,17 @@
       "ingested_at": "2026-07-16T14:37:56Z"
     },
     {
+      "id": "2d5c9274f379d4ec",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnl0am83ZzJRRHJ0QkRLUkNwOUN5THh5Ny1XYkRaekMzdTVmMW5OdFlQNS1CLV9tNnoxSXJqYnM3NE04U3hhckRMeTBfSEszeE1hV2xRUkc5eEFobTRxVUptMlRnOVQ0dGJ4aGpQM1NtZWY5UEJsalJURVdFS2FnNDk2aUJyd002LWZ0ajlaWW9ON1dSNEVKcDY4bTRxeDBING9Ta0VWTlB1WlRYeFdfSDJoSkM4WDRHV1JuU2FrR2N1MGdDUFdsSnQ4R1ZDZHdmT2I3WGZWYTNSa2PSAeABQVVfeXFMTUFwX2JQZV9Zam9hcmgyNlIybTBWcHFpdzZuWThKT0g4NkFIc092UENPT3d5Rk16T2x5Mmk3ZnBPc1M2ZXd3UFo1azhKSXFwcU5hc0ZLUzdZdC10eWIzdTRsaHd2ZFIzOEg2OTBTSno0aFJuVklGWV9WSElJMWhrRlIwb3FhYURJcHZOcXRHSnJpQ1FBRC1QNHo5RUFaV2Q3T1JvUGFHYW5EbC1LZFYwVGp1bktxM0sxR01iRWw5S3JTelA5MU1JRER6RHo0enVUUE1Rei1NWmZxOW5sYy1jZVA?oc=5",
+      "title": "CDSCO tightens approval norms for modified-release pharma intermediates - Moneycontrol.com",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-26T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "CDSCO tightens approval norms for modified-release pharma intermediates Moneycontrol.com.",
+      "ingested_at": "2026-07-18T13:24:52Z"
+    },
+    {
       "id": "cb3d6160276f533a",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0xWMmo3TVVENEZLMWNOQV9NX2U4VWhIYWVJTmFENW9GNWUxNGs2SFpKVFNzTW8taGZ0ZllTZ01qSUh0VXJuUDY5S2ZrZFFiWGtQenlUcVJWdkg4dnFyWnNHcHZDZTFiYjNheGFEc3dqVHBlYlI2OEo2MHVWVDJEYWIybkR6MXBSSVVfaEFTb1FUWTQycjFWUkpXVWZQaG5tV1E?oc=5",
       "title": "AI literacy: The missing link in digital health tech - Wolters Kluwer",
@@ -6666,6 +6908,28 @@
       "country": "IN",
       "summary": "A study of 1,000 adults found that two in three Indians have encountered a health or wellness scam, with social media emerging as the leading platform used by scammers.",
       "ingested_at": "2026-07-17T13:49:31Z"
+    },
+    {
+      "id": "8d6ff251679a2471",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjVreUgzZml4Z3VaRnFiRjVNbW9FNDNxdWFBVW11eTdmU0htYlZsTDZHT2tPeVdmcU81eTRjei1oLV9IaHRNMGYwMm96REJYVDdWSmdXcGJ4MER1NEJwY0UxdHFOdGcxU3lJNWxsV2NVdHlod2RXTWcybFlUR1lNTVAxbnRsN3RWaW9fd29iQm1qWjRudFBCNGdCZm5aUFk1Y1lwVERPeTNzRGJuQ2k4SHdqbGh6RG9KS19xZXR3T1JjeXZmX2Y4UnhyRUJibzExNkpITFpDeWnSAd4BQVVfeXFMUGlVNGxHaWZFNU5mQXM3QXI5YVdTSmpKLWx6MWpBSmJmRW52YTUzSmFkYkhrRkc4c192YVJKbVBNeVd1ZXZvYjJGVDNpRFJLdkg0QVRKdW9MeUxMLUV0RDdybkRsOWVwako2NUE3bmpJVUN0bVJvYVgwa3MwUHROUXlWYVIwOVRYVGtDMVJuckhSd3p3NThYY3BNTUFFWjdfN2txUHMzNHRGZVlXMXNaS2E3bU84SmlteFQxQnl0bHo3NVI2V3hNN1Q5WjIyUEVVeVd3U3ltMmFZcllNZl9n?oc=5",
+      "title": "Health-tech start-up SuperLiving raises $7 million led by Lightspeed - Business Standard",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-25T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Health-tech start-up SuperLiving raises $7 million led by Lightspeed Business Standard.",
+      "ingested_at": "2026-07-18T13:24:53Z"
+    },
+    {
+      "id": "782db08b14f1ed3e",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcTRrYzBlNG1DMlhnakIzUFExVUpHLTdNanVoeFV2V25OOGNZQnRTd19qR1NRbXhBbl9TYkVXSEdjQi1WQnR2enNqTzBRSTdXeXlQeTNCd0U0REJhbHczQURIX0xJOW1KWTFMdS0wMl9FcVp3TVFFeEhsZE5SRGwybi1keXZVd2JqaUdkbGo2M3VuOF8wYThwWDRXNzM1QkNQTi1XdVREbG9wdnUwRFVRdFRTZXFJVXUyYno3bHdSQl9ubmRIZnBjaDBJUWdCZ3k0azNLRnk5b0c1Q3haVDhjb0RR0gHnAUFVX3lxTE1waWZLWTBKeS15cDZXYW1KbXdPZ2thcTViWFZReUgwcW9nOUZNNzVYWl9HUUVxenU0OWROZ3lHa3VGSDN6aDFUcFgyaXEwVmhQZm5WOENvc0JOYV80YlVUc2JiZ0otZjM2TjBPc3ZReF9lWE54SFpROFRUQ1RpVVJnTVF1aHJpVURocnF4RGVwdy1YU0hkdWZyanZyRTh6UE1sVUtRbWM3YWVta0lmaHl2dVVOdGVSNTFWYmJ4N0oyQnllQ2YtQXVpSjNaV3g5WWVMcHlDdTdZWnNNWno5SGlXdFVmVkNMQQ?oc=5",
+      "title": "Eli Lilly brings Rs 2.15 lakh cancer drug Tanstrive to India after CDSCO approval - Moneycontrol.com",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-25T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Eli Lilly brings Rs 2.15 lakh cancer drug Tanstrive to India after CDSCO approval Moneycontrol.com.",
+      "ingested_at": "2026-07-18T13:24:53Z"
     },
     {
       "id": "6a33f59867bb8e27",
@@ -6732,6 +6996,39 @@
       "country": "GLOBAL",
       "summary": "Coverage of 655 million people still living without electricity underscore urgent need to deliver on universal energy access target from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:37:56Z"
+    },
+    {
+      "id": "28127e7644669e67",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2wzX2tJQW5sRElHbDBFMENEVmZzZVI5ZEpleDdVVVJTLWJjSXp1T2dEbE50WllvX1Zhdm53ZjhMeEVZNDRtdV96clB5ZXk1a1RnWGJYQXFrMXBZSUo5SU5JYlhpVWxReG9VTlBBQV9OY3NtMUpudmhVcGpPQmlfc2JTbWxhSHBZZEE?oc=5",
+      "title": "Orange Health Labs Set to Raise $30 Mn in Funding - Digital Health News",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-24T09:44:34Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Orange Health Labs Set to Raise $30 Mn in Funding Digital Health News.",
+      "ingested_at": "2026-07-18T13:24:54Z"
+    },
+    {
+      "id": "06f561d1ac72c18d",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFBURE9jVTB1OUNSODNGNDFsM2E5T0dxX01wb2hwUllKTkVUX3dVeGpEQXJxMUx5SmZ0SWJKUjQ3U2xMeDlPUG1DU0RJVG43M3JtazlnOVZPM1VYTU1TSG4wNmVSUzBDY0RlODljeGhtbjJfdVJUUXI4NGpvQ2JiTUlzVTMwbUJtNl85SGgwb2EwMHVPUVBTYlRtTHZsenM?oc=5",
+      "title": "India’s Ayushman Bharat model emerges as blueprint for UHC in Global South - Times Kuwait",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-24T07:59:35Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India’s Ayushman Bharat model emerges as blueprint for UHC in Global South Times Kuwait.",
+      "ingested_at": "2026-07-18T13:24:54Z"
+    },
+    {
+      "id": "e2b3a36e8455a21b",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVVV5Zi15ZXN2S3l4S2Z0UTBtaHFrVFluSXI0SzFCUFVNQk5zVkdjZnVRM1ZqT2FQRkwta3piVWdnM21QRFpIOWJJWTFmR2xkcm1TVlFEOEZyVjZDSmZGeV9tVDkwZE80eTltempsUTlPMU0wNmpNZDQxUlFxZEpaSDRyRFoxbDFGbld5cTZwRzNfODZYQVlKWGdHX3FjOGJVOE9sQllUdHVVM2lURHFEWWZSbmFRT0ZTMmhJTGUxYVROdEFIdGxKdS02YWd3QmtqVFp6UzNkN1hlRUNJTEpHbEdMbTVzMEpuUFVwN1c4Um1yaEZ6?oc=5",
+      "title": "India Reopens Consultation On Medical Device Import Exemption List - insights.citeline.com",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-24T07:00:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "India Reopens Consultation On Medical Device Import Exemption List insights.citeline.com.",
+      "ingested_at": "2026-07-18T13:24:55Z"
     },
     {
       "id": "2994de2400303451",
@@ -6811,6 +7108,28 @@
       "ingested_at": "2026-07-16T14:37:57Z"
     },
     {
+      "id": "fb629eed82ec6f30",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2Zja3oxUl9DbXpUTzhscDdqdm9HUW1felhMWU94aXc2RThVU0ROWk54QXMzeUdONWNYV1JVZU5hRHJxZjVnSlFmdWJrdHJZV2U1RjRpSU05U2V3b01Vcm0xOVpibjRENnhaV1V2MkJWakZ1RDFUVHM3eVJvSGs1RUVNdkFUS3dUajBvT2pjWU14bjFtY3U1M1JqdXdZYW80Q1UzdzZPTHRRUWpVRTNvbUlRV3Rkb081czJLTTZ2U2dfNVE5WHI3VnZvSmXSAdIBQVVfeXFMTU1DU2Q5UHRoMkFuYmNQMTZVNGdQT3hHRjdibVRoSzhvc1RSWS1UbXJNVDZDYmZmOHdCaWRMMmQ0T2NacGJUQmpiNFpWT29CUktCTUVsclVYMm9nUFluYjkxVXNjRUdhWnpEbWt4VEI5OVptdkw2NWRuS3c5dXVRdXIxQVc4ckxwVVhYUndFc1lpN2FEWUk2WlVqOURTcTR6X0VHakRfTEt2aVZZcHN2a0tGUlBiV2JzTDBVaGZsNjQtUmRFdTlsbUpGM21DZ1hSeHB3?oc=5",
+      "title": "Bengal allocates ₹3,100 cr to launch Ayushman Bharat scheme - The Times of India",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-23T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Bengal allocates ₹3,100 cr to launch Ayushman Bharat scheme The Times of India.",
+      "ingested_at": "2026-07-18T13:24:55Z"
+    },
+    {
+      "id": "ecda4bfca41ce234",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlZkYTVuY1gxU28wZU14czg0cnNyenYtd0Uxa1FMZ0lxVXhEVmVuMWtycWJidExWR2FaUWllSngweExhTWk1TzJVVmtBRV8ybzdHR1BHZ3I1bkJ5VGk1NFlPTnFUVDNDUWxiNHdoSERnUGNnenlkYUlCbGlYZTg0eU5yc2s2V2lMRXpRdHdaLXRpNEw1ZEhwVHluSm5xbXNTQ21HMzVVUHZMTGxWZTl2cXJvWDhSQ2w5WWR0VmZWR2pBTC1ZMS1nd0MzVkwySDQ?oc=5",
+      "title": "Lubrizol and Polyhose Launch Advanced Medical Tubing Manufacturing Facility in Chennai to Strengthen India’s MedTech Industry - ChemAnalyst",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-23T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Lubrizol and Polyhose Launch Advanced Medical Tubing Manufacturing Facility in Chennai to Strengthen India’s MedTech Industry ChemAnalyst.",
+      "ingested_at": "2026-07-18T13:24:56Z"
+    },
+    {
       "id": "9a5fc30786092a91",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0lZQWl1SWdPR0lOc1pYajJIRFQ4SENwd3VVV2VQbFBUVmhCWFNLQzhwZzYzZzlJcThTUFozVXVjSC1EektfMGVwU3o2amNTZVJjaXNkYTI2ckZsT0E5TFpIWVdIWXZXTXJKY2JHNUlNUVZNVUNVd1pCY1J6bkhoSkhVdUNvc3pnQ3JVYUNCRTBMMWt4?oc=5",
       "title": "OpenEvidence will add FDA-cleared AI to detect heart disease - STAT",
@@ -6866,6 +7185,50 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "a9500a4c7996a0a5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRVdCQUE0YkE4blFQcHdqSU81enU0Nk5kYnk1N2F2THNmVldYMmdJX25WWU85Yi1sUTYxdXFxdlVQZ2RrU3Rma3JkUnRaMUdHVmZFS1ZUbzUxSkN4aWJaMDNKUG81c1hRR2tvYl8zR3k4VmpZQkx3SXlGV3YtWmZDdUdwMnFGeDYyOU56MkZtdVc4Ykl2cWRNX2pPZ0FReW1SZnJzaVVVVTlGZlpUNUw5YmNCR1F3eGtoQzJTN2I1MWt2ZTA2SEV2WXZaNVBkQXo5bnRR0gHYAUFVX3lxTFB0Y08zRlR3QlBxNmVCb1NWTnVzWXZUM0d2V3RIaGV1MUpKbWdvc3E5bUZrM3Q3Qld1c2hZdkRhQ01IakZSQXRoNzEtRURSZUgxM2xQRnlSRFM2bXVrdDlrYnpzZFh4V0k0Y0NQNjViazdIcGs2eElJTXg4dGYxX2FKQjlicDMwb1JhWUJhbEtialNtMG96enVMcGZqaS1mT3FiZ09SZGZKbEtvNTNnMC1oaVNTY3lsZWNRRUxnUVhTS1h4cGhQRU5UUWdoWms5SFFPdWpZd2xrdQ?oc=5",
+      "title": "Digital Healthcare Revolution Gains Momentum as India Pushes AI-Driven Diagnostics and Telemedicine Expansion - boldnewsonline.com",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-23T05:53:24Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Digital Healthcare Revolution Gains Momentum as India Pushes AI-Driven Diagnostics and Telemedicine Expansion boldnewsonline.com.",
+      "ingested_at": "2026-07-18T13:24:56Z"
+    },
+    {
+      "id": "3436e73043177089",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEp6eUhwNkk4SHJ0TmhtVUxRcTRZdUxwb21lQ0ZPd3dFUGZEa1h5bjBSZU5VbF9WWGhfamRyU3VxWFUybEVDQTcyMXd4bjVkV2ZBTW0zX1c2RG5TQ1d4MFVYZ29VcXI1UUhxU29VX1hqYm1kaGZmblJuLXNvdVM5UkJqLUJhUjFSemFlSG5PMDA?oc=5",
+      "title": "Digital Health Tools Are Reshaping Healthcare in the United States - NYU Langone Health",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-06-22T07:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Digital Health Tools Are Reshaping Healthcare in the United States NYU Langone Health.",
+      "ingested_at": "2026-07-18T13:24:57Z"
+    },
+    {
+      "id": "bb058906ff5bdb5d",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFdEa1g4Mm5QekNNT3kxWjJ5bEdCSWUwZ1FGV1dUdlRxelVVSDJBOW16RzRzQlFGLUVTR1ByenVYQ09OTnpsTjZJMFZWcC1PTHMzelRQVU82emZDNWFSQ0hZejFRYnBiMWpsM0JMX0diTlFwc3dnN0JZbFJsRmFDNmpWbEtWOFZVZHo3THUxN3FzWWkxTXp6X0lQTFQ2dGppdGRxY2VGaGNVaFJOeDVZSnl0eElrSC1DUXlLdnNSMWE2N1hXOVc0RGhGeTI5UmE4WEZDTVdRRy02Zw?oc=5",
+      "title": "3rd Global Convening of the Global Initiative on Digital Health (GIDH) - World Health Organization (WHO)",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-06-22T07:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "3rd Global Convening of the Global Initiative on Digital Health (GIDH) World Health Organization (WHO).",
+      "ingested_at": "2026-07-18T13:24:58Z"
+    },
+    {
+      "id": "7565b9992988a51c",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFhIeGJMbFBjMjBnTFhCUk1tMW5Vc1Q0eWJNcEtwcXVsaVhENkNOOGdvUWxuRW1oVkRsejA3Yl9yTlZTRXQ2Y3NlZWtZUm9EY2JIYUZoczZESXMyR1M1WVM0WFlBTUdjN0MxOGNUZm9BSjB3RmZQM2dSclZYQUpwS0pCcVU?oc=5",
+      "title": "Agentic AI in Healthcare Market Size, Share | Forecast [2034] - Fortune Business Insights",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-22T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Agentic AI in Healthcare Market Size, Share | Forecast [2034] Fortune Business Insights.",
+      "ingested_at": "2026-07-18T13:24:58Z"
+    },
+    {
       "id": "2a3844af0fa98587",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMk8zVmJwMEtaMERFWUhlWW1NMXVWaTZib0lDMC1jV01XY3IwTGRtMGZsaFBJV3E2bXJmYlVNOG1wSGhla2NldTAwZUhQaE1VZFNGcmlrcEhXNmZEem9HeUN1aFdtVVNUY0VWRlZuZmxJY2xWakI0M3FTTDRtanpWaXdhLTNHeDktdk80Uk56RFM0Zk9rQUVUS0NUUQ?oc=5",
       "title": "Sanara MedTech (SMTI) Stock Gets Fair Value Bump As Analysts Back Wound Care Growth - Yahoo Finance",
@@ -6910,6 +7273,39 @@
       "ingested_at": "2026-07-17T13:49:33Z"
     },
     {
+      "id": "6ef3394d13cb4955",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IR2l3SHF6VlR5SF9Rc05NcTFlSXpEQ0t1bFp1NDJiS0dSZWlUQkM5d0s3YThBY29GWW5FbUptWmhFRzliY21JRUdjaHB0Znc?oc=5",
+      "title": "Ayushman Bharat PM-JAY Reduces Catastrophic Health Expenditure and Out-of-Pocket Costs in Hospitalized Patients in Haryana, India - Vera Health",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-21T22:28:29Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat PM-JAY Reduces Catastrophic Health Expenditure and Out-of-Pocket Costs in Hospitalized Patients in Haryana, India Vera Health.",
+      "ingested_at": "2026-07-18T13:24:59Z"
+    },
+    {
+      "id": "08dc08cdf63824f0",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFc1My1mLWE5bmVfTHc5dURjSURLZWVvU2l3Tm0wd2NwUzZjd3ZRNUJxUUZmVVFRR3puZVN6Nl93b05PajItVmxjSUxPOVdEN21LbkczdVdNRkxSb1VsRmg1RFpFZGdIZ2VUVXd4R1lWLWRNUHZqVFdKcmJXZVRPMmRFQUwzQzN1MVRwLUV6a1hzQ2QyUmszZjNXdGFsNDU1WFhDTk5yZGFYSVowaVNlelBVVm54NmVaSmwyVlo5ak9kd1dCaVp1RTdSMWJLNFpUOUM00gHYAUFVX3lxTE5SemFrRXFfV3NLOUZXR1lCUEVNUW9hQ1Ridm85bGtwU0hqM1lFVUZOTUlfQTQ2cm9jZFJZMzlQNU9HTnAwbjVNakcteEMySko3aHh3WjRpX2RrcXZRMEF1YTV4ak1MMkRzZFNCM2Q2OW13ZnBDRmotdnZuRHdlUm1UZjdvU0F4cFZwY1VyZ0Q2SUwtaGM4bGlQTHVKUkRaMmdyZThFMlFCakE0czNBZUlDTS02cFBFVWJObUZGb2h1UkppbG9KbTR5WXk2dTVrRFVhLTA1aGJURw?oc=5",
+      "title": "Jammu & Kashmir suspends cardiologist over ‘false’ Ayushman-Bharat claims - The Times of India",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-20T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Jammu & Kashmir suspends cardiologist over ‘false’ Ayushman-Bharat claims The Times of India.",
+      "ingested_at": "2026-07-18T13:24:59Z"
+    },
+    {
+      "id": "4550a427c36866cf",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hSncxSmtldmZ3aVBIZjlDanF4S25nZmt0LTZ3bW0yTFJaaEdpa2dDMF83VmpBZkJGU05tRDVhZlFSR0NpX25Xd3BOcWpZOElzbVJsVkYtWjNMLWl4WE9tVDFzMERGTTVHNm5rcFNQeXNVLVBfS1luQ1dn?oc=5",
+      "title": "West Bengal Becomes 36th State/UT to Implement Ayushman Bharat PM-JAY - PIB",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-06-20T02:48:57Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "West Bengal Becomes 36th State/UT to Implement Ayushman Bharat PM-JAY PIB.",
+      "ingested_at": "2026-07-18T13:25:00Z"
+    },
+    {
       "id": "17b1f1d1494723e6",
       "url": "https://health.economictimes.indiatimes.com/news/medical-devices/plan-in-the-works-to-let-hospitals-import-med-equipment-directly/131869055",
       "title": "Plan in the works to let hospitals import med equipment directly",
@@ -6919,6 +7315,28 @@
       "country": "IN",
       "summary": "The proposed list has 80 items, including MRI machines, CT scanners, PET-CT systems, SPECT/SPECT-CT/Gamma cameras, mammography units and high-end X-ray equipment.",
       "ingested_at": "2026-07-17T13:49:34Z"
+    },
+    {
+      "id": "8603fbb55505ef79",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWi1yTEtnMlBGSXhqRWtNQmlYdmNSNHVEbzhibC1BUUZ3ZjVlczNfbEZ2TkM2T0I5cG43RmdFdkpvN2Z5anRqMktBSW1PQkJSM015WDFCcWhicXBVZ0wydHJJYmtuN2xLajhwenJQR2ZmaWtKaFNiOEVnSTl4bDY2QXIyaEZvNTROREs5UUMxM3VlUWIydThWcXlTSEpGa0hCbGRHd1VWTTNQaTJPd0lrV2NrRl9tbWFhbDhXRmZCZ0pBRDZFTDFHRjMyN3dBeEl1eVhaOWR3?oc=5",
+      "title": "HealthQuad Announces First Close of ₹550 Crore Fund III to Strengthen India’s Health-Tech Ecosystem - CXO Digitalpulse",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-19T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "HealthQuad Announces First Close of ₹550 Crore Fund III to Strengthen India’s Health-Tech Ecosystem CXO Digitalpulse.",
+      "ingested_at": "2026-07-18T13:25:01Z"
+    },
+    {
+      "id": "ef68a6a71b0a3774",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQenZqRnFQZjlSSzU1OHZTZFdjUVdhWHdSVUh1LVVhd29DWWFFNlhiX2ZVUThFaEVOVzl5c2VxaVlqNEYyLV9BOUxPeE5CNWFfQzJ2V0RCVnZOTXoyeUF2S3BCNEVQbFhmdHVyQk5SSVJzLWJiOFFGdWVmeE04V1BBWmJDcVhFQUQyVFQ3cWFNWl95MHJlUUlNZ1NERnYzWlZ4bFRLMlRmcExiUFpFT0lIMWUzRFA1aERhYjJ3djZOcjVwVTEtZW4xMkFQdk9oTzJmdFJCaWxWeFoxVmhEUGItaTV2TnVFTGJKSkY3NUxOY3BYNXZXSmtRRFdOWlphbUd5NWFKWVZNOTY4dw?oc=5",
+      "title": "India using technology at massive scale for financial inclusion, education, telemedicine, agriculture: PM Modi at VivaTech 2026 - ANI News",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-18T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India using technology at massive scale for financial inclusion, education, telemedicine, agriculture: PM Modi at VivaTech 2026 ANI News.",
+      "ingested_at": "2026-07-18T13:25:01Z"
     },
     {
       "id": "3bb205bca63f55e5",
@@ -7348,6 +7766,17 @@
       "country": "GLOBAL",
       "summary": "Coverage of WHO urges governments to protect young people from addiction to tobacco and nicotine products from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:38:05Z"
+    },
+    {
+      "id": "82921398e3e750a3",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcUh5WVFzU1FoOHpiUHBVY0dGdEdYakFTdmhsSTJfMmlvT3V6WjhkTzMwUkM0bThiWWlyTmRjTGp4aXBfdi1tc3NEZVlLMmlQY2dfVkk1LThUSXF0dy1hamtxOG1RMndVdG9GZDZhYVR2bEpXSXhfRW5GcXpSRmpJQ3FkR2xqMnB0VnZOWjA2d1Jpd0d4bWhLaW1RNjRiblQ0TmRkTlR1M3ZCZWFQalZQTEVneFlyQUR5dTZtbmZEN1c3ZVEyYngzQ2pXVjFZQ2lpaWh1eHg2U19CVUU3S0Zv?oc=5",
+      "title": "EU co-funded project UNITE announces first digital health winners, as remote care and data-sharing push gains ground - European Innovation Council and SMEs Executive Agency (EISMEA)",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-05-29T07:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "EU co-funded project UNITE announces first digital health winners, as remote care and data-sharing push gains ground European Innovation Council and SMEs Executive Agency (EISMEA).",
+      "ingested_at": "2026-07-18T13:25:02Z"
     },
     {
       "id": "0aa8823181d37180",
@@ -7834,6 +8263,17 @@
       "ingested_at": "2026-07-17T02:57:13Z"
     },
     {
+      "id": "4255bc6e657696ec",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDU0aGZaX0RfWEx0QS1wY0owSTV1OXE5WFRkT21ZMklDamM0YUtxcTB2ZkNOR21GOXhhcHhkZlU4WHdCN0syMkpEZS03eV9fTnAyVkJ4RXdMWnBDT1RQbndyQWlGQ2lCUUJkaFdOck1JRGVzbUVDOXRnSTloNlpzRlJDTUJZVDZsZDk3RlJwbWhxb3RPWjlJYWxiMldXVWlUaDlsYWF3?oc=5",
+      "title": "HTN Now: Sharing best practices from success in health tech for NHS trusts - HTN Health Tech News",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-04-30T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "HTN Now: Sharing best practices from success in health tech for NHS trusts HTN Health Tech News.",
+      "ingested_at": "2026-07-18T13:25:02Z"
+    },
+    {
       "id": "7d8a1c62398289a0",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWG1NVWtUTFIyWm9SeE95WGhLbTRXalJOX2ktV3B1RERacGJNUUl0cTFBN2w2QlZNbnQtampVU216X3JyRWlaMEpvSVU1OTdwNjl0QkF4RzRxSTZManhPaGlPV1J0akNzTEhUa1ZiV25fX2drRjhFczFtX1UzOVQ2SXNVb2U2M1o5QzNnR0tycw?oc=5",
       "title": "Digital Health Market 2026: AI, Telehealth, and Healthcare Innovation - Global Market Insights Inc.",
@@ -7900,6 +8340,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "42e54318f492b550",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMndiTzBsUjhjbmJDMDUxR04ybXFRZHl6bWZfYnZJWmdORy05T2hMR21XSGM2ZllNUFlLUkRRa2sydm01YnhJWWFEZEo2aWQ5aGFiMWVLa2oyV1h0b2p4X1JLUXZrWnBIdER0bDBoM28zYWMzRGN5akZhZ0pTSzI3QVpodDlPTXdldnpBRy1nOGgyMGtvODNwY3RxZm8?oc=5",
+      "title": "NHSE explores home testing via NHS App for new conditions - Home | Digital Health",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-04-24T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "NHSE explores home testing via NHS App for new conditions Home | Digital Health.",
+      "ingested_at": "2026-07-18T13:25:03Z"
+    },
+    {
       "id": "3b106b3a5d2de09c",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNmpHYmF4TmNraGVldUl2NUFkdGhTYzJickF5dlEyUC1ocndlSUN1LUhTa3Nrd2NfVkVuMmlDOUJPMmV0ejhta2FBM0E2blBNUnJkb2x0RmVlSHk2WWtacUc1cDdfUWFTUGpjSVlQRExoZnA4ejVNeGt6U29Eejg?oc=5",
       "title": "The Insight Series: AI & Digital Health - AdvaMed® - Advanced Medical Technology Association®",
@@ -7931,6 +8382,17 @@
       "country": "JP",
       "summary": "How ALLM Is Using AI and Telemedicine to Strengthen Japan’s Healthcare System The Worldfolio.",
       "ingested_at": "2026-07-16T19:19:22Z"
+    },
+    {
+      "id": "11a1803a3b2f6215",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uNTVRbzFSU1MyY1p1UGFUSlg2RGN4cTR2MDBHTHRnVDZGZUxCNW9sUmR5MUFfUDhlVDFOSDZ0NXNTQmgtRlZ0YTdRVGNKaUVxU3VKaUFRZGY1RVhCZkhvdnpHZnlITlctRXFhMzFWSF9vZ1h4?oc=5",
+      "title": "Congressman Valadao's Bill to Expand Access to Telehealth Passes House of Representatives - House.gov",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-04-21T07:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Congressman Valadao's Bill to Expand Access to Telehealth Passes House of Representatives House.gov.",
+      "ingested_at": "2026-07-18T13:25:04Z"
     },
     {
       "id": "1d34ebb0d60521e0",
@@ -7997,6 +8459,17 @@
       "country": "US",
       "summary": "Why digital health fails silently: a sociotechnical theory of health information technology–related risk Frontiers.",
       "ingested_at": "2026-07-17T08:17:26Z"
+    },
+    {
+      "id": "f9a965131f1f5929",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDEtZkt3aHRBNnZ2QmszSzZhczcwc3NwNFl0ZVZna2ZxNDRGa1ZjWnI4dnJKdW44YjNhYWpDTTFEaEdzemtOVjlCM2JhYTkwN1g3Wm9qeFRFTDdjQUp1WEU0N05TT0UxLVd5TkRSVHVxak9DTGlRTEw3aUFRcTlfLTF2V1dQd25YNXM4a21pb1BxajFWeXN2NVpJcWJLQUdjRDQyb2xzdw?oc=5",
+      "title": "Why 2026 is the pivot point for electronic health records - Home | Digital Health",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-04-15T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Why 2026 is the pivot point for electronic health records Home | Digital Health.",
+      "ingested_at": "2026-07-18T13:25:04Z"
     },
     {
       "id": "fa2c6ce5c29b2466",
@@ -8228,6 +8701,28 @@
       "country": "CN",
       "summary": "JNJ Q1 MedTech Preview: Key Drivers and China Headwinds to Watch Yahoo Finance.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "f61d974a47b3e575",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzFBQWVUbTRjVTM3Nk1XUFcwSEdVX0VKOFhyTEVTS2RTTDUxbFptLU9oU3RqYWd2cUx5anEyeFlVRlJJRWNLY1V3UEp4QmtFVDQ0bW9aT3RwOTNDVUxXVFJkTzNveEhzUmNKVE1yVjVfakN5QXJjS0VNdS1TLXVhUDdSand4MFRVaFhHVzdGMmJyRThwd3RnNGVPTXFDek1SY3RPY3UxeXZQdmZpQWk1SEQzaw?oc=5",
+      "title": "Digitally enabled supply chains make recovery speed a medtech differentiator - Deloitte",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-03-31T07:00:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Digitally enabled supply chains make recovery speed a medtech differentiator Deloitte.",
+      "ingested_at": "2026-07-18T13:25:05Z"
+    },
+    {
+      "id": "3d3d9d488aad48df",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkhGRkNycVpKNTVENzdsclktekp5YUJqZm5vSWh3VmtiS3FCc3JzY3VuaEthMHJtWVIwR3FjeVZQOTd6MlhNaC16YU1SVFRWd0l3UmR3S2JCWGRjMmp6UkZMa3c4U1EwSDJ6dk1Rb2QzNEtoOWpmMVNFeUQ5WWJod01SaXJJQ2kzT3lCV1NnS0RIa3RkN1RrXy00RDZ1ZFI2b0VpdXhtSXVuTlh5eERn?oc=5",
+      "title": "Digital health staff will be expected to gain professional registration - Home | Digital Health",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-03-26T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Digital health staff will be expected to gain professional registration Home | Digital Health.",
+      "ingested_at": "2026-07-18T13:25:05Z"
     },
     {
       "id": "f1d757343a07ecdc",

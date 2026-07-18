@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-07-18T13:25:26Z",
+  "updated_at": "2026-07-18T19:11:33Z",
   "articles": [
+    {
+      "id": "1c4b0ca6b61115c4",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXNJelJiU2lWa29VODR5djE1Z05ZRUNOLUFNcS1UNmxteC1WZS00MzhRcTA4NG1UZkRmb3UxUTdKSjcwSHhMZ24zTDF6by1JQ182NXl2WDcweXNfWG5rNkZNaGg5eEJLZWp4VnBSVzRLZTNtRWRPLXhHLUhrS3FRVzhZVE1QZ2tjLWN0M3FUbTc2NEZUcmZGUzAydHRNeXRobS11TWJBa082Nk9ESndaV3pUMWtwODJFNUtxMmYwUjgwaDlhNHVMR2V30gHPAUFVX3lxTE1GX3hOWUwyMHFFa1lmQ3l6Z1pSN1J3U0VqbnlnS3ZQaXVWaUIzOXE4dVljTFlxQm1WTXpyS21oNG9qN1kyRWZKZ3ZyVGxDNTlLVEduUHVkYmpzQmZyNk5kb1g0QWlwT1B4REhXZ0lTZlplTjh2eDJWQ09veGoxcFU5c2dDdjJEQ2lLUDFvTWRLS05sZWYxMjdsX1FyM3RESUFxM29lRkRvQkpUQkdqN1hZLUI4Y0FwbEdaMVNSeUtUX28xeDFXWkZjWlBHN3c3Zw?oc=5",
+      "title": "Ayushman card coverage: 4 NE states meet nat’l benchmark - The Times of India",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T17:36:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman card coverage: 4 NE states meet nat’l benchmark The Times of India.",
+      "ingested_at": "2026-07-18T19:10:47Z"
+    },
+    {
+      "id": "be13c1f10197d3b3",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SeDU5ZWxEdWdQd2E2SzRYREhqZnp6LTFreUNpem1zZmtqc09RTHk5UVp5cVVCN3g5STVvZlpoR2t4STU2R0ttNVpDNXdBU0h0b3JHdWNKbWptVDZuZGQxbnI3OHUyNnVvTUcySUtNOA?oc=5",
+      "title": "FG Fast-Tracks Digital Health Identity - TVC News",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-18T17:36:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "FG Fast-Tracks Digital Health Identity TVC News.",
+      "ingested_at": "2026-07-18T19:10:47Z"
+    },
+    {
+      "id": "81323fd163112ffc",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQck9xZktsYWFYUUpmMGsyQjZpN2x1aGdmUVJnd0dTb01ZVkhidmZEcURDeDJ4S2lCREYtTUZRNWkzSkNJVGlQQ05CU294U2FoeElwUWliM1NXRVpCaW9CUFIyX0JqVTVzbDdVZHpRdFJLUFI3cXdUYjB0Ti0tRkkxR0JXNGIwdm5RV3B2MkJRRVRfUXhvUTdmR2Exa2NpRjNrQUszYktsYVByc2Z4dDYya19VMlI5Z1ZVZHp5SkQwVkVnOGVLeFR1MG84Rm5sUzZoYXgzV2dEbUM5MTNp0gHqAUFVX3lxTE05d2g4TEx6NlBvSzc3a2g1Qk1WNjU2dmNsT2VPWksyVUFLQWhjU0ZYTXVKMUFjOGZXUFIycHVua015ZXpOQWFhMmNUcjU2M0MwRF84YlZVVlhJWVd3NVViQ0xodHY2bWVXT3NxQjhCZFhWZVRfSmZPbmNmM3pyOE5DOEIwZ1N0SG80djlhMURLUG14bUIyNUxvenl0ZjZXM2ZmSXJYM2liY1pOdHc3bTUxVi1GakZmUFY5ZUNOYkNTdmxwQWtnSDFqQlE0NElseUtqd2lMQmJUaElzUDdFRU15bjlCcGNvZ0JEQQ?oc=5",
+      "title": "Need to focus on wider adoption of digital health initiatives: Union Health Secretary to states - The New Indian Express",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-18T16:36:35Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Need to focus on wider adoption of digital health initiatives: Union Health Secretary to states The New Indian Express.",
+      "ingested_at": "2026-07-18T19:10:48Z"
+    },
+    {
+      "id": "a0e5af2d3b27b513",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3g1c2hndHhaek52VE43Zl9aNUpRS0ZzUjVBRlBzem9Bb3JfZGYyRWhTVFg1WnQ2bllQT2NETVlwTDF1Y0VIU0pzV1lTS2F4dUp6MlpNY2RDZVZaVGRORDZsNjNvZ1ZpVy1XZUZiaXZEdW9lZUh6RGhkREZoc0wzN29UVjlKYkppdndhNEtZQ3ZUYzU3a2hYNklRb2lkNFZSQk13?oc=5",
+      "title": "Doctor visits without the drive: How medicare covers telehealth - East Idaho News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-18T16:34:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Doctor visits without the drive: How medicare covers telehealth East Idaho News.",
+      "ingested_at": "2026-07-18T19:10:49Z"
+    },
+    {
+      "id": "2a250d2ca3fa546e",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzRyNENHZkt4WGNpT01WWjdBMEY3Ym15b19wY2Fsbzh6SEdHV0dGVlg0aFNzT3JmSERJSnJBZno5MjFqU0VmYTRWMmF6WWhKaHlLSzdzSFpST0Y3V2hacU9iOXM0TmlLMVVUMzR5Y1BRUDdnbWdjbHNrR0NFcWZCS3duN1dLMkFmaC1HXzY0cHVJel9BZkdIdi16T0Z6eGFvR2U3ams0bFYzWTNVS2JJaUozNW5rbzc3MVFDRdIBwgFBVV95cUxOSEQ4QnRSZWd2RGhQa3hBdDFLM1RmbXlpRUp0ODRaNVNsejNYbm5kQlBxbl9wR0FMak9WemtYN1UyUTN5M1pyQnpCODJuaG9OM1o0czFrV3piSG90YzdUMUFqVmgzYVZMeW0yNmtRSFNXOFNqSzBaSnI0dGJGbE9lOEhKRzdKeTNJU3dYNkc1d1BaUS1VZE82bFRza3JBUlhjNk5MLTdKOGVSekxsWGs5X1lkNzVjTEZKdWIxajlHZmhsUQ?oc=5",
+      "title": "Ayushman Bharat Meeting Maps Next Phase of Digital Health Reforms - Devdiscourse",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T15:32:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat Meeting Maps Next Phase of Digital Health Reforms Devdiscourse.",
+      "ingested_at": "2026-07-18T19:10:49Z"
+    },
+    {
+      "id": "dee644a6bd743b57",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSEQ4QnRSZWd2RGhQa3hBdDFLM1RmbXlpRUp0ODRaNVNsejNYbm5kQlBxbl9wR0FMak9WemtYN1UyUTN5M1pyQnpCODJuaG9OM1o0czFrV3piSG90YzdUMUFqVmgzYVZMeW0yNmtRSFNXOFNqSzBaSnI0dGJGbE9lOEhKRzdKeTNJU3dYNkc1d1BaUS1VZE82bFRza3JBUlhjNk5MLTdKOGVSekxsWGs5X1lkNzVjTEZKdWIxajlHZmhsUdIBwgFBVV95cUxOSEQ4QnRSZWd2RGhQa3hBdDFLM1RmbXlpRUp0ODRaNVNsejNYbm5kQlBxbl9wR0FMak9WemtYN1UyUTN5M1pyQnpCODJuaG9OM1o0czFrV3piSG90YzdUMUFqVmgzYVZMeW0yNmtRSFNXOFNqSzBaSnI0dGJGbE9lOEhKRzdKeTNJU3dYNkc1d1BaUS1VZE82bFRza3JBUlhjNk5MLTdKOGVSekxsWGs5X1lkNzVjTEZKdWIxajlHZmhsUQ?oc=5",
+      "title": "Ayushman Bharat Meeting Maps Next Phase of Digital Health Reforms - Devdiscourse",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-18T15:32:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat Meeting Maps Next Phase of Digital Health Reforms Devdiscourse.",
+      "ingested_at": "2026-07-18T19:10:50Z"
+    },
+    {
+      "id": "d8357115b812d199",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWFEejhIdlp1aFlZNFgxczBmSFd2ZGZYdmlDVlg0c3ZnRE15UXA2a0RpbjVLVmZkUnVRWFZ1Q3ZsaUh0cTQxa1ZrRDY0MngzeVAzOFdVeVlDUnVnV29ZM0p6aENGY0VjdDRsVVJRRFRacWNDcU5uZ2dQNWtlajlOWnlTZy1rRnFZckVhNGgxcnlUdUVmWWVKRU01RXZrZHJaWDRpbnVn?oc=5",
+      "title": "NHA outlines next phase of AB PM-JAY and ABDM health reforms in India - The News Mill",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-18T15:22:24Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA outlines next phase of AB PM-JAY and ABDM health reforms in India The News Mill.",
+      "ingested_at": "2026-07-18T19:10:50Z"
+    },
+    {
+      "id": "4fa3706519df257d",
+      "url": "https://www.thehindu.com/sci-tech/health/paris-region-deaths-more-than-doubled-during-june-heatwave-health-authorities/article71238528.ece",
+      "title": "Paris region deaths more than doubled during June heatwave: health authorities",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-18T14:36:47Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "The heatwave swept across Europe, breaking all-time temperature records in several countries.",
+      "ingested_at": "2026-07-18T19:10:51Z"
+    },
+    {
+      "id": "ae7726c4f3856604",
+      "url": "https://www.thehindu.com/sci-tech/health/fda-approves-a-first-of-its-kind-pill-to-cut-cholesterol-in-high-risk-patients/article71238486.ece",
+      "title": "FDA approves a first-of-its-kind pill to cut cholesterol in high-risk patients",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-18T14:29:54Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "The FDA reviewed the drug under its program that promises ultra-fast reviews for promising medications that serve the public interest.",
+      "ingested_at": "2026-07-18T19:10:52Z"
+    },
+    {
+      "id": "58dc478c3b3a1366",
+      "url": "https://www.thehindu.com/sci-tech/health/monsoon-and-newborn-care-what-you-need-to-know/article71205589.ece",
+      "title": "Monsoon and newborn care: what you need to know",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-18T14:23:42Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Monsoon and newborn care: what you need to know from the health-tech news cycle.",
+      "ingested_at": "2026-07-18T19:10:53Z"
+    },
     {
       "id": "16ff7981282b5d1b",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbThMWjVkajFRZGJPQ0hIZ2FkeWNSRUsxc1VhcV9PdWVXNTB2X09XcmZLLWctUXYtUmZ0QWRzck9leFdnWmpROEsyTUZJZGY4bDFQa3dycjJ5M0k0NFRhWVc1bVRlcU1CeXV0aWtpZG9KeUl0VHNkZS01T2dTYzRSc2hJWHJtc0nSAYcBQVVfeXFMTW04TFo1ZGoxUWRiT0NISGdhZHljUkVLMXNVYXFfT3VlVzUwdl9PV3JmSy1nLVF2LVJmdEFkc3JPZXhXZ1pqUThLMk1GSWRmOGwxUGt3cnIyeTNJNDRUYVlXNW1UZXFNQnl1dGlraWRvSnlJdFRzZGUtNU9nU2M0UnNoSVhybXNJ?oc=5",
@@ -11,6 +121,28 @@
       "country": "IN",
       "summary": "Odisha brings cancer treatment under Ayushman Bharat orissapost.com.",
       "ingested_at": "2026-07-18T13:24:40Z"
+    },
+    {
+      "id": "52c7b2782cc7dd21",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jY1cxZnNVeWxLcnZRZ3VPVVFmWHFKSTJmQkFpckNQaWwxLUhQLWJZbUNLU0w4TEo0WXZtQTEtcFkwZ0ZJY1FqQjlpYU45UDBZaEtmSGNZRG1FNmdNNUVnVU1jczRXRFQ5YU1uVFppUC1jb3NO?oc=5",
+      "title": "Rajnath Singh Says e-Sanjeevani Crosses 47 Crore Teleconsultations, Highlights India’s Digital Healthcare Growth - The Impressive Times",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-18T12:44:35Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Rajnath Singh Says e-Sanjeevani Crosses 47 Crore Teleconsultations, Highlights India’s Digital Healthcare Growth The Impressive Times.",
+      "ingested_at": "2026-07-18T19:10:54Z"
+    },
+    {
+      "id": "8a028034a9363644",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0JDYTZZd0RUWGVJLUdQbHAwMkFxdl9sMnZEUlppeDY5NDE4NEgwazVBZnNjSHlkSkN5WmZDM0VTdm9nN1Z5cEMwdXZlUmwwNWF4VnEyT3lpRnN6dWVDdndEUndiVzdoUmFPUjhoNDJ3N0MxaGVyWTdOTlNqcGFkRS1BX3ZnQTNRQmQ4?oc=5",
+      "title": "India Reviews Next Phase of Ayushman Bharat Health Reforms - OpenGov Asia",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-18T12:43:15Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India Reviews Next Phase of Ayushman Bharat Health Reforms OpenGov Asia.",
+      "ingested_at": "2026-07-18T19:10:54Z"
     },
     {
       "id": "a5ca03863307aaa8",
@@ -99,6 +231,17 @@
       "country": "IN",
       "summary": "Transforming Healthcare: India's Digital Health Revolution Devdiscourse.",
       "ingested_at": "2026-07-18T13:24:45Z"
+    },
+    {
+      "id": "91e8d63d6bd8acca",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPM0ZJMFM4d1I3NGpIQzRnb1gzMHIzamxaZ2FPSktVdTI4ZjkzcFNzRGcxQUt5Ni1weGxhazRnYzVudFFXdy10b052ZE1xMGpJNU5hSm9Jbk1mZXFYbUdVd3dXS2RiV2Y3eHdBSHFzNUpSaThsRTZYTGVCT2Q1Qmlzd2lUc0pUcXloSTRCdE9FM2ZJalQzNWlxek9aXzBzSFg2bHY1bWdKVUNsUVJ3Um5xbUIzZEFnSS1XRjUzZVNBUVhUbWtNNHBCd3JSeF9TbjBRQ2NYOWUzd1kwZ21Xc2JtSWl2MDRiR2V4azNnLUx1MmdLSU1HY2lWeWVEU08?oc=5",
+      "title": "NHA Concludes Two-Day National Review Meeting on AB PM-JAY and ABDM; Centre and States Chart Roadmap for the Next Phase of Health Reforms - India Education Diary",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-18T11:15:19Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA Concludes Two-Day National Review Meeting on AB PM-JAY and ABDM; Centre and States Chart Roadmap for the Next Phase of Health Reforms India Education Diary.",
+      "ingested_at": "2026-07-18T19:10:55Z"
     },
     {
       "id": "3f6fe23fa0e27b3a",
@@ -6217,6 +6360,17 @@
       "ingested_at": "2026-07-18T07:59:02Z"
     },
     {
+      "id": "1c1d9c427f7f52ce",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcWxQb1lxTHFDRF9WMnBLWl9rczBSYTRnTGFMMi0yXzg3YTJzTDkwd0F1Rnhqel9OQWRHOHpJRUU2bjBPRTRNMFNzdHBHUHA0Tnl1YmwxUUZkaDIxY0M2eXJMQlc5WkhHNktIdk42NUI2MFUyZVhrRW5DMTJBeWxMU3o4bktJaXg1LVllUWxPYjdWMzR2dmwxcGRPSU9CNmhSVmpDY2RIaS1kUjgtWmZiRlhYcEJHSVNUcE5BQmhVLVVOVVMwTFlKR2NoZ2hfVERfWDhlb0J1cVdobk9xVlhDT3pXclVkQndyNTljejBMWTI1c0J2?oc=5",
+      "title": "Ayushman Bharat Digital Mission emerges as one of world's largest digital health ecosystems with over 93.95 crore ABHA IDs: J.P. Nadda - DD India",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-10T10:43:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat Digital Mission emerges as one of world's largest digital health ecosystems with over 93.95 crore ABHA IDs: J.P. Nadda DD India.",
+      "ingested_at": "2026-07-18T19:10:55Z"
+    },
+    {
       "id": "257d8ed10c4640ce",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC15dHRBNFgzLWVMOUljTXRHa2V1bExGek50VWM1Tnh6Y09vZGh1WlR0YTBxVzdVV1M1dUNiYlpKWTJmdFF2ZjdwelU5S3VxclloRmM5ZWFrREk0dmQ3VnhmQkpJZVhJU3UxLVFNNERRamNTLWotME0zblYtcS1mMGVvVkg2ZTIzNmpwWlRWZFdHVDhFOXhqengxMDl1dEpT?oc=5",
       "title": "Digital Health’s monthly roundup of contracts and go lives - Home | Digital Health",
@@ -7394,6 +7548,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "9221fc69bd507855",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkthLTRZTDRveDN3QURhU1hrWFc4dy1HRDhWTFhXVURsUE5ENXRMcDVLek0xZl9jNjFOUnE1RHNPc3V0ZzA5Q3A0UlFaSHc3UUU2YVVaYy0zNXdyeXd2QkJycndROGVyTWhIWjhvMlZpYWJmQkFHenVsdFJnZGZwRlFVQzNfRGZtTnFhbjNGaGdsZGVTdURGUTJseWwtU0FFZVdGZzR3?oc=5",
+      "title": "How to Apply for Ayushman Bharat Card? - Upstox",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-17T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "How to Apply for Ayushman Bharat Card? Upstox.",
+      "ingested_at": "2026-07-18T19:10:56Z"
+    },
+    {
+      "id": "03fcc53a164b2156",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CcFdvaHNYM3JOTEhhVHNJMFNrQXBSUXRtSFdjS01pbG5PdWk3VFhDNzk5bHZHX2JVcEhJTHZWcHg3Vk9xWUNUS2ZZZWJEZXpOc3dmQVlNVXE2MzVEMlhPRnl0ZTJOQWh1M3U5ZUtFOTlRSldWQTJOWGV3?oc=5",
+      "title": "India telemedicine market to hit USD 19.5B - Medical Buyer",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-17T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India telemedicine market to hit USD 19.5B Medical Buyer.",
+      "ingested_at": "2026-07-18T19:10:56Z"
+    },
+    {
       "id": "84758889fe5abd83",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYldhcEdFaFFJX3R4eHBIMFBjS0Foc1o5eWJXT1B1Snc4dFZmemZVWkhnd29MMWdlSG9EbkdnMzZ4X2o5OHluc0VFbmRoR0VKNHJieWFCTUx2NTE3TDBMdktBSlRLRmpDaF9uRUIyV05aVm91c2E5Z1o0cmcyaEx0YndodVhxai1YazNzbVYtRGZuU3NNX0M1N19DY29BUXFZRE5KeXViWWwzc3dyVmNxUEwxYmUxXzltTDh3TXFtSjlBczl6enZTcGFQQ2ZDNFVkd1lEVW03Y3hXTXNJSzFGNENMdW12LUVlcnFpSnYzMng?oc=5",
       "title": "Accenture to Acquire Alfahealth, Expanding Digital Health Capabilities to Accelerate Healthcare Transformation in Italy - Accenture",
@@ -7438,6 +7614,17 @@
       "ingested_at": "2026-07-16T19:19:14Z"
     },
     {
+      "id": "4507e151583f35dd",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50c0NhWDlGWERkYWJjSnRGdnJXX1MxWE91MEg2eUNJdDVJR0NCb2l1ZjlQYnk5M0R4Sm8wc2Z0X2hwZzR2bFVKN29vY0Y4dHVpY1VSZnkwWmpTMEwxdENuU0ZicFFMWUNvZU1WUFNEN3RhZXBhaWowWjE2OA?oc=5",
+      "title": "AI in healthcare market to hit USD 1078.42B - Medical Buyer",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-16T15:45:54Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "AI in healthcare market to hit USD 1078.42B Medical Buyer.",
+      "ingested_at": "2026-07-18T19:10:57Z"
+    },
+    {
       "id": "a910ec4ddd1b45ae",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose",
       "title": "FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose",
@@ -7447,6 +7634,72 @@
       "country": "US",
       "summary": "Coverage of FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:37:59Z"
+    },
+    {
+      "id": "62d7d73199e9d8a8",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0RkN0VlWEJqN1J0c290S3VBeDUxSlJLbFFhUFV1VHI5TEFxaXB1UmlpSFJtYkJhRDBnX3YwanBSYXJFb3ZFSktuTmNXS2FlZkgwOGxENEtIcmQ0ZnVkRHMwSHhSR19JY2pZY3pjM3Z3LVBXVng2b00tWEdVZHNGWDZMX01rRHo1VGJaS1pzOERuWG9iTW1z?oc=5",
+      "title": "DHN - IHLD Medtech Secures Investment of $3 Mn from UltraGreen AI - Digital Health News",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-16T10:52:58Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "DHN - IHLD Medtech Secures Investment of $3 Mn from UltraGreen AI Digital Health News.",
+      "ingested_at": "2026-07-18T19:10:57Z"
+    },
+    {
+      "id": "074e8addfc004fdd",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEFkWl9rOUdWTG9tQld1WGJIQlIxd3RtM3F1d25yMFpOUkktRWREQTJoeFlnNWhseUdhWGx5bVpkdVVIYXN2bWFQSlZWbDdnQUF2MGcwSXl1X1VNTW1qcl9oWTd2NmtfZ0Y0XzFQZmpmclVtZGRLM2ZfbEhwbU1Gblo4d0F2blR6NkVURXB2SEEtZ0JGcy12cGsyV1VMZTY5SzdIOTVDa1ozMW1qZDFBMVllRmVGemRJN1E?oc=5",
+      "title": "AutoVRse Secures $2.4Mn to Expand AI-Powered VR Training Across Global Pharma & MedTech - Digital Health News",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-16T08:55:32Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "AutoVRse Secures $2.4Mn to Expand AI-Powered VR Training Across Global Pharma & MedTech Digital Health News.",
+      "ingested_at": "2026-07-18T19:10:58Z"
+    },
+    {
+      "id": "e26cf884a38aad75",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0VHVXJiNEhuTWdQd052dGJxbEFKQXhYYXJJVXRPNVZCbmxRaDVON3lMZU40RHdwSGdEdU1MRERYNjFQNVFQcVhpYmwtdHJIeHhTSEZKQ25MX0F5WjhROXRCTnlyMmcwcjhyRWdvZlJFSlJwaDNvRmk3Sk5GM3loeVVkcTcwemk5bjBNbFVoSUhXaF9CdDRSU0FZbjJ3R05lcnlsak51bGxCc1dSekxuN1hrWnZ3RjdxaWFjSjhTYm5SeVBmUXVuZHlqVGXSAdIBQVVfeXFMTUF3blFNRklFTDlzdTVPZF9saENaNDB1QUthanRRel9aRTVQRVc5MjMyaC1weV83bnNwaEUwb19oWXJRQjJyVkRWT3ZwNmNvazlHcHd2SmNBZGxpNEh6QVpucmp4QnQ0MmVKZmJpZVdkN3QtOGJwQ3ZqY1U4VkFCTHBnQkFLcFF6Z25hYTl2a1NTVk14TDVWa04wdXp6NlZ4c0JjZGItRDQ1YWt2REN6YmZBN092TWx1V1d4dGVuRUdfTW1UN0pDU01CNzRXZkdIclJ3?oc=5",
+      "title": "MedTech innovation programme invites ASEAN, India startups - ET HealthWorld",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-16T07:00:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "MedTech innovation programme invites ASEAN, India startups ET HealthWorld.",
+      "ingested_at": "2026-07-18T19:10:59Z"
+    },
+    {
+      "id": "c3f4867dc5dbcdac",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOWZCMVRfdDZiM29iS1BxVjIwaG5Tc09JZG5fOEE2Zll4eFoxdU9wMncwWF9KT2xrMDFnWDFMbmpJRld6eURYc2NwMjhjZnRsa09xQnI1MHJ4SjlxdmhxeERmbks0RUtHZ2dWZlZfbGtFZVFZY0k4U3JpdGk5Mk1KWGlfRi1JTmt6SjJEdTBqUEhZN09iMUtwWDVUU19EaXo4NU80ZlhrcHhZbUJtZEx1Y09CTklralpTUngwY2s0a0N0VDVWODdLSFo2cVlqZmI1aTRDWTRxWHNRNlpNc2VnVWhXNNIB4wFBVV95cUxNOWZCMVRfdDZiM29iS1BxVjIwaG5Tc09JZG5fOEE2Zll4eFoxdU9wMncwWF9KT2xrMDFnWDFMbmpJRld6eURYc2NwMjhjZnRsa09xQnI1MHJ4SjlxdmhxeERmbks0RUtHZ2dWZlZfbGtFZVFZY0k4U3JpdGk5Mk1KWGlfRi1JTmt6SjJEdTBqUEhZN09iMUtwWDVUU19EaXo4NU80ZlhrcHhZbUJtZEx1Y09CTklralpTUngwY2s0a0N0VDVWODdLSFo2cVlqZmI1aTRDWTRxWHNRNlpNc2VnVWhXNA?oc=5",
+      "title": "Startup Roundup: AutoVRse, Maya Research, IHLD MedTech Raise Funding - TICE News",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-16T07:00:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Startup Roundup: AutoVRse, Maya Research, IHLD MedTech Raise Funding TICE News.",
+      "ingested_at": "2026-07-18T19:10:59Z"
+    },
+    {
+      "id": "2cd3357aa9e93d68",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHhUM0wzN2hNRTlFNzJZbTNGbnA3Skp3UUFVMm5qeC1XTXpkUVJQQ0hNSGNTRWtkb3Y4MkY4Q0VJWFZQNllfdG5KeGNRa2VtN2JiOVVQdFdkeGdKcC1MTGZRanNQZjVkOVJnZlZzNFE0Zmh4aDMzak1OM1lPcHBvQ2FLVGtwSnQyNzhLVHZDdzAzYXBNazZCcGJObjU0SUl3V2RrV1JlWDNMMlRkM1NtZXMtZ0J2V0NSek11ZGRPbzZrYkMzRlhKUFQxSUM0QVJfdERtNmZ5LWxwdU1SWFR1OGk2cGxrM3A5YUQzekZ2WGI0SEo20gH6AUFVX3lxTFBZZkFjaVdUZDN6THZwa09wY3F5NkRRWHdyeF9NTzl0RzJzY0xUTFhCVjcxZHMxTkF5YUZEVEtEUWo5SDR3TXFoX2JJZ1FqeXpiVENDQkMtb0wwTUtXRGllM3FDb3Z4MVdLekxheWF5TlRyUUoxSG9qUnNJbHdrbUo0bzNrN0JtZ19kYWc0OFNyOVp4VFB3M1N5ZTVOckFWbzBaVDhibEU0Uk53UGhyQVVtRGtTRVlhdVpnYWFETTBTVEdxT3Y4X2FZZWVsLVlkcWtyYjFEbkJVR0lQOWdwY3dkUVVYRVF5UmNJclhJRnF0VVg4Ri1kZDZqM1E?oc=5",
+      "title": "Ayushman Bharat card: Eligibility, benefits, how to apply online and documents required for PMJAY - The Economic Times",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-16T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat card: Eligibility, benefits, how to apply online and documents required for PMJAY The Economic Times.",
+      "ingested_at": "2026-07-18T19:11:00Z"
+    },
+    {
+      "id": "fded27dfff6a337f",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRkw5V0swRXdkVlQtSXNZYWNHWWNvNkM0MVhjZnBGeUc4bjlGUWZIbWJqamtjbUVFeHppZ0tVUmxOYUtaamN1SUN2bWgwUGx0Sk5fWEdPSjdieHNOUTRVQVVsM0U5WXFROFdBTUdnLU5sNGpQdzM0MVlCWk8wMUdrdkdpWEdkVmx4eUNlMDJkeEpGU0VieS1tYWxSTXBaNDNsLU0zM2lVRFZjYXo4ZjFCdjVNeHphaXZFVWVLVTByVGo3TUkySm5PS08yZDdZcXFUMHc5em90c01uZjlkci1Bd0tfS2trUGpCd2tVXzVESXptWlFKajVV0gH8AUFVX3lxTE95ZnkwQ3VveFN4RzhEY0YyS1I0TFJRekZfUFZubzdManMxQkVscEtXaWNaWUZnMGpzUUcyaDQwSGRhLW9PeE9NZlJTMFBnWTBaNW9TU09fM24xMTNVTEZqZkxjQ1hUNUF2bUJLa1gzaXVzay1vT0NmY1J6Q2d5NjZnN2NLS3c2SFdjVS1TVkNPa1VYbWNNbDc0YVFCMHc4c1dyT0JoREdVSlVQMGJjWk1yY1psTUFaN0FRamdmMDFxZHMxTnc4Wkc2QzdncGIta1FuMzQ5eTIzTjJOM05YbmRyRUZDU01PNFdCTXZieUthMmNrc1dtNmpXeGhHUw?oc=5",
+      "title": "Rush for forms at scheme camps amid heavy demand for Ayushman Bharat and old-age pension schemes - Telegraph India",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-16T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Rush for forms at scheme camps amid heavy demand for Ayushman Bharat and old-age pension schemes Telegraph India.",
+      "ingested_at": "2026-07-18T19:11:00Z"
     },
     {
       "id": "47c1e298c67d022c",
@@ -7493,6 +7746,39 @@
       "ingested_at": "2026-07-16T14:38:00Z"
     },
     {
+      "id": "db8653ea2b12f425",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0hCLTJ4aE1uX0V5M3FSdk1jQnZuR3d1UkhzYkdrWlRsZmZ6OVhNUzU0Q0l6a1dLYjN4OXRMcS1zc0FRV3pHQkNYb09wSnRUbGJPNHVDbHlhSHJ1SlVpd0VUaFBNWGhtWW1PS0gtd0x6cUw2MVExVUVFZGJVMUNRWGhqZWtlTjdadmFIU3p2QmhpTWxBMm85anVYcmxDTlVTNWI2enItYWc5R3V4bkhwM014OTdBZDFpVk42WA?oc=5",
+      "title": "IHLD MedTech raises US$3 million from UltraGreen.ai in strategic investment - expresshealthcare.in",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-15T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "IHLD MedTech raises US$3 million from UltraGreen.ai in strategic investment expresshealthcare.in.",
+      "ingested_at": "2026-07-18T19:11:01Z"
+    },
+    {
+      "id": "f55fc0882d1782e6",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXRtelJqQUZkczEzMXZSVXRvUFlyVzNmUkpRc1Z6akhmYVluYmRWVV91enBlRkpEaTl4eHg0dDhhY1R0Zk8yQl8yS00zU0hiNlozWm5jblJoWmN5akNtWUVPX1N1eHhmeHlTN1B6eEV5alZ4eEowWkMtaU9uQ2NPU1VhaEg0dzZ6?oc=5",
+      "title": "Startup news and updates: Daily roundup (June 15, 2026) - YourStory.com",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-15T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Startup news and updates: Daily roundup (June 15, 2026) YourStory.com.",
+      "ingested_at": "2026-07-18T19:11:01Z"
+    },
+    {
+      "id": "302b4f1fc9190764",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRld6a3VGc2JTeEF1bldqUWpkbWRDV1RrSHh4VGotRW1JX3hxMk05RFNYN2pQQVJldzdyLXZOY0ppUTd2bUhzODhyOWFmSUw1ZUxqT2h5NmpxdXJONUJoXzVpa3RwRXhhbzJHbVhuTV9aYTB6ejhvUFhiZHRyNFpKQk9yUlVRTUJ3YzRIdFdUdHJVTDhqMjRGT2xsQzlNZnVVbEFTV1R0Z3RPYzhLdnpvWE1xbmRPQmQyWUl1QTZkTmVZVkZUUzVZWjNrUjlRZw?oc=5",
+      "title": "CHAKRA & Telemedicine Society of India Join Hands to Strengthen Digital Health Education Across India - Digital Health News",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-15T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "CHAKRA & Telemedicine Society of India Join Hands to Strengthen Digital Health Education Across India Digital Health News.",
+      "ingested_at": "2026-07-18T19:11:02Z"
+    },
+    {
       "id": "11b5bf105fca5a51",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWGhKRFVTdkd1dmVadC1scmtWeGtZRlRWbHpWV3JKM3UyZVdqdW1OMFdubVkxQjhQS2tlLXJWbk5MRWxael9FbkVpSjBMemxzSExlN0o2Y1VSTTl1SUhEVTlKWW5WdEZwYkdpSmN5MFQteWxuUVFzQ0FhV2hzZlBkcTNaSzJ5T2dqUDJDWU9YZ0FaWjVLSFNpdHMtdkF3U0dSSFd4U3NPUGpPb1djNFBtNHVManltWnd1ei1QeWxFLXpWbnN3?oc=5",
       "title": "CMS creates new health tech office to lead interoperability efforts, digital products - Fierce Healthcare",
@@ -7526,6 +7812,28 @@
       "ingested_at": "2026-07-16T19:19:15Z"
     },
     {
+      "id": "4f366842b84fb9ab",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY1ZEaVNmejRrVG9UVHVRYU1ZQlpUZkNwUWdDTWZkMUp0UXN4YnA0MjYwLVVUN01IVzlnX0xBcG9tVE9uazZsa1pVVmdJYmw4WVUwWE9QZTNIdkdpMGtaRFp6UmRWcFZjd3BDRVpOVzg4dVNkM1ZZaXFibHRLclAzZ0dyYmNVdGNid1lxQTA3RFRNSzhWN3R5TXJsUFU3Qld5Q1lRa0R3ZXhmZE9GY3Z3QkpnU0RHc1N1YlNMc3pRYlNjX3hicEZPTUJNTG5yMnYwNjh4anJXWEcxanNQZk9FemdrbVh4SldzUGtyQ0E4aDhBdw?oc=5",
+      "title": "PM Modi highlights Ayushman Bharat and Jan Aushadhi as key affordable healthcare gains over 12 years - ANI News",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-14T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "PM Modi highlights Ayushman Bharat and Jan Aushadhi as key affordable healthcare gains over 12 years ANI News.",
+      "ingested_at": "2026-07-18T19:11:03Z"
+    },
+    {
+      "id": "8edf52a0e94bdbda",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3JVQ0poOHZJMmYxd3k1U2ZwVGJKNVZSVnVTSTRuUTFweF9SZzBHTFZjcTV5dVJxR25rN0s5TWkyZ1RfSG1vaWRNSEFzZ3VMTk0xSXp5MUx3a2RKNWxtYTdjNlJYRVR4RU81V3NHeGExUzZqVlJrNFFNal82dHNMb1BIS2t3eFExRFh6WHFKMk40TWJoVXhCVGpoRFA0d0R6Z0V4RFdyaw?oc=5",
+      "title": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-06-13T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad Telangana Today.",
+      "ingested_at": "2026-07-18T19:11:03Z"
+    },
+    {
       "id": "23ba9926aa72c59a",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor-children",
       "title": "FDA Clears First Over-the-Counter Continuous Glucose Monitor for Children",
@@ -7546,6 +7854,17 @@
       "country": "GLOBAL",
       "summary": "Coverage of Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:38:01Z"
+    },
+    {
+      "id": "45132195c60cb1a3",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSERiY2Z1b3RvZndmbjNoYWUwQUtrX3dqRTB5WHhzODFMWVpMUTJPb1BLcmYtc21pZjFvNUtmTm9mWkRIRnlEbGRValNhZmZZVm1zOFp0XzNXcGROZ09lTUJTUlRiZ1hTekdmQ0FUTjU5NXM4cWlVUWx4WEhMeWpSemtDVW10ZERvMjNRSnlGTl81YlJyUmxqanJQZkQ2Z0FMUDhtanpKdHpjQkx2MUJ6VHBKYXJxV2Z5UV96SEln0gHLAUFVX3lxTE9zZXZnNjc4VzdGbEZIQ0VNN2hVbi14dUJwUDktaFRKd0dZcUtCYU5YZllHa19BUG5lUXozVEpiV3Y2RnBUcTdHb0VDZkg4REMtTVE1aDcybmRSQ2kzN0V2Yzl3bC1jX0szS2hkaDdWbXB4Z1pSYU9KNnd0VDMzNVlpTXpCdy1rRk9uTW83eGdMN20tb2pfcWFFU3ZQZFhUQTYzUlAybDdjT1BqeWh3eGljV2puUmRQaWFHVFk1WER1UnhaYWR0QWVjZmNv?oc=5",
+      "title": "NMC rejects applications for five new medical colleges in Chhattisgarh - The New Indian Express",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-12T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NMC rejects applications for five new medical colleges in Chhattisgarh The New Indian Express.",
+      "ingested_at": "2026-07-18T19:11:04Z"
     },
     {
       "id": "d6018ec3b4e1c5f5",
@@ -7579,6 +7898,17 @@
       "country": "GB",
       "summary": "Videos about how to use the NHS App – NHS App help nhs.uk.",
       "ingested_at": "2026-07-16T19:19:16Z"
+    },
+    {
+      "id": "16b2e72435fa20c9",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXNXRFZ6d0prUnJpaTdaYkJGanRmNmNpM2FqQWhnelZPclh5aF92aGFUUk15X3daWU16NTY1dHRRY0hjb1ZOczk2X0Z2ampfSVRFdkE5WC1hblloVDJZd3hvV1JwRGkyaW9xQUh1WlpWLUtuMzdlRkdJNHhESVNYdUMxM1lOWl9OX3R3dkpIWFduYThEX0phWTdYSE1ueFozZ0NOemlqaE1lc1JhWnU00gG0AUFVX3lxTE4xQlF1cDFMbWlPLTFaZkRWY1QyYWlodDdmMmNkbVZ1WUx1Uk9lMlZnVnBPUWx6dE5YM1FsR1RiZkNoaXI4Ymh6NnNQbTBIbXE4dGktbkFubHdGaENsLVBSeTI1Y1U4NHg5VDhhREFYejJaYXBLOUxIMzF3SkJFQW13bHJjMFozLTJtTTRkdUQyZWVzaTdoMmJSeWpVYlhtdmVtc0NrRjlTbjhGblZaUG5ESkZXQQ?oc=5",
+      "title": "CDSCO approves Trastuzumab Deruxtecan for first-line HER2-positive breast cancer - Express Pharma",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-11T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "CDSCO approves Trastuzumab Deruxtecan for first-line HER2-positive breast cancer Express Pharma.",
+      "ingested_at": "2026-07-18T19:11:04Z"
     },
     {
       "id": "8c3c4a47f3accf3d",
@@ -7999,6 +8329,17 @@
       "ingested_at": "2026-07-17T02:57:08Z"
     },
     {
+      "id": "6d5a31d636d9c916",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3J4SHpsZ25NeHVENzl0UllxYTFyanYtNW9hU2NCQVF3ZXU5R3Z0RTVBWWNQdGFsWWhCY1FrN050ZEZfRndSNFRlTGZlekl3bW5JV2h4MDlnNjVza1dzVzB4QkdLdWVOQ180UXdCd05zdk9sMlZZLVZURXFWUUhobjVNV25KSFM1STdMTTZ3UzV5Nkt2dHhiUWtn?oc=5",
+      "title": "NHS SBS launches £900m healthcare AI solutions framework - Home | Digital Health",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-05-19T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "GB",
+      "summary": "NHS SBS launches £900m healthcare AI solutions framework Home | Digital Health.",
+      "ingested_at": "2026-07-18T19:11:05Z"
+    },
+    {
       "id": "e085b151a66acff8",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSy1HREFGV0hobmU3OHktWGRaZjVFUmRaQk5Rem1qRl9paTNmWmo3OWtwRVQ5MVEzUkQ1SWMyQ0ZocENJcTlsQVFxU2FkZWtOTGpucmZhZXE3ZlJqcWJsSS1nMmgtOTNBVml2S2RHMXFNMG5fVmFaMzEwMkNlRGp1dzhrcXNKbU9VRkQ4YXRFaEM1ZktoYmlnejItSjQ3Z29hUG5hMA?oc=5",
       "title": "Roundup: More identity-verification tech for digital health exchanges - Healthcare IT News",
@@ -8030,6 +8371,17 @@
       "country": "GB",
       "summary": "Advancing equity in digital health: from principles to practice World Health Organization (WHO).",
       "ingested_at": "2026-07-17T02:57:09Z"
+    },
+    {
+      "id": "720e351eff9f3fa4",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXZ3NktGTlNoUmJKVmhGNk5pYVhLTWdpVmpqbXRETF9UWDhVUWlaU2tLcTBIYlltaWxEMUZ0YVBncXBDZ3A2c3pKZEJDVFZsMUNiOVF0YzhMa1ZmVXZOMlNXN1cyQWczTktmZEg5aVd5WHp3X3pncHNHYVBNWmI3TDd4VXE2WlpsV3FDN2dVR0hTR0QyX2ptNjl1clE0V0ZKTHV4cGtUeVRpaGRMaG9TNjB6bTd3cEJfSm5pS0s3UjI5cWM?oc=5",
+      "title": "How AI Innovation Is Widening The Digital Health Divide - Forbes",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-05-15T07:00:00Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "How AI Innovation Is Widening The Digital Health Divide Forbes.",
+      "ingested_at": "2026-07-18T19:11:05Z"
     },
     {
       "id": "30a49dc9c7f6a622",
@@ -8129,6 +8481,17 @@
       "country": "US",
       "summary": "FDA announced it is soliciting input on efforts with respect to drug repurposing to help address unmet medical needs across a range of diseases and conditions.",
       "ingested_at": "2026-07-16T14:38:13Z"
+    },
+    {
+      "id": "74eb3b4ae8d2533c",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2V3ZVhxZ3pKOWxWTmtMVTU2R1FTZlFwX2pXNm5NNlBSSnc0LTJIQ1pEaUN5V0tFck5Eb1hvUkZEQTROS1c2bU9SamRQZTVzeFhhdVdGdlRBRlZJRTkyWEJuX0hieW91OEdrdFo4MmIwUjNrdEZpdGEzWkpJeUdzTWZBNHA3X2QxU0NsOG44UUhCYnloMTMxaUZmRUdHMHZzWkd5akljLWpmOTRYMHpmdjFDRVNsNmRJWXF2TjJJMHpRZw?oc=5",
+      "title": "MedTech Breakthrough Awards recognize top medical device, medtech innovations - Today's Medical Developments",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-05-11T07:00:00Z",
+      "category": "medical-device",
+      "country": "DE",
+      "summary": "MedTech Breakthrough Awards recognize top medical device, medtech innovations Today's Medical Developments.",
+      "ingested_at": "2026-07-18T19:11:06Z"
     },
     {
       "id": "1d67fe1e283c7b76",
@@ -8261,6 +8624,17 @@
       "country": "GB",
       "summary": "NHSE to move away from open source over AI security concerns Home | Digital Health.",
       "ingested_at": "2026-07-17T02:57:13Z"
+    },
+    {
+      "id": "46471d8222f20f95",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTdycFJHMkpzclR2OW5ONnZMOVFiTWtrbU9BWWVnQ2pMdmc1dDJKYXNKaGNnSFdTaHIzV0NaNWRmX3J2bDVSMUQxLVU0Q2xab3ZEQzRRSWlJZkdlUEZLaC1kcU5jaWdKYmZZZW9CMlBzSXNuMGtuOGJKZEt5X0tkSy1EdmlhandC?oc=5",
+      "title": "A New Supply Chain Efficiency Playbook for Medtech - Bain & Company",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-04-30T07:00:00Z",
+      "category": "medical-device",
+      "country": "DE",
+      "summary": "A New Supply Chain Efficiency Playbook for Medtech Bain & Company.",
+      "ingested_at": "2026-07-18T19:11:07Z"
     },
     {
       "id": "4255bc6e657696ec",
@@ -8505,6 +8879,17 @@
       "ingested_at": "2026-07-16T19:19:22Z"
     },
     {
+      "id": "6c9b6923c01fe348",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlh2cVgzWlJVQ0pQOGJuU1hKcDNzOGhFVWxTdGlBYkFpSjhVamVYNHE5U21iZUFrVTdkb0YwYm12eGtTWU9qQk8xa1NjNVJ4TExKRWw2TDF6Q2pnXzZqN2gyVXF0dll6MkE5SHA4NjMzNmszMlhLeG5LMHFhODdaZFc4THdpVFVSUWdGUzhBYVBVUTdaTHEtbGdLN2ZWR3JWTExSUFREOWtGYmk4cU1pNkhOV3lLeWtoS3VPVlBn?oc=5",
+      "title": "MedTech M&A Trends and Predictions for 2025 - Deloitte",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-04-10T19:27:11Z",
+      "category": "medical-device",
+      "country": "DE",
+      "summary": "MedTech M&A Trends and Predictions for 2025 Deloitte.",
+      "ingested_at": "2026-07-18T19:11:07Z"
+    },
+    {
       "id": "1d42d4ee3c8c0e4a",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNald0QmJVc1NfU1BmZThNSlJwWENfcDlOSHZKWnVTYXJuQ0xnc0REYlM0aU8xVzRBWGRKLUc3MXVfaVE0dUg5V3lSR3Qxemg5NHhUdHpnQmJkbmRKc3V1S3FYY0hCVmNUeTFGbzdXdXRHU05XZGp0c1hPcktfQnlJV3lB?oc=5",
       "title": "Medicare Debuts Digital Health Record System for Enrollees - MedPage Today",
@@ -8525,6 +8910,17 @@
       "country": "US",
       "summary": "CMS Rolls Out First Phase of Digital Health Ecosystem MeriTalk.",
       "ingested_at": "2026-07-17T19:17:19Z"
+    },
+    {
+      "id": "95c069e60ab4d60b",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHRGNmJJNWVlckpaU3Q2b3NReUFyZ3JvbW9POHI0NXBMSnlTTHNrOUJJa3hsSFJEUDBPWFd0cjhBS1EzSUJOQ0NHU1JPdlNFdjZtODY1TU16MmJHUDhFRjM2VEwwWEQ0aC1kd2RpMVRjamVkTE1fY3luclBSSTB1b3JHQUZOaE96V0gtcG1LdzFmSkdEZml6bmMwSV9Ic043aDhwU3BmOA?oc=5",
+      "title": "U.S. Digital Health Market Size to Hit USD 713.36 Billion by 2035 - BioSpace",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-04-09T07:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "U.S. Digital Health Market Size to Hit USD 713.36 Billion by 2035 BioSpace.",
+      "ingested_at": "2026-07-18T19:11:08Z"
     },
     {
       "id": "237d14c8120cdef8",
@@ -8670,6 +9066,17 @@
       "ingested_at": "2026-07-17T02:57:15Z"
     },
     {
+      "id": "ac1c7ed375a37421",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFJBRDJDLWwtRUJ0aEFGS3o4UDJlZ0p3VUlxaUhFV01XOVhKb1dodjhranhGZVl1Q1NLVHhubWZ3STFxNXByQ0ZSa05TZS1GQ21XQjhxNElCZ0tuVXU0NVdncnNyVHhJV0ZUQU0wMHFPbFNYNmluXzhmTzhHb1dvZVpkVTg?oc=5",
+      "title": "JNJ Q1 MedTech Preview: Key Drivers and China Headwinds to Watch - qz.com",
+      "source": "Google News Digital Health China",
+      "published_at": "2026-04-02T07:00:00Z",
+      "category": "medical-device",
+      "country": "CN",
+      "summary": "JNJ Q1 MedTech Preview: Key Drivers and China Headwinds to Watch qz.com.",
+      "ingested_at": "2026-07-18T19:11:08Z"
+    },
+    {
       "id": "e9b8713e1940cc1b",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFBzck9LVERNVTlSUWZ1MjVsRU1BMFFrMmptbWVKSXh3NVZIMVlORzFVd2VFME1pbFdxc3VSWTNQMmd0YUFmUzgzSEVLbnFmSUMtMXNnaXRIcElnUllyLXYtNlYtSVNpMTdCN0lueEx1R2MwZS1meDJrZTZRZDN3UGNQQ1MwREh2RDhBZ3lERXFpMmVnOWdQektpeU51Ukk?oc=5",
       "title": "IBM awarded £160m to transform NHS App into ‘health companion’ - Home | Digital Health",
@@ -8734,6 +9141,17 @@
       "country": "GB",
       "summary": "NHS App to move from ‘front door’ to ‘companion’ Home | Digital Health.",
       "ingested_at": "2026-07-17T08:17:29Z"
+    },
+    {
+      "id": "8f44796513a6091d",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONUpSUjFPWG9PMnlIZjR6dGdUSHlwYk9aMHRNUFpVVEM2eUFQbE1GdHFoRzh5V3BJQzNYdFY0VkgtMmF5aG1VM1hTaWhvSF9WYWJINUxQU2UxQnN5OFBJWjVTRHZGMFNjWnRhal9zYngyc1hWU0s0U0swUGtkQjQ1TW9uc1FuSjI5blQ0dEQ4WF9EeWpNenI4ZS1qZ1RhN1JrMXZDY1NyVk9NNkRDLU1xYVA5UldwYnpPX01RMVNkLVNYMy1JMnZMMGNsc3dKdzRZUDdFUmg2ZDBsajhZQ0NILUkxMld5S2xTUk1URU5MZ0RVRWNKVXBla2M1dHVkdDYwUjA0?oc=5",
+      "title": "Philips remains No. 1 in Medtech at European Patent Office and the largest Dutch patent applicant - Philips",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-03-24T07:00:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Philips remains No. 1 in Medtech at European Patent Office and the largest Dutch patent applicant Philips.",
+      "ingested_at": "2026-07-18T19:11:09Z"
     },
     {
       "id": "533c8f25c96423d1",

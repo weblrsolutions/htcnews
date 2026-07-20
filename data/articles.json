@@ -1,6 +1,347 @@
 {
-  "updated_at": "2026-07-20T03:34:09Z",
+  "updated_at": "2026-07-20T09:24:04Z",
   "articles": [
+    {
+      "id": "ddcdecb9184dd1d3",
+      "url": "https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing",
+      "title": "Building a workforce engine for biomanufacturing",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-20T09:22:57Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Ohio’s $30M training initiative aims to scale talent pipelines and power life sciences growth statewide.",
+      "ingested_at": "2026-07-20T09:23:11Z"
+    },
+    {
+      "id": "572aab1b77f4a4a7",
+      "url": "https://www.fiercebiotech.com/sponsored/why-early-de-risking-redefining-path-ind",
+      "title": "Why early de-risking is redefining the path to IND",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-20T09:22:57Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Lonza explains why early de-risking has become a strategic imperative for biotech teams working to reach IND with confidence.",
+      "ingested_at": "2026-07-20T09:23:11Z"
+    },
+    {
+      "id": "ffb607557a59de65",
+      "url": "https://www.fiercebiotech.com/biotech/rising-tide-scenario-why-other-big-pharmas-could-follow-lilly-psychedelics",
+      "title": "‘A rising tide scenario’: Why other Big Pharmas could follow Lilly into psychedelics",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-20T09:22:57Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of ‘A rising tide scenario’: Why other Big Pharmas could follow Lilly into psychedelics from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:12Z"
+    },
+    {
+      "id": "c164727331a2d140",
+      "url": "https://www.fiercebiotech.com/biotech/latigo-preps-ipo-fund-non-opioid-pain-drug-rival-vertexs-journax",
+      "title": "Latigo preps IPO to fund non-opioid pain drug rival to Vertex’s Journax",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-20T09:22:57Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Latigo Biotherapeutics is preparing to go public in order to bankroll the development of its clinical-stage pipeline of non-opioid pain management drugs.",
+      "ingested_at": "2026-07-20T09:23:13Z"
+    },
+    {
+      "id": "6b3a4cdc26501040",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTzN2NFpxX3gzSXFyS3VvMk5faFFNblk0LUVUMGdkVUxFYXZtcm9wOFIwS090ZGIydl96bkRQdWtwMjRyVERpWGg3MDlFYl8zOUl2enp1cHBJZmpVSVB0cFBtcUJHejczUE5Pa0FCV01YR1o4LUpVc3o5cElCX2V0c0h1UU43QjlneTVVeEhVdk9BRXB1MVp3UmlZNThPVUlnZklkRU1mclRHaXlFT0RhVzRMbHg2a3dWdHBfQ3VaNTg2QmZURVJ1RVVRVlo0cWxack4tYWdDMVRXdXRqVVRsNFlEZ2VyNjdDQkNVQVQ1elB5Y3pKdzJvUzcxVdIBgAJBVV95cUxNTjF2RUgzMGl4NVFqbVVKWHp0YVBPS09vSmp1RVVORmJpQWpiUnpvTkVtLUZPbTlYQWNtRjdXQ2JuUzdLMHdBUnVOYlhzbTl5UUY2ckg0amVwVmxxZUc3dHFDTnZnRlc1cWdoZXk3Y2U3M0FqYUx2UEE2ZjhUbkluVE9RdmdJTEIyMW1UTlFMdzJHNm5sRGNzQlpNcVRCTXRjM2hRU2twRmxxTC1qTmxlY3dLUmQtNnFkUkpOdGJtSXdBRzZGUkkzVVNEUU9ySTZnVUNSQzRURnZuMy0zeWxGeW53V0ctaEtLSlZjUTFqSHFaaGRicDlXOXFwLTR4QThi?oc=5",
+      "title": "Dengue Vaccine: Central Government’s CDSCO Gives Nod to Landmark Dengue Vaccine QDENGA – Check Price, Eligibility Criteria & More - The Sunday Guardian",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-20T09:13:15Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Dengue Vaccine: Central Government’s CDSCO Gives Nod to Landmark Dengue Vaccine QDENGA – Check Price, Eligibility Criteria & More The Sunday Guardian.",
+      "ingested_at": "2026-07-20T09:23:13Z"
+    },
+    {
+      "id": "f2efe896c88c5138",
+      "url": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/preventing-deskilling-is-the-next-step-in-indias-health-transformation/454421",
+      "title": "Preventing deskilling is the next step in India’s health transformation",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-20T09:01:21Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of Preventing deskilling is the next step in India’s health transformation from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:14Z"
+    },
+    {
+      "id": "4f26c6e5eaaba54e",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjcyTFl4a0JQMWhpd1hDa0x6aDd6TlI5TENKVHBiU3RtZ3RfVjB1eVZMa2dPdWlMLTktT3VaSnRGU3BlWW1wX0RkSkdmRnNGV3JRUFVSWlU0UndnNnFEYUpOTWpvLWR2d0o3TG1aNExnU2kxbThNZE00S1JqNFRaV1kxNlB1MW10d0VET01xVV80OEhVclRNaW41ZzNSTGtFR2FtaWJyWHI2bHMzMWlGSUo5cHItb2dtb3RF?oc=5",
+      "title": "Inside the US Digital Health Funding Landscape: Where Investors Are Placing Their Bets - Digital Health News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-20T08:54:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Inside the US Digital Health Funding Landscape: Where Investors Are Placing Their Bets Digital Health News.",
+      "ingested_at": "2026-07-20T09:23:15Z"
+    },
+    {
+      "id": "b435573f1acae054",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1RUWmVFMVk1NlNfNGJHZnF3YUZLSnlmMEJZTnE1RDVGVVpESjNFdUdrTjJldDRpQUY3dVhRdDU4bTRLNk9UalduZDNnbTNCSVRSTVhKWFFkajdqaEtHTlhFeF84YkhmMFYtaUREc1VBeEtJMkRST2VTNm9fbWhjWGJpeDF0RFI0UnVtYtIBkgFBVV95cUxNeHRaWUhmZlVOMjNIeUhzUnlxSElFdnh6dng0cnpxU0stcTV3VGFXb2pZd2pfdnNqZjItQTNQeTNFYm9WWWhTVkcxYlV3MDBMVmxoR0IySURhaUdOQUlqeUdyX0EyZElRem9QWDZ2VXVOZFA5aTBSSWRRRFd0TzEwaWZjb20tejc0ZHF6VnpSZVBydw?oc=5",
+      "title": "Welsh chronic wound medtech firm under new ownership - business-live.co.uk",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-20T08:53:18Z",
+      "category": "medical-device",
+      "country": "GB",
+      "summary": "Welsh chronic wound medtech firm under new ownership business-live.co.uk.",
+      "ingested_at": "2026-07-20T09:23:16Z"
+    },
+    {
+      "id": "8dc1d4f5763f7084",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmk2SzhpMHN2Wm11MzJzM0FFYnRmWERldHJYdFM2Qkg3NkR4QWE0VGlVV0dOdjZZQzRvOG1zR0M1NVZlQ2tYMDBOU3hKdFRsYjVUcWpULWJDS2ZtSGxBYU52OEdOMVEwdUlWNGJNS0JQU09ZS0o2WW1QaU1pd1UtZUFPanRhSjg2RmFQRWdHeUZtOUhRM0RERHJB?oc=5",
+      "title": "Bunkerhill, AI Head-to-Head, and RPM in the Crosshairs - Digital Health Wire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-20T08:39:59Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "Bunkerhill, AI Head-to-Head, and RPM in the Crosshairs Digital Health Wire.",
+      "ingested_at": "2026-07-20T09:23:16Z"
+    },
+    {
+      "id": "fb4de67d069f88f7",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2pBanpSb1EyMFR6ZHI4azFtelg3cjZwSDlfNlZxdGpGa2dZWWN6VnBJTE5PcGJna2NuUlRjTlp2WEoySUpNQWFaRXR4a3R1VGFGdE4zUHY4Q2RXVGVZbzF3UkxJWTJsQ1ZaNXJrM21NTm1BMHJSSXNfTUIxeHhUQ05vVDZ2dzVHbmU0RkpzRkZqYmE3NjVNQUxfUkRkZ01yS18wQ3dGZjNoemNHRkpZR0ZOMGdjbGlGQUtsOWw3UjA2d3BGRi1J?oc=5",
+      "title": "AB PM-JAY Delivers INR 1.91 Lakh Cr in Cashless Treatments Through 37,000 Hospitals: MoS Health - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-20T08:36:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "AB PM-JAY Delivers INR 1.91 Lakh Cr in Cashless Treatments Through 37,000 Hospitals: MoS Health Digital Health News.",
+      "ingested_at": "2026-07-20T09:23:17Z"
+    },
+    {
+      "id": "7f40076d44ee0e77",
+      "url": "https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay",
+      "title": "Opinion: My husband’s suicide shows there’s something very wrong with the U.S. insurance industry",
+      "source": "STAT News",
+      "published_at": "2026-07-20T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "“My love for Randy and my professional experience were not enough to save him,” a physician writes about her husband’s suicide.",
+      "ingested_at": "2026-07-20T09:23:18Z"
+    },
+    {
+      "id": "72e834b06a5f2627",
+      "url": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats",
+      "title": "Opinion: It’s time to treat pandemics as threats to national security",
+      "source": "STAT News",
+      "published_at": "2026-07-20T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone.",
+      "ingested_at": "2026-07-20T09:23:18Z"
+    },
+    {
+      "id": "706543e426de247f",
+      "url": "https://www.statnews.com/pharmalot/2026/07/20/iowa-medicaid-pbm-audit-circumvention-spread-pricing-ban",
+      "title": "STAT+: State audit of Medicaid records points to methods used by PBMs to obscure drug costs",
+      "source": "STAT News",
+      "published_at": "2026-07-20T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "An audit of state Medicaid records revealed how PBMs are using complicated tactics for handling prescription drug claims that ultimately overcharge taxpayers.",
+      "ingested_at": "2026-07-20T09:23:19Z"
+    },
+    {
+      "id": "99a2bd2cbeb70647",
+      "url": "https://www.statnews.com/2026/07/20/lifemd-weight-loss-drugs-novo-nordisk-telemedicine",
+      "title": "STAT+: Telemedicine company touted by Novo Nordisk stressed profits over patient safety, ex-workers say",
+      "source": "STAT News",
+      "published_at": "2026-07-20T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "LifeMD, a popular telehealth company, has been accused by former employees of pressing clinicians to mete out prescriptions more rapidly without sufficient screening and follow-up.",
+      "ingested_at": "2026-07-20T09:23:20Z"
+    },
+    {
+      "id": "671fde9c561019b0",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaG9NY01sckpqRWxnRDJKT3RGQnA3UmZVRHR1elJGamNXM1JZUUtvMWRGbVhMbU5YaEEtU0FYZ3lRdVp6M0oxYW1hVGpEWEZuaEFLVFBMTEdaT05QZ3oxVlRnbldnVGttWHgzZk82M2Uxal9VVEhFVlViV180d05TVVpaSVVOYkk?oc=5",
+      "title": "Health tech firm Craneware says customer and staff data stolen in cyber attack - Yahoo Finance UK",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-20T07:26:49Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Health tech firm Craneware says customer and staff data stolen in cyber attack Yahoo Finance UK.",
+      "ingested_at": "2026-07-20T09:23:21Z"
+    },
+    {
+      "id": "e929fbe80c28f821",
+      "url": "https://www.thehindu.com/sci-tech/health/why-understanding-psychometabolic-links-may-be-crucial-to-combating-indias-diabetes-and-mental-health-epidemic/article71216375.ece",
+      "title": "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-20T07:21:13Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "Coverage of Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:21Z"
+    },
+    {
+      "id": "91c089d7c78de10c",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakxZc2Rya0IyR05OVTY5ckt0TEU3Mm81MTZZVXRLYWt1eXh3NTFfbG84S3ZySmhBUGxzaEE3ZFR2eFhONWlmQTg5d2pRZndFc1lXR25pNlBvVDFPcXZBN1lNOUo0T2FlNWJuUlN6ZXgyU09GeHpYNDBYZURlb3lLQmFMNUYxd1V5YlVPS3p3STNmYUtCcnVNdUJwZnBTSkFhVjYtSmpQZGhXb3dCMGJYTW9wYw?oc=5",
+      "title": "Telehealth ban still standing between dying patients and their doctors - ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-20T06:53:04Z",
+      "category": "other",
+      "country": "AU",
+      "summary": "Telehealth ban still standing between dying patients and their doctors ABC News & Headlines – Australian Broadcasting Corporation.",
+      "ingested_at": "2026-07-20T09:23:22Z"
+    },
+    {
+      "id": "98b0d08c05f8173e",
+      "url": "https://www.expresshealthcare.in/news/cghs-should-include-hospice-palliative-care-services-g-kishan-reddy/454416",
+      "title": "CGHS should include hospice, palliative care services: G Kishan Reddy",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-20T06:41:51Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of CGHS should include hospice, palliative care services: G Kishan Reddy from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:23Z"
+    },
+    {
+      "id": "f275a99337546640",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3dfZmFuZFJIWExOdGlfWllRVXVXNm5idjk1U09TQUZOcGp6bHplN2JFTmQ1T3VqNk05Q2hoS1pJaDFsNkQxck5oOHVJb21mZks1eGg1ZU44aVhBWTZzWGxUNmhWNXZxUGdCVDVEWERvSDIxdWkwTUliZ1hfcmFFNnVDZjRIVWhROXRzVmFTRWNTT1ZOdldma2NFZlk4ZlBadU5ZSQ?oc=5",
+      "title": "Midlands procures ambient voice technology for 70,000 clinicians - Home | Digital Health",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-20T06:32:44Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Midlands procures ambient voice technology for 70,000 clinicians Home | Digital Health.",
+      "ingested_at": "2026-07-20T09:23:24Z"
+    },
+    {
+      "id": "cdb3e019c2da1fcc",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/omicron-rf-5-sub-variant-detected-in-four-covid-19-cases-reported-in-andhra-pradesh/132507442",
+      "title": "Omicron RF.5 sub-variant detected in four Covid-19 cases reported in Andhra Pradesh",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-20T06:11:32Z",
+      "category": "other",
+      "country": "SG",
+      "summary": "Coverage of Omicron RF.5 sub-variant detected in four Covid-19 cases reported in Andhra Pradesh from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:24Z"
+    },
+    {
+      "id": "a9c88c11a5405661",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSl9zQzliczFMbXFIOUFNQVd4UnRPRmZxbzkta3FLMUk2OFNEb1ViRjhBTllvV29Wd3lRaGFuTnM5RzJjSGJrUXRXcnZ1amFuMVhqYmx0QmVSZmpoUldxMGJoVy12d0QzOE1GWUE2cGNyakhzTDhDaTYyMWhSMWtVZFNNV015VjVpSERKajlzLXZfZzBHYWxSTDQtVnV1NWxpenB5VExiemJDdEE?oc=5",
+      "title": "Medtech acquisitions: DePuy Synthes, Medtronic add to portfolios - Today's Medical Developments",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-20T06:00:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Medtech acquisitions: DePuy Synthes, Medtronic add to portfolios Today's Medical Developments.",
+      "ingested_at": "2026-07-20T09:23:25Z"
+    },
+    {
+      "id": "61e9416badda83a5",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cic-directs-iits-to-form-high-level-committees-to-curb-student-deaths-by-suicides/article71241308.ece",
+      "title": "CIC directs IITs to form high-level committees to curb student deaths by suicides",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-20T05:19:31Z",
+      "category": "wellness-tech",
+      "country": "GLOBAL",
+      "summary": "Coverage of CIC directs IITs to form high-level committees to curb student deaths by suicides from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:26Z"
+    },
+    {
+      "id": "434d0ab5142dc9dc",
+      "url": "https://www.thehindu.com/news/national/neet-ug-nta-warns-against-fake-ai-generated-omr-sheets-legal-action-may-follow/article71241094.ece",
+      "title": "NEET-UG: NTA warns against fake, AI-generated OMR sheets; legal action may follow",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-20T05:19:05Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "The warning comes after the NTA reviewed several complaints regarding differences between candidates' expected and declared NEET 2026 scores.",
+      "ingested_at": "2026-07-20T09:23:26Z"
+    },
+    {
+      "id": "6aa9755e704b3dfb",
+      "url": "https://www.thehindu.com/news/international/nigerian-children-pay-the-price-for-iran-war-as-malnutrition-poverty-surge/article71240963.ece",
+      "title": "Nigerian children pay the price for Iran war as malnutrition, poverty surge",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-20T05:18:22Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Nigerian children pay the price for Iran war as malnutrition, poverty surge from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:27Z"
+    },
+    {
+      "id": "a1c2a08fff06a8ac",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZXFpX1NUcVJ6YUNFRzhsLXk5UG9jSktPT3RkSXJJZXFGN0R5QTRjeEpVT3U1WVNVZ2xMTV9rZl9sZ1VKUVhCdU0xWDdmQTZmN2tDSjFSa3VTM3ZWM0Jqd055QjViNm5GXzUtLWVGRENPaDRwempvUmRGWkllbl9XN0VTT1c3U3R6RGRDQ2xjSHFFaUp4WFJ3ejRBbkdsd2JJVTV4Wl9wZGllQ2xaekx2SDVZWFJyQkkxb3V5NHh0RGNEYjdLbXJuLThxVUI?oc=5",
+      "title": "ImpediMed (ASX:IPD) Posts A$7.5M Revenue—Could This Medtech Stock Be Approaching Inflection Point? - Kalkine",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-20T05:04:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "ImpediMed (ASX:IPD) Posts A$7.5M Revenue—Could This Medtech Stock Be Approaching Inflection Point? Kalkine.",
+      "ingested_at": "2026-07-20T09:23:28Z"
+    },
+    {
+      "id": "65cf833000a0ea0e",
+      "url": "https://arxiv.org/abs/2607.15308",
+      "title": "Structural Compression for Phylogenetic Inference under Alignment Instability and Indel-Rich Evolution",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-20T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Structural Compression for Phylogenetic Inference under Alignment Instability and Indel-Rich Evolution from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:28Z"
+    },
+    {
+      "id": "59e975b7e9368b19",
+      "url": "https://arxiv.org/abs/2607.15302",
+      "title": "Estimating Time-Dependent COVID-19 Parameters Using Kolmogorov-Arnold Network and Fourier Series",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-20T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Estimating Time-Dependent COVID-19 Parameters Using Kolmogorov-Arnold Network and Fourier Series from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:29Z"
+    },
+    {
+      "id": "6f1fb844f687af2a",
+      "url": "https://arxiv.org/abs/2607.15309",
+      "title": "DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-20T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:30Z"
+    },
+    {
+      "id": "f8e253a5c66d025b",
+      "url": "https://arxiv.org/abs/2607.15445",
+      "title": "A New Method to Predict the Effect of an Intervention in the Host Population to Reduce the Magnitude of an Outbreak of a Vector-Borne Infection",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-20T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of A New Method to Predict the Effect of an Intervention in the Host Population to Reduce the Magnitude of an Outbreak of a Vector-Borne Infection from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:30Z"
+    },
+    {
+      "id": "a5ed70856604cea7",
+      "url": "https://arxiv.org/abs/2607.15463",
+      "title": "BODIESReg: An Open-Source Pipeline for Registering 3D Body Scans Using Pose-Aligned Initialization",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-20T04:00:00Z",
+      "category": "fitness-tech",
+      "country": null,
+      "summary": "Coverage of BODIESReg: An Open-Source Pipeline for Registering 3D Body Scans Using Pose-Aligned Initialization from the health-tech news cycle.",
+      "ingested_at": "2026-07-20T09:23:31Z"
+    },
+    {
+      "id": "3ed96ce08ff272e2",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNElzWnFLNHlKWE1zZ1pUdHprTDVIQWphT2JHZ1pza090WjBDSDQtQ0FfUjRQdGYtVF9DNHV5RFBmYUtHa2VQSmp5dTEtYnFueUVFYjBFOWJBaTcybXB6S09tOTR0alRjTXAyMXFNU3h2dmJsd1B3SG5Fcy1hd2VhdzV4S3BEanVKVWQwcjAxT1hqLU9qN3JHUEp6cm1HREJ4eFNOX0F5Zw?oc=5",
+      "title": "NHA fines 2,842 hospitals ₹114 crore for Ayushman Bharat fraud claims - Medical Buyer",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-20T03:34:29Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA fines 2,842 hospitals ₹114 crore for Ayushman Bharat fraud claims Medical Buyer.",
+      "ingested_at": "2026-07-20T09:23:32Z"
+    },
     {
       "id": "602f6c9d23bb2618",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN282UEl6Z1lXQlVaWGRWREllNk5CYTctYnF6OS1VTTVYdHIwS0RmcUtDR21VVjBKQkkwZWZ6WUdnMmpqX29VcG5oNjhCamRhRXBicmtxM3ZCRlZwb2dMREtrRFJTRWQwUURiTzF1S2tyZTFhdFlZQmMtQWR2Z29INDkwRjdidVR1T2x4QW5lZjVvYk51Q2ZabHdTQkhGOWRnNHM1TTVsdFIyVjd0anlZTTVPcnZmRUktTUR1Tkg1dWx4dGxWQlFQTW5OZDdxZ0ZCNnU3MGNEQXnSAd4BQVVfeXFMTVc0NXl3czZ5VnFOV2dWWXd4LU4xdFhvamlrTmZha2NobjNwWjNsRFhNREhod0VvV2lHWk5CU29tbjdHWUEtU21MNFF1eDBDTGhoT1JlTlBqM3NNaDU5ZjktdEgtRFE5ei1KMGpfczJMSUYtZjZPZzJvaXpkYkdXSG5vd1pDT29jWEFVY09yenFaZG9qSHJ6N2Z6ZnA4WFRqOXJvN2k4dG05Z1VqS2tzd19pVmJhMWtjQ0l0VmdfQmIzRE5JTkN4RzFpNXZaQmxaRDNQZUN2SzMxWDNQVEV3?oc=5",
@@ -22,6 +363,17 @@
       "country": "GLOBAL",
       "summary": "Polynovo (ASX:PNV) Pulls Back — MedTech Innovator Faces Some Selling Pressure Kalkine.",
       "ingested_at": "2026-07-20T03:33:24Z"
+    },
+    {
+      "id": "52f1edea4a8f8499",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOel9kN1c5d2xNMFF1d0pZSlVOUlFxMXlYc1QtRmNVSndHMDNuOV9pZ0hFQXJaWmkycklhX05qUWdIV0RuT2c0akowdVhlQ1EtRGR1MWY5Zm5YcFNYRnlYRzFFbkRnOU95TXFFSkF1a3pvYUxkYkt4ZnRpeExKV19Sd3JnMnc0a1c4d0hIZmgtR1dRNUZnZWtPZ3kyc0Y?oc=5",
+      "title": "Telangana to empanel 360 hospitals under new employees’ health scheme - Medical Buyer",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-20T02:36:53Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Telangana to empanel 360 hospitals under new employees’ health scheme Medical Buyer.",
+      "ingested_at": "2026-07-20T09:23:32Z"
     },
     {
       "id": "ea3436ad930eb816",
@@ -112,6 +464,17 @@
       "ingested_at": "2026-07-20T03:33:29Z"
     },
     {
+      "id": "c6228647fbafde44",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVRNLXFPVTA4bmlxdnlFd1I1QjNqUzJYQlY3OXlLMHFWb0lPQXUyUzAwNzNPOHdIQ2lyTVpEMnFhaDJkTWZCZmNoX19sbnBUMmNSUmlJMWxQS2tURHdwM2RROUcwaENzbXB3cGo4Y2hGU2hEcHJ3VFhsYktLTU9BTUxPS0tyNE94eWl6eFdUR19IYmxSbEViSdIBnAFBVV95cUxNd0ZReFlLWVVmSmU4eXZHU000NjhsVnRGTTRjSGMxSFFicTctbnFYWWZUd2ZlbUtOeWZtU0l5Z3p0VVNHRXFaR0lmLUlCaHRERU9XQWRtM2JpRXNoaUtrYlY5OXdobFExZkZ2dVlaSmtiaVRKLUV3UUtoaHh2U3BzRmFnUUdrUEJpaEtRUVg4d0xBQkdMNVVJOVVFYUE?oc=5",
+      "title": "TNWS distributes Ayushman Vay Vandana Card to senior citizens - Daily Excelsior",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-19T22:49:15Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "TNWS distributes Ayushman Vay Vandana Card to senior citizens Daily Excelsior.",
+      "ingested_at": "2026-07-20T09:23:33Z"
+    },
+    {
       "id": "139cac5b0b7cc503",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjVKeTJoUFRTQ0ZxNEhCMVdfVlBDcEFxZFdPQzdoVjBpdXhEZlpQRklZakFRaHJVNlE0WDdlSERKQXZVdFlIbVJUSzkxUEpJVFoxM1BRN3ZZcW1qSTBmNGxCTkd5SkRpc0JLZENmM0lKaGprb18wZ0hDUWc1ZDdwcFhVY2hWSU9QV0U4Y0JfRUl1eXhubzk5WFBVUURjV21xR1E5WkRFT2xXQ0VoR3NHclA2bUg1ZFo4b1I3T2tNMldkSF91?oc=5",
       "title": "Egypt, Serbia to sign MoU to expand cooperation in digital health, medical technology - Dailynewsegypt",
@@ -143,6 +506,17 @@
       "country": "AU",
       "summary": "One telehealth consult and a doctor prescribed unapproved peptides ABC News & Headlines – Australian Broadcasting Corporation.",
       "ingested_at": "2026-07-19T19:12:13Z"
+    },
+    {
+      "id": "d36db5156aa3a147",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYm1LMVFzcU4zaENDVHZNelhiYzdhUDhUanFXTUd0YzZDSmp2MjJNa1FfUmVMWWxKQzFqYzZ4MnVlVmtRaVBTWGZRdmlCdE1ZSng5a2duTXUzcVF3YU5kcGtYdUJBemlBcDZFeTcyUGhOZnNpVzBmOU1rZTl2ai11RlFhbEppaS1mdlBJajdwYmlfallhMm83U2RiN1AtZkFaenhHQ2wyR0c4ZTktYVhnR3A4NkU?oc=5",
+      "title": "How Nirav Hemani and Atul Hemani Built aaboRing Into an Indian Health Tech Brand - Business Remedies",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-19T18:40:50Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "How Nirav Hemani and Atul Hemani Built aaboRing Into an Indian Health Tech Brand Business Remedies.",
+      "ingested_at": "2026-07-20T09:23:34Z"
     },
     {
       "id": "9678d9100517e014",
@@ -1188,6 +1562,17 @@
       "country": "US",
       "summary": "The number of active medication shortages in the U.S. rose to 227 in the second quarter of 2026.",
       "ingested_at": "2026-07-17T13:48:45Z"
+    },
+    {
+      "id": "88eea43f8a79987f",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTmRGUGUyZVVvMXMtYmZmNFNGNXFXY3gxWk9YcE05bXh2VHVWWnE2TGJtUjBTclJoYzVfaVlPblpoSURJOWphbDZNSVktWGVoWXJjeXo5Q0VmRnZkelpYNmxlRTZob3YyTldDUnUzVVlUVnFTNU0zNmlKWVd3V0l3VXBuTmpfai10SDRyRFhqa2xaSHdDZkE2TlFGRTRfMDZYMy1uaHU3eksxc2tvSlVXVkZmemQ4SUM0TmtsR3J5ZFA2c200M3VlVmczeGFLZzZpeTQ5WjJ3Zk1mMlF2OHY3cUlnQXp5VHd6YU9jdFh0ZFVZdnRrNTJEOW1mN2kxSmNTUGN2eUZDV0FtR1kzM3hodUtDejnSAZoCQVVfeXFMTlpuTm43am91WUZxaVY0TVZ3MnJDODJBVDdBV2IyYzdtZVVBaGxYZENpRVBsLWVVamdfQjBJSDU0ZWx3TlNlbTNHQ0lwUmZ1U1FQblFrTVppblJTZkFGaWtrSkRKU3hlSzdDUkpEYmN2bWp4LVE1RXAyRENnVDJnS094LUNaSTZwTHVrS3hVdzh4bkFZMHhTVkhfT0FJa1Nta1BneVUxVG1mSTFDcFhBRmVJNHRoU0t3Vjc0ZVhfT01IR2FGWmQ0T2FyblM4NnNGZGRVUnNMSFJYeDFESEtIeHczdm9ZSTAxcDloeG0wMGRZdzZLTEpJeE9xdHBsUEFWdnNQZUNNYTN4LThXb3hfN3VXZ29aamszbEZR?oc=5",
+      "title": "Central Government’s CDSCO Grants Approval to Novo Nordisk’s Wegovy Drug for Treatment of Liver Diseases in India – Check Price, Side Effects & More - The Sunday Guardian",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-17T12:49:13Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Central Government’s CDSCO Grants Approval to Novo Nordisk’s Wegovy Drug for Treatment of Liver Diseases in India – Check Price, Side Effects & More The Sunday Guardian.",
+      "ingested_at": "2026-07-20T09:23:34Z"
     },
     {
       "id": "83ba642917d41e44",
@@ -3709,6 +4094,17 @@
       "ingested_at": "2026-07-16T12:40:05Z"
     },
     {
+      "id": "331f0eeadd7362b8",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZnZtUDBjcmlaNTRqQm9nZjR1dTRhUGpVME9FMVdnalByMkVUbTJQQWxJVTRwbUUxOTg3UXk5Mzh4NURBU0hUbzlNMk5HM2hqWUlvS0ZfRUhuUjJwbHY1N1NrN3dPcnpWanRSTEs4blpUT1RDUnVrcl9DSkVVQnp0UVhXLUZNb3RpWTJhVmFMbGp0QzRJMFVQbFNVRkhqNGtXYnN3eGVMc0s4OUhYRWZaSlhEUEZneEVNU3VwT3NCWVdzU19ld1Y3Q19IQnRRR2Zic3prYkgyWE1HQ0huZlJOSHhhVEVxOXJoSWpQWWFpZ1JzRDF0ZGdZYg?oc=5",
+      "title": "AstraZeneca Pharma India Gets CDSCO Approval for Fasenra's New Indication - Whalesbook",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-16T08:59:17Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "AstraZeneca Pharma India Gets CDSCO Approval for Fasenra's New Indication Whalesbook.",
+      "ingested_at": "2026-07-20T09:23:35Z"
+    },
+    {
       "id": "e146168ea259b32e",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHE3NXV3UWdKQ05SUXZfRXJ3c2pZekt0eWJsbnRaTUlOaEtMNWE3cUJ6cEV3Vk1VMzF4b1FYcXM4MEpnS2pxdmx1YmY2SnJZMG1nTjVzMDlZXzAxZjdCV241dTZTNVU2NDRud205WVpubzlxa1dLY2RZM1l4RmZySURyWTh5YlVLS0x4ZE52eTZQSEdKNnp4LVg1bmpOUQ?oc=5",
       "title": "Scotland launches its version of the England-focused NHS health and care app - THIIS Magazine",
@@ -3894,6 +4290,17 @@
       "country": "GB",
       "summary": "NHS Data Shows 30-Fold Disparity in Specialty Training Success Rates Between Ethnic Groups geneonline.com.",
       "ingested_at": "2026-07-16T12:59:59Z"
+    },
+    {
+      "id": "1fab16f139c160ff",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Myem5fWi1zRUNKdzlTUFJPNWJYT3hKc1N6Mkc2bXFINHRfc2JLbm00dUt0SnlheE0zUGFFX2lLV2dvU3EwZXJ6dU1hMHF5QkZoOE9ONjVpZXlCUFVPNHZ1ODJQSEVUTlBzSU0yaEZBMUJYbDhXZlc0ZTYzY3FJUmVYN1VFQlk?oc=5",
+      "title": "Rock Health H1 2026: Durable Roots, Shifting Routes - Digital Health Wire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-16T05:50:12Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Rock Health H1 2026: Durable Roots, Shifting Routes Digital Health Wire.",
+      "ingested_at": "2026-07-20T09:23:36Z"
     },
     {
       "id": "30ae6ff96205bced",
@@ -7339,6 +7746,17 @@
       "ingested_at": "2026-07-17T13:49:29Z"
     },
     {
+      "id": "69adf776402ac224",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmc1bzBpUVNqLUJjSUZ0N25xUUpMLVlNYnBDMU5DeUNjWm5DWC1GSDlKZlFTeE9FcWtRaEZla2d6YS1TQ2pLdjlGZDYxenJwaTNIcnZzUTR2WWJEV1NmYWJYTk5RUzk2OE5Va284bk9sNlgzX0psQUhZcWduVmxGb1Z2eGQ3SHVZLUNWSUs3eGdvQU1zZlYtTnNOV0tkQm5EYzJnNnpYVmpjSmg0RkNnODBXcTl5b1cwOHVz0gHAAUFVX3lxTE05RjdDQ3ZFQ3pLSG5wN044OVVaYktkWWQwRTNRc0pjS3cxeXNJX3hrand1MF9McnRTS2lKRXduOUpYdl96aGNhNGdpUFRrUDlJMHM2WVZLc3k5VExiZy0yS1ZqcXlJR1lhTkJCMmpSeGdLZVkxMWh5TTk1Vk9RbXdjRjJENXpGck5WYWtnX0dGbF9oVnhTMl9LODh1M2NPTU5hQmEzNjlvZlRtS0RRSC1mWmJGSzBPWGJuRW5yUThybg?oc=5",
+      "title": "Govt proposes faster approval timelines for medical device manufacturing licences - lokmattimes.com",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-06-28T07:00:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Govt proposes faster approval timelines for medical device manufacturing licences lokmattimes.com.",
+      "ingested_at": "2026-07-20T09:23:36Z"
+    },
+    {
       "id": "3bfe440e0e8d93c3",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1BNaWxwZmZFMjVWVU9aVDV1YmMxd3FDd2lFQkNiYV9jVHVUR2o1eDd0SVBuSExpa3ZnOVJ6d1lXdThNOGh0YkdnLW1rYUloMldaUmIwNWt5OXpzU3dIakRRM0hheWJpbVNKRTRLaVpfdmQtTFJnUVR3bURBelZhM2o3aGpuOVVPZ0lfMTNjQ3hmMkxabmtRbkR3V004a0lzSDdUVmVVbHjSAagBQVVfeXFMTXdQTWlscGZmRTI1VlVPWlQ1dWJjMXdxQ3dpRUJDYmFfY1R1VEdqNXg3dElQbkhMaWt2ZzlSendZV3U4TThodGJHZy1ta2FJaDJXWlJiMDVreTl6c1N3SGpEUTNIYXliaW1TSkU0S2laX3ZkLUxSZ1FUd21EQXpWYTNqN2hqbjlVT2dJXzEzY0N4ZjJMWm5rUW5Ed1dNOGtJc0g3VFZlVWx4?oc=5",
       "title": "Ayushman Bharat Fraud: Why India Shields Doctors Over Patients - The Probe",
@@ -7403,6 +7821,17 @@
       "country": "IN",
       "summary": "A study of 1,000 adults found that two in three Indians have encountered a health or wellness scam, with social media emerging as the leading platform used by scammers.",
       "ingested_at": "2026-07-17T13:49:31Z"
+    },
+    {
+      "id": "e75606b46956fa34",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnpEclVUUkNmZmVvSFloVlBad2lCTzNHbnFpQUpLUmJGZ25XR3ZqNFNzOEZkS3EyamllOFRDQWdURVRBbmhjZGZBMGJ5TWdYWGkxb1RhUVExZk9heHZTMzYtT01rTTZ0ZWR3eGJ4QmNORkZIbDVlbUFwR2pPUXRUM1hWVnBjdGN0emk2TnNQUzhjWjB1TWxYOUxB?oc=5",
+      "title": "Seventy nine Scottish medtech firms supported for global export - Heriot-Watt University",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-06-25T07:00:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Seventy nine Scottish medtech firms supported for global export Heriot-Watt University.",
+      "ingested_at": "2026-07-20T09:23:37Z"
     },
     {
       "id": "8d6ff251679a2471",
@@ -9748,6 +10177,17 @@
       "ingested_at": "2026-07-18T19:11:05Z"
     },
     {
+      "id": "6e8074c07f3cd4c7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2xqYVNNbmFTRlpWV3NoX1RlTHRIdTltUURmREt2dzhwQ1pnU1VaNGFnQVBJVTZ5SVFsZEVULTdhOE1PUkxHS1oxeVV6UjA2TWxqRmVhUEN5RmppajJnX2stREpoRlY4NVMzT2hwWlN0RW1pb0xvZnRtdlhuU25FNnRnUzVibm9nelBFcm9DWjh5NW85LW5n?oc=5",
+      "title": "The Supreme Court keeps abortion pill mifepristone available by telehealth - NPR",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-05-14T07:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "The Supreme Court keeps abortion pill mifepristone available by telehealth NPR.",
+      "ingested_at": "2026-07-20T09:23:38Z"
+    },
+    {
       "id": "30a49dc9c7f6a622",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YRzRFMlRDS2wzSG1YQXM4TGRCTkZQVnExeTZheEwtQUhWaVFHazVFZjl6N2VrdTBlUVZvcjlad3ltNTNrQm5EakE5YmxGa0NXOWhFZ1g5S3lZTHlqUnNzMmFWYnRsWXUzOE5zTUtMTHNpZl9fYkE?oc=5",
       "title": "How this PCN boosted NHS App uptake - Pulse PCN",
@@ -10331,6 +10771,17 @@
       "ingested_at": "2026-07-19T03:20:00Z"
     },
     {
+      "id": "61760de36a9e1dbb",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXh3VVhtYUY3SmdNX3NLVnZXNGZvVGg5VEJjNmRYRC1xOE95bGZ4ZS1zMTY2dUU3M0FjRHYzQzZEUmJCOVlxX1o0VHgybXY1bTZlcXk0Q0tZcUtxc1FyUWljeUExSWJndTF6NHpSWWI0ZnJqY2hhNjFnWEZyVWIxVlFlV3lTbE9FZnZLVWZMeVVuZ2FfT1JkRXZuY0d2ZlVPdDNCTnVlNC00Vjd2Q0NfbWZYcVpOSlVWZXQwOXJobFdfY3JjOUNSQVg2LUxha0FmTlB4WjktR2hUd9IB5wFBVV95cUxPY25rRGFQQkJIa3pETzJ5cnlOSUpISWNSejlYSFBUc2JVTGQyYkw0ek1ZX3RRU2Yzd1lqUDFVZHlzUG1HbEdhc19sUkpsOHlMUjlTZHV1NUJSUTcySjRTeTBwLVBPZWF6bnpsM212OHBzQkt0azVZSUhhUXdRc25JdnZmR1ZfdURaZTREMllxYnZ4OUo4N3pCMlM2YXY3MkxFSTdFbkJaMkV2MHFQNWZXYk5Ic01qQ0JldGduYkhsekJGTUc3MjdKYkZkb1JXNlJtaGdtLWlvY1E2angtRXNsa0R0d3ZUUzQ?oc=5",
+      "title": "PM Modi links NDA poll gains to stability, development agenda; Ayushman Bharat on Bengal priority list - Fortune India",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-05-04T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "PM Modi links NDA poll gains to stability, development agenda; Ayushman Bharat on Bengal priority list Fortune India.",
+      "ingested_at": "2026-07-20T09:23:38Z"
+    },
+    {
       "id": "67c916a973fd1927",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdTlnNUxDdDU1c1U0OFRCZ2w2QVpFLXMycTVrVmR2dnVZb2tiR0luejEwaS16R1lOajFESWtaZVV3RDRfdVlaYm1NaG1wM1RTY0diVlQ1djNGRk5KZkpHRnZqRnNES29wYVdyWFFGdTliSEJXcXpEZTJ2cEhGWmNBdWFINkYzbGhXWE5Rb096RGtaWnZuSE1YMm5wVVVDTGRwSG9RSnlZT2YtUXZOR0pYUjBTUXVfZ0NhUlZ6dTNoMUswTy1RR2hqclhRSlU2elFKVGp3VnF3VE80bk5IVjZPMzdqN1BYYVRHaFhmbjFmanJMTXdwQVpaVtIBgAJBVV95cUxPVXc1V3VBYmNyc2FEX3p6Ykh1M0dSano3OHVSTzk3b2tTTnJpeTcza1k4UTZpUEdwQXViWEJTZGlfcUVIenFGS1dBMUIxYnU5TkxvT2ZYb3RuSkZ2TW9Wa2pjV2I1c2NvNTJtRVhZcnFiSjY3LW9xXzZoZ2hLNE5hdHV6ZjEwelJwV3p4OGR1bXdkSWtNdElsVHZXc0tyMkVfd3lLVEFmakpwR19EN004Q2E0RjJwZ2JYNmZONEc4cnlnM2NTTGJ1aENoaklPY3FocGdNN2Q1QzVyckZMS1c3T2pfdmJNejUwS01uNzl1MHp5WWJyYXdqYzlMd3hLWVR6?oc=5",
       "title": "'Mamata Banerjee Out, Ayushman Bharat In': PM Modi On Flagship Health Cover For Bengal - NDTV",
@@ -10373,6 +10824,17 @@
       "country": "IN",
       "summary": "Coverage of New app repository to guide digital mental health choices from the health-tech news cycle.",
       "ingested_at": "2026-07-20T03:33:40Z"
+    },
+    {
+      "id": "4ba09b8131a31ba9",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejRUNHdOMmc4QUs2YXlmT2RmdW1FM183R2VFaG13bkszU0p0bEh6NFAzcXJVOXRIbmd3MTRoWG16bTcxOEFSVGctZ3cyRlNHR0RrUWRXOUc5akhKLWxXZGhFS2JEb0ZqNS03VGpydW9CSE8zZ0w3VUlxVUw0MDNYTFlHSkx0Q01oS3BXWXZfRXRSUk5nVElCTll0VkFzQXRiOEozTHNHUWRKR3IwUWVGTXZLNVlCQ1J4RjdoSy1IMHBDZ9IByAFBVV95cUxOSkJUOUVuT3J0VDZDdVBaSWZYcGJpSW1oNWFiSUdiX2xvUVBoWUpjaktOSlhuOGlfcnd0QkNwQnNYWkpFTkM2NVhZMUdJQXV5VTRnZmVCUGk5aDJUUmxrZ1V3eEo1M3loNGVobVU0aVdFQVljaVo2YTVwdndHUkpWVmplSHRmeWZGLUJFT3owVkZLSVZuYWVNaUc1QlN3ZHczM1U5UkNxN0l1MkEwQlNTdXphWE1KZDlFU1JmVDVNZ1M5c25BakdoMg?oc=5",
+      "title": "In a first, AMTZ Vizag unveils dental MedTech start-up - The Hindu",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-05-02T07:00:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "In a first, AMTZ Vizag unveils dental MedTech start-up The Hindu.",
+      "ingested_at": "2026-07-20T09:23:39Z"
     },
     {
       "id": "dfd710b3e7ccec62",
@@ -10637,6 +11099,17 @@
       "country": "CN",
       "summary": "Medtronic leads $100M investment in Pulnovo Medical MedTech Dive.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "935f78d3ee6ef482",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzBkSXE1NkUxOXh6TlZrZnBhSUtsVDR2MmNHUUJRYmV5WWZlY2xjSVVNM01YT05SSzN2NnN2cXRvU3k1bnBuVGNVOXdqZ0xDRWd5QWl3UDIwT1otUHpwQUJPVXBodXd6dFhIc3ZDN3BKYURIVm1JdlYyU09zVU04WUlQcGc3d3FjaUdXOW9YN29sVWJhS2EwNk5JQTFKd3RHQVRGVmpKWDI5ZGVPcUtuTjlhaFZ0R05sSHpCRQ?oc=5",
+      "title": "A new kind of house call: First-of-its-kind telehealth program transforms care for homebound patients - Duke School of Medicine",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-04-20T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "A new kind of house call: First-of-its-kind telehealth program transforms care for homebound patients Duke School of Medicine.",
+      "ingested_at": "2026-07-20T09:23:40Z"
     },
     {
       "id": "ca350bf5acd075d5",

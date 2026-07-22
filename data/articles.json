@@ -1,6 +1,424 @@
 {
-  "updated_at": "2026-07-22T02:58:11Z",
+  "updated_at": "2026-07-22T08:36:11Z",
   "articles": [
+    {
+      "id": "6d59ad6b558bed49",
+      "url": "https://www.fiercebiotech.com/biotech/rare-disease-startup-inks-31m-deal-chinese-drug-thiel-backed-ceo-eyes-50m-fundraise",
+      "title": "‘We’re moving quickly’: Startup bags rare disease drug as Thiel-backed CEO eyes $50M fundraise",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-22T08:35:16Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "A rare disease startup with a mission to repurpose proven drugs has licensed a Chinese formulation of a well-known medicine and set its sights on a $50 million fundraise.",
+      "ingested_at": "2026-07-22T08:35:30Z"
+    },
+    {
+      "id": "e8c4c17a2c231d9c",
+      "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding",
+      "title": "STAT+: Federal health quality research grants worth $109 million ended early",
+      "source": "STAT News",
+      "published_at": "2026-07-22T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "At least 78 AHRQ grants worth $200 million have been affected by \"non-award\" notices; it's estimated those grants had $109.2 million in funding remaining.",
+      "ingested_at": "2026-07-22T08:35:30Z"
+    },
+    {
+      "id": "31103ae675a9ad0c",
+      "url": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers",
+      "title": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer",
+      "source": "STAT News",
+      "published_at": "2026-07-22T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "“In truth, I don’t anticipate prescribing patterns changing immediately,” cardiologist Vishal Khetpal writes of the new cholesterol drug Lipfendra.",
+      "ingested_at": "2026-07-22T08:35:31Z"
+    },
+    {
+      "id": "2b3737091bc38ee0",
+      "url": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance",
+      "title": "Opinion: STAT+: Hospitals’ AI may be drifting. Who’s watching?",
+      "source": "STAT News",
+      "published_at": "2026-07-22T08:30:00Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "Senior leaders must treat AI governance as their own daily job, not something the technology committee handles quarterly, write Peter Pronovost, Justin Norden, and Kedar Mate.",
+      "ingested_at": "2026-07-22T08:35:32Z"
+    },
+    {
+      "id": "3e1804e940b3720b",
+      "url": "https://www.statnews.com/2026/07/22/maui-wildfire-exposure-study-health-impacts-lahaina-hawaii",
+      "title": "As Maui recovers from devastating fires, a study offers vision for new rural health model",
+      "source": "STAT News",
+      "published_at": "2026-07-22T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "A study of the long-term health impact of the Lahaina wildfires is inspiring a new model for disaster recovery and support.",
+      "ingested_at": "2026-07-22T08:35:32Z"
+    },
+    {
+      "id": "579951c1812e3489",
+      "url": "https://www.expresshealthcare.in/news/why-the-country-needs-a-national-birth-anomalies-registry/454449",
+      "title": "Why the country needs a national birth anomalies registry",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-22T08:22:25Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Why the country needs a national birth anomalies registry from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:33Z"
+    },
+    {
+      "id": "902b6cfe78ae19b0",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRTV0Zks0MzNsbXVGTmozVVJOR2Zkb2ZOOGY0RFI2TFE2VjZMWmd3WEJNaFlmRjdjSUdISk5iWjNhZkdTb1RHd1RXeERCX1VWRVA1NzdzQ3JkU3U4UEFhbUN2QmVFWU5Ob2Y0ZVFvWmVndEtlRzNkdm9CMEcwX255M0dHcEZZUHdfSFBDd3hBTG5aOTlpeUx1TWUzamJoS3NVcjhmOHFMN0lOTUpGWWNCUjk5S0NQMmh1bkxGbk9YWVNCbEpYSWpJRTQ1Mk9vUQ?oc=5",
+      "title": "Nagpur tops Maharashtra with 40 ‘Ayushman Arogya Mandirs’ under National AYUSH Mission - thehitavada.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T07:05:47Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Nagpur tops Maharashtra with 40 ‘Ayushman Arogya Mandirs’ under National AYUSH Mission thehitavada.com.",
+      "ingested_at": "2026-07-22T08:35:33Z"
+    },
+    {
+      "id": "8eb1b0f2d1e82793",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGdheTdGZTVwZC0wOG9Gd3Y5TXNjS192ZlA0WElNU0lta0ZYZm1zcWJaRldranAtNTNEcGoybHpxM1VnaEwxQmZZQVBEdllmQ1NQVUNfRllzSXQyMHA1Nlp1c1p2QXhadGJLV3BjRHhERkQtM0k5c1NzcjIyZEpUZXlTZVRJNVhjZVdDZDZxa3F2X1pXcWR3RVhDUUt6RE0?oc=5",
+      "title": "Reconstitutable powder filling system for global MedTech client - Manufacturing Chemist",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T07:02:27Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Reconstitutable powder filling system for global MedTech client Manufacturing Chemist.",
+      "ingested_at": "2026-07-22T08:35:34Z"
+    },
+    {
+      "id": "36752439f40bed43",
+      "url": "https://www.expresshealthcare.in/news/from-reaction-to-prevention-rethinking-dengue-control-in-urban-india/454444",
+      "title": "From reaction to prevention: Rethinking dengue control in urban India",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-22T06:52:45Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of From reaction to prevention: Rethinking dengue control in urban India from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:34Z"
+    },
+    {
+      "id": "6f509f2bec4e9377",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEtPNmVGTFhTR0tmNG1VTk1XVFNIcUxfc2g4SHJZVk5UMko1cWFhNV9KNVY0Wlk2OC14LWlmNEZ6Q0tOcUR2S1ZTWnN4TEJPU05YTm5yb0o4WXBRdGFtbTUwTDVfd0FrcHJpY1RBTlhIUjZpWFFGVUlYTlJ4NC1oOFRFS1Zxd0xBd1EzZERwU2N6QnA1anBscVBWZlFPRE84TmV1UjF0TXdfcG55dlE?oc=5",
+      "title": "Wales secures first post-Brexit EU funding deal to boost digital health innovation - Nation.Cymru",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-22T06:44:42Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Wales secures first post-Brexit EU funding deal to boost digital health innovation Nation.Cymru.",
+      "ingested_at": "2026-07-22T08:35:35Z"
+    },
+    {
+      "id": "0b2c2f4ef3cecf8a",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/andhra-reports-7-new-covid-19-cases-tally-rises-to-26/132552017",
+      "title": "Andhra reports 7 new Covid-19 cases, tally rises to 26",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-22T06:11:34Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "According to the Health Department, four of the fresh cases were reported from Guntur district, two from East Godavari and one from Bapatla.",
+      "ingested_at": "2026-07-22T08:35:35Z"
+    },
+    {
+      "id": "2c3da175d6087461",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREFudXlpY25OMlJ0ZENJcF9tYUxqRnVLZWRDY01CZjcwR19wdllCTnNPOXgxd0x5OHVBQjRsWC1JdFlNN1FXWTlySExpd1pSVXJCbVZlS210MW9BVkJCSlVkVG0zNlgyb00zVi1BSW1JLXpOdElOY3NFVFpHTFFxVTJrdnJoRWY3eXdHTFc5VXlTNXljMlVlMzZfUGVRUWd6akl1bEloWm9oZmlyZDdV?oc=5",
+      "title": "Bioscan Research raises $1 million seed funding led by Unicorn India Ventures - Indian Television Dot Com",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-07-22T06:00:53Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Bioscan Research raises $1 million seed funding led by Unicorn India Ventures Indian Television Dot Com.",
+      "ingested_at": "2026-07-22T08:35:36Z"
+    },
+    {
+      "id": "ecacb98b05d6aa05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkNaOGdXLVJaNVFEOV90TG9jRjhEQkozVDFYWjhzSGZVNEFVcmhuY1VNYm9lMzB6T3lIdGpaeVh0WlExQXRKMzBRN3oyQlNVb09TQWFIQnN6Y19KZzBvZFJNUnpKQ2FzOUx6OFhiMGRBM252M1lPcFpROGZaMmJIOFdzeXpJSDFNVTFxYXFMS3dyZEl3eGVQNThMTGUzZlFsS2NPTHB3a3lsR2g0RE9RS1ZfSzhpeFJnSURSNjVRd1RHOHhHWGfSAcYBQVVfeXFMUE5DWjhnVy1SWjVRRDlfdExvY0Y4REJKM1QxWFo4c0hmVTRBVXJobmNVTWJvZTMwek95SHRqWnlYdFpRMUF0SjMwUTd6MkJTVW9PU0FhSEJzemNfSmcwb2RSTVJ6SkNhczlMejhYYjBkQTNudjNZT3BaUThmWjJiSDhXc3l6SUgxTVUxcWFxTEt3cmRJd3hlUDU4TExlM2ZRbEtjT0xwd2t5bEdoNERPUUtWX0s4aXhSZ0lEUjY1UXdURzh4R1hn?oc=5",
+      "title": "Medtech startup Bioscan Research raises $1 Mn in seed round led by Unicorn India Ventures - Entrackr",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T05:55:31Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Medtech startup Bioscan Research raises $1 Mn in seed round led by Unicorn India Ventures Entrackr.",
+      "ingested_at": "2026-07-22T08:35:36Z"
+    },
+    {
+      "id": "266c54e96de31800",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3JVUWZrWmdXRE52dnFlQnJpSDdjc0hHYTNVVVJ4b3JJNElpd3NDQzEyNnlxRjV4OFVmblFnZ2QzV3NPcXpPNU5LS0dNRmlMTG9tbGpBem90WGVvQXBzY2RuOEtqR3I5RW04MmZ0dG9heDlqeEV2bGVyY3BDdjk1NkJMTlBiZw?oc=5",
+      "title": "MedTech Startup Bioscan Research Raises $1 Mn in Seed Round Led by Unicorn India Ventures - Indianweb2.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T05:51:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "MedTech Startup Bioscan Research Raises $1 Mn in Seed Round Led by Unicorn India Ventures Indianweb2.com.",
+      "ingested_at": "2026-07-22T08:35:37Z"
+    },
+    {
+      "id": "e203c4bfe43200d7",
+      "url": "https://www.expresshealthcare.in/news/ncw-forms-three-expert-groups-to-review-ethics-regulation-and-medical-safeguards-in-art-and-ivf-services/454441",
+      "title": "NCW forms three expert groups to review ethics, regulation and medical safeguards in ART and IVF services",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-22T05:14:11Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of NCW forms three expert groups to review ethics, regulation and medical safeguards in ART and IVF services from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:37Z"
+    },
+    {
+      "id": "58341e990f3e8014",
+      "url": "https://www.thehindu.com/news/national/telangana/five-women-develop-complications-after-c-sections-at-telangana-govt-hospital-inquiry-ordered/article71250242.ece",
+      "title": "Five women develop complications after C-sections at Telangana govt. hospital; inquiry ordered",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-22T05:11:25Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Five women develop complications after C-sections at Telangana govt. hospital; inquiry ordered from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:38Z"
+    },
+    {
+      "id": "682d37fd3969d7d4",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/study-to-evaluate-impact-of-heat-stress-on-health-in-tamil-nadu-and-karnataka/article71250181.ece",
+      "title": "Study to evaluate impact of heat stress on health in Tamil Nadu and Karnataka",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-22T05:08:16Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Study to evaluate impact of heat stress on health in Tamil Nadu and Karnataka from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:38Z"
+    },
+    {
+      "id": "51bbe9acf552d959",
+      "url": "https://www.thehindu.com/news/national/hospitals-must-not-function-as-an-extension-of-law-enforcement-safdarjung-hospital-resident-doctors/article71249474.ece",
+      "title": "Hospitals must not function as an extension of law enforcement: Safdarjung Hospital resident doctors",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-22T05:07:54Z",
+      "category": "medical-device",
+      "country": "GB",
+      "summary": "Coverage of Hospitals must not function as an extension of law enforcement: Safdarjung Hospital resident doctors from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:39Z"
+    },
+    {
+      "id": "0c05641c8da71ecf",
+      "url": "https://www.thehindu.com/sci-tech/health/quality-sleep-key-to-protecting-brain-health-amid-rising-screen-time-say-neurologists/article71250063.ece",
+      "title": "Quality sleep key to protecting brain health amid rising screen time, say neurologists",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-22T05:05:56Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "Coverage of Quality sleep key to protecting brain health amid rising screen time, say neurologists from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:39Z"
+    },
+    {
+      "id": "ffd565d9346911f6",
+      "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-health-politics-and-access/article71248492.ece",
+      "title": "Health, politics and access",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-22T04:30:10Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Dengue vaccine approval, protests, healthcare access, climate-linked crises and more.",
+      "ingested_at": "2026-07-22T08:35:40Z"
+    },
+    {
+      "id": "f959a9f53aaaf0b1",
+      "url": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance",
+      "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
+      "source": "STAT News",
+      "published_at": "2026-07-22T04:01:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'.",
+      "ingested_at": "2026-07-22T08:35:40Z"
+    },
+    {
+      "id": "cd6b6b415aa0e573",
+      "url": "https://arxiv.org/abs/2607.18613",
+      "title": "Additional Food Enhances the Bifurcation Structure of Predator Competition Models",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Additional Food Enhances the Bifurcation Structure of Predator Competition Models from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:41Z"
+    },
+    {
+      "id": "cec2c5904403e0a5",
+      "url": "https://arxiv.org/abs/2607.18969",
+      "title": "How the fly holds a single goal: normalization, not selection, in Drosophila FC2",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of How the fly holds a single goal: normalization, not selection, in Drosophila FC2 from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:41Z"
+    },
+    {
+      "id": "2cc141a1fba6114a",
+      "url": "https://arxiv.org/abs/2607.19089",
+      "title": "An unsupervised clustering analysis of breast cancer data derived from electronic health records enhanced through UMAP dimensionality reduction",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of An unsupervised clustering analysis of breast cancer data derived from electronic health records enhanced through UMAP dimensionality reduction from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:42Z"
+    },
+    {
+      "id": "88ea9ab58b702fa5",
+      "url": "https://arxiv.org/abs/2511.18745",
+      "title": "On the role of fractional Brownian motion in models of chemotaxis and stochastic gradient ascent",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of On the role of fractional Brownian motion in models of chemotaxis and stochastic gradient ascent from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:42Z"
+    },
+    {
+      "id": "8affaae0692ffc0b",
+      "url": "https://arxiv.org/abs/2607.19075",
+      "title": "From Operations to Elderly Care Outcomes: A Thematic Review of Industrial Engineering and Decision-Support Approaches",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of From Operations to Elderly Care Outcomes: A Thematic Review of Industrial Engineering and Decision-Support Approaches from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:43Z"
+    },
+    {
+      "id": "21d950fb6258dc82",
+      "url": "https://arxiv.org/abs/2607.19137",
+      "title": "MIRAGE: Multi-scale Lesion-Informed Representation with Auxiliary Guidance for MRI Contrast Enhancement",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of MIRAGE: Multi-scale Lesion-Informed Representation with Auxiliary Guidance for MRI Contrast Enhancement from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:43Z"
+    },
+    {
+      "id": "333c34f2a5df55f2",
+      "url": "https://arxiv.org/abs/2607.18749",
+      "title": "Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:44Z"
+    },
+    {
+      "id": "d6bc71c52f9ada2e",
+      "url": "https://arxiv.org/abs/2607.18927",
+      "title": "OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:45Z"
+    },
+    {
+      "id": "ed3417400147e4f0",
+      "url": "https://arxiv.org/abs/2607.18748",
+      "title": "ConceptCF: Concept-based Counterfactuals for the Explainability of Time Series",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "Coverage of ConceptCF: Concept-based Counterfactuals for the Explainability of Time Series from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:45Z"
+    },
+    {
+      "id": "0eee0ac233d13462",
+      "url": "https://arxiv.org/abs/2607.05462",
+      "title": "BioSecBench-Refusal: A paired metric for performance and alignment in agentic biosecurity risk assessment",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "Coverage of BioSecBench-Refusal: A paired metric for performance and alignment in agentic biosecurity risk assessment from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:46Z"
+    },
+    {
+      "id": "daf5f94821e05c77",
+      "url": "https://arxiv.org/abs/2607.18249",
+      "title": "MechAInistic: An LLM-guided Multi-Agent System for Reasoning over Genome-Scale Constraint-Based Metabolic Models",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of MechAInistic: An LLM-guided Multi-Agent System for Reasoning over Genome-Scale Constraint-Based Metabolic Models from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:46Z"
+    },
+    {
+      "id": "19f4170e0f9e3685",
+      "url": "https://arxiv.org/abs/2607.18311",
+      "title": "Approximating SPR Distance Between Phylogenetic Trees with Graph Neural Networks",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Approximating SPR Distance Between Phylogenetic Trees with Graph Neural Networks from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:47Z"
+    },
+    {
+      "id": "74f08532d24e14bd",
+      "url": "https://arxiv.org/abs/2607.18364",
+      "title": "Evaluating the Impact of Epidemic Control via State-Dependent Markovian Switching Modeling",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Evaluating the Impact of Epidemic Control via State-Dependent Markovian Switching Modeling from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:47Z"
+    },
+    {
+      "id": "0dc42079207e5f7a",
+      "url": "https://arxiv.org/abs/2607.18428",
+      "title": "Analysis of inter-spike interval statistics in neuronal networks with depolarizing and hyperpolarizing threshold potentials",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Analysis of inter-spike interval statistics in neuronal networks with depolarizing and hyperpolarizing threshold potentials from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:48Z"
+    },
+    {
+      "id": "5c8079bb28a3f269",
+      "url": "https://arxiv.org/abs/2607.18434",
+      "title": "Gravity-Driven Eco-Epidemiological Dynamics in Tri-Trophic Food Chains",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Gravity-Driven Eco-Epidemiological Dynamics in Tri-Trophic Food Chains from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:48Z"
+    },
+    {
+      "id": "a07b0acd90ecd201",
+      "url": "https://arxiv.org/abs/2607.18460",
+      "title": "Competitive and Complementary Tools",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Competitive and Complementary Tools from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:49Z"
+    },
+    {
+      "id": "695bff17aaef61e0",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdzd5RHJmd1Bub1pzVndvU3MyRVVoa0NRYWlDN2dBS0xEQzdLRDdmdXJRYmVxQTVXNkxCTms0WkVNNWNHU2RoUzZMS3pSSHlCOVJ4NXkydzdfdkNKRUFmRzdxVmhvYjdrSE5EWkIxcHBZRXpRS1l0RTY2T1RaMkVZLWpWdTZBVlhLMm80RnRjdXlRb2NSRVMzS05wckNHRFRYN2kyZnMwT3dSeWtUZzJ6a0JXWjRSZHlRRFBnOFFBTmpvRU9PTHZhZmFHTGllQTd4X3hJUE9wVVJrZjZCWUZDWEVPUnIwMzRzaXBvX0NVYjJhRVdZLURPYUhyS3N1RG5v0gGGAkFVX3lxTE1oNGNmOGZ6QzVubUZobjc2WjNwVlpXRlMwcF9HMVNVWGxhZGFzdU15VDBKLXRaRHhiWEVoM3JsUWxHcHNzdmdfcTlCWVZwckNKZm9EanlmTlY1YkhfeWZaUW42eUJVcXhtZVd5ZjR1VEdHbF82cTRZa2ZubF82bWJuWUg5RWM4dW52dVY2dzlfZjBleVFibXNYSEhtWkRMaXVYTjcybUFzcURSSU1fRERFSnJsMTlxOWduUHJsNVVXaG82Vmpnd2h6QnBGc0ZxV3FoQ2VfRkZkZlkybE9qcXlyakpJREg5LS1yb2pERUFQOU01OWt2UFNSS1hIUHlQNW93QWxqVFE?oc=5",
+      "title": "July 22 BRICS health ministers’ meet in Chandigarh: Focus on TB, infectious diseases, digital health | Hindustan Times - Hindustan Times",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T03:40:43Z",
+      "category": "other",
+      "country": "DE",
+      "summary": "July 22 BRICS health ministers’ meet in Chandigarh: Focus on TB, infectious diseases, digital health | Hindustan Times Hindustan Times.",
+      "ingested_at": "2026-07-22T08:35:49Z"
+    },
     {
       "id": "3d914adb871f2372",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGdUZjlEV21fUWpxVGdjbm1uSWpLVHFEWURTdlZqLVdZcEhOT1ZjR0xQWlkyQlVwdUQxUFhUaVQ1Y2NiZllNVmQxZzk3NGlFVnd2RFl6Yjc3a19qQzRhNVpvUFNtcXQ0UWxleHdEeTB0SVl5VzJiYnZuRTVlQm1adzN1VjAtSkRfcENDb2Utc19WMlZQVEdIZzNYalplMFo4dWUxVWpOSzA?oc=5",
@@ -11,6 +429,28 @@
       "country": "IN",
       "summary": "UP receives ₹500cr investment commitment in MedTech manufacturing hub Medical Buyer.",
       "ingested_at": "2026-07-22T02:57:27Z"
+    },
+    {
+      "id": "4bd69dd7b4a2c081",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/ncw-panel-forms-3-groups-to-examine-various-issues-linked-to-art-ivf-services/132549242",
+      "title": "NCW panel forms 3 groups to examine various issues linked to ART, IVF services",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-22T02:05:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of NCW panel forms 3 groups to examine various issues linked to ART, IVF services from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:50Z"
+    },
+    {
+      "id": "15946baf9e06a3ff",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/india-to-host-16th-brics-health-ministers-meet-in-chandigarh/132549281",
+      "title": "India to host 16th BRICS Health Ministers' meet in Chandigarh",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-22T01:57:05Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "The three-day programme, being held as part of India's BRICS Chairship 2026, will begin with a Senior Officials' Meeting on Wednesday to finalise the draft ministerial declaration.",
+      "ingested_at": "2026-07-22T08:35:50Z"
     },
     {
       "id": "c0f83edf60ee73e5",
@@ -123,6 +563,17 @@
       "ingested_at": "2026-07-22T02:57:32Z"
     },
     {
+      "id": "3eee127237c275d8",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2RXUHlVWGdGYmZXS0taSFdKZnFYZ0NPdk9OczRPYTVEU050bGNBdjBseXpCbWZDZHdrUWx2QWZqMl9LWTVDQmIzSGRJSTNKTlhDOWlMN3E0eTRIVjNJZE9VdTBmUmMySXYxRXdoaDBCTjRnU0lPZTF2dUd0WFctRUJqOVE1TWJQekpteU1yQVdHYlNFamI1Tl9jRkxodklBYWNUeUQ3RVJfcE5NRWtoSXY3UnljZw?oc=5",
+      "title": "Coffee may lower heart risk; new FDA-approved tech helps spinal cord injuries - CBS News",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-07-21T21:53:00Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coffee may lower heart risk; new FDA-approved tech helps spinal cord injuries CBS News.",
+      "ingested_at": "2026-07-22T08:35:51Z"
+    },
+    {
       "id": "6ef4965e68350d2c",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeUhyd0FmTDN3bG1OTVJQRmVKX25waEpfa2tJWVp0RGs1aWFwUWRKQ0xFTExNMjhHM2NvUkx6UUVYaWdtdlc0ZnhGVUMxcWI5ekp3TTVmWTE3TDVFVkZERERFSjNsbHZZUl8tcVlUeWFpTlU2T2RIN205dVk5WHlpOXl5RzJZeFNZQzduTVAxR2Z4aHFLSGY5aGZxWlFkaTV1eGhKNm9SSlN2MGxzb1Z5VTRTSWNKYmx3ZFFMTmQ5aFRGd3ZodFVHc3FIbTRKeGV3RFJNWGtXZ3ZxU01fTWlvekQ1NFhLR0tFOVZWc1ZFNWI4MEh2emcwd3Zja0hHWmc?oc=5",
       "title": "Danaher Posts Strong Q2 Results Driven By Life Sciences And Masimo Acquisition - insights.citeline.com",
@@ -187,6 +638,17 @@
       "country": "US",
       "summary": "Coverage of Why Novartis CEO ended his ADC holdout for $1.5B Myricx deal from the health-tech news cycle.",
       "ingested_at": "2026-07-21T19:37:25Z"
+    },
+    {
+      "id": "76e21078079b81d8",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczZneEw0WU4wRzFaaGs0cWwyclViVTFDSDU3RjVDNWNrdXVVOEZGQW5jbnRyN0Z5Ukl3WU1mVld5Z2NrYzNnb3B5M2F6TUVpZ1Bla2ljN2FMYkRKNHNTWk1LSWNhZUdHSWltcmZyNC1laFg5WWVlM1RyOGl3UUduR21YR215dlhfSzRhTVdsUXlPQlFGWmJXTElJRmI1UQ?oc=5",
+      "title": "Want to Advance Faster in Medtech? Master This One Skill - Medical Device and Diagnostic industry",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T19:21:32Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Want to Advance Faster in Medtech? Master This One Skill Medical Device and Diagnostic industry.",
+      "ingested_at": "2026-07-22T08:35:51Z"
     },
     {
       "id": "51c0f0d478b315b7",
@@ -583,6 +1045,17 @@
       "country": "GB",
       "summary": "Savvy Senior: Doctor visits without the drive—how Medicare covers telehealth Henrico Citizen.",
       "ingested_at": "2026-07-21T14:02:58Z"
+    },
+    {
+      "id": "7ca92104265cd6bb",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/extreme-heat-in-pregnancy-raises-risk-to-newborns-in-india-study/132537117",
+      "title": "Extreme heat in pregnancy raises risk to newborns in India: Study",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-21T12:46:20Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Extreme heat in pregnancy raises risk to newborns in India: Study from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T08:35:52Z"
     },
     {
       "id": "f6e0734f8cce82d9",
@@ -4037,6 +4510,17 @@
       "country": "US",
       "summary": "Coverage of FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol from the health-tech news cycle.",
       "ingested_at": "2026-07-17T19:16:58Z"
+    },
+    {
+      "id": "99e3193285d912d1",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0hiMmpITEQySW1IazR5RGFHWlpnVkRsR2pCem1JY0doTVU1eTRLV19wWmdXMTdJTUYzZ3l1T1ExaTJJWWVock81Y3IteVBKbHRPT1Q0YXBNUmpZZUVPc3Fqd2ZhajN0aV96NmE0TG5qNjBySWRILXM4cHJHREhoeEtTU2wxNFg4SFI1dGdqUTRyLXMzU1psdVJoYWNiZVZKY2RMdGZoOWppalJleEJNWDg1Mi1DRUhpZ21z0gHAAUFVX3lxTE9ibGVDRFVDLUF1VEo3WGVzbXVzaU5vclNxVldYTERTdERETE96bmhSTFprZkJJdkk0RGtrdlk3TEZhR2VPZFJLamFPSmJRbEMyVEJRQ2pZRDVGeDlFWm5wdDNFT0dkTjlUNEZQakNiN0ZkWEFTMHpIRWotRmpnMmdINl93UnA1bDlZYi1QZzZ4VWNzLVNwMFVpX2pUUkN4VkZjUnVpVHU2X0tIRDBodkcxc29yYnZMV3dNTjlHNXdydA?oc=5",
+      "title": "Govt reviews Ayushman Bharat PM-JAY, Digital Mission progress - Asianet Newsable",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-17T15:01:06Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Govt reviews Ayushman Bharat PM-JAY, Digital Mission progress Asianet Newsable.",
+      "ingested_at": "2026-07-22T08:35:52Z"
     },
     {
       "id": "1ade6a970bea47fe",
@@ -11398,6 +11882,17 @@
       "ingested_at": "2026-07-16T19:19:15Z"
     },
     {
+      "id": "2b3491a85170429b",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWnJjX0dxMkFPZ2V1SmVPdkh3WEkyNldmdC13RnV6U0wtTzlISEZKT05OX1N0SGNJZktHcjBlZW1LdUQ1Yzg3X2RhWEgwYjhFOGx5RXA5azNiLUgtY0tNR1A4RXNFU3lQTjJjNTlIeTE4YWhEZjZHSjNjSjdGeHJLRm8xUWI4ZFczSEQ1WVAwSmZoTktGOUZVdk1jQ2l1a1U1NGhXWGVRWWVPd1hlcTd3eXJwVEFhbjM0LVpNM1V6OFhnT2ZTczdweWVjUlBtZDVsUmdxRVR5Rlp3eUJsdzM0OEwzcWhGdk1a?oc=5",
+      "title": "PM Modi Highlights India’s Ayushman Bharat as World’s Largest Healthcare Programme — Implications for Healthcare Sector - EPS Guidance Update - dars.gov.et",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-14T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "PM Modi Highlights India’s Ayushman Bharat as World’s Largest Healthcare Programme — Implications for Healthcare Sector - EPS Guidance Update dars.gov.et.",
+      "ingested_at": "2026-07-22T08:35:53Z"
+    },
+    {
       "id": "4f366842b84fb9ab",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY1ZEaVNmejRrVG9UVHVRYU1ZQlpUZkNwUWdDTWZkMUp0UXN4YnA0MjYwLVVUN01IVzlnX0xBcG9tVE9uazZsa1pVVmdJYmw4WVUwWE9QZTNIdkdpMGtaRFp6UmRWcFZjd3BDRVpOVzg4dVNkM1ZZaXFibHRLclAzZ0dyYmNVdGNid1lxQTA3RFRNSzhWN3R5TXJsUFU3Qld5Q1lRa0R3ZXhmZE9GY3Z3QkpnU0RHc1N1YlNMc3pRYlNjX3hicEZPTUJNTG5yMnYwNjh4anJXWEcxanNQZk9FemdrbVh4SldzUGtyQ0E4aDhBdw?oc=5",
       "title": "PM Modi highlights Ayushman Bharat and Jan Aushadhi as key affordable healthcare gains over 12 years - ANI News",
@@ -14883,50 +15378,6 @@
       "country": "GB",
       "summary": "NHS App to move from ‘front door’ to ‘companion’ Home | Digital Health.",
       "ingested_at": "2026-07-17T08:17:29Z"
-    },
-    {
-      "id": "5dd9aae40bde6a10",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXp5aWI1cWNHbXBjdmh3OXExNDItdXhScEp3ZVJKV1ZEN243NXR5VlpiYk56YVVrbGtXajBfTGhJUVJBaENad29EU0lhRVk0TzRfZDhMSG9Pd1hWVHJldkxZLVpyb2xOMkF2UktsckhlM3JDX0hkcllJYl9tUTBwWWNBdzZ1Wk5zNHV5UGlYMENTVk1IVmhXd1hMd092RWY3d1EydlYtaWE4VTBlSkFGMDlBNWpIMWFEYXZlRlQ4MVhfWU5hNTB4TVM0azV3anZQSjhSQkZEQkRzNWxITjdzTWdB?oc=5",
-      "title": "Andhra Pradesh MedTech Zone and MedArtha Capital launch India’s first MedTech investment platform - BioSpectrum India",
-      "source": "Google News India MedTech & Regulation",
-      "published_at": "2026-03-24T07:00:00Z",
-      "category": "medical-device",
-      "country": "IN",
-      "summary": "Andhra Pradesh MedTech Zone and MedArtha Capital launch India’s first MedTech investment platform BioSpectrum India.",
-      "ingested_at": "2026-07-21T19:37:37Z"
-    },
-    {
-      "id": "f191c802624cb6ab",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVm0yUm9TbGFTdjI2dWMzVE53S00tR3hKXzRZa2N2OVpUaEFQei1NSUNWd0hiRmJpWlZYcWdtVTJMa2Jxbm5ySGFVbGJNaDZxOTA1RFpXU2VyVExrRVlJeHRlNUUzLW04UGhmejNtWHJ0RnFEbkxsUlYzMWxlTmxHNl9CcFJiampUZkEyc1liOG85Q0FPUjVCRV9TS2lCNFMta2V1N0V0U1o?oc=5",
-      "title": "Strengthening digital health capacities through blended learning - World Health Organization (WHO)",
-      "source": "Google News Digital Health India",
-      "published_at": "2026-03-24T07:00:00Z",
-      "category": "other",
-      "country": "IN",
-      "summary": "Strengthening digital health capacities through blended learning World Health Organization (WHO).",
-      "ingested_at": "2026-07-21T16:06:52Z"
-    },
-    {
-      "id": "8f44796513a6091d",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONUpSUjFPWG9PMnlIZjR6dGdUSHlwYk9aMHRNUFpVVEM2eUFQbE1GdHFoRzh5V3BJQzNYdFY0VkgtMmF5aG1VM1hTaWhvSF9WYWJINUxQU2UxQnN5OFBJWjVTRHZGMFNjWnRhal9zYngyc1hWU0s0U0swUGtkQjQ1TW9uc1FuSjI5blQ0dEQ4WF9EeWpNenI4ZS1qZ1RhN1JrMXZDY1NyVk9NNkRDLU1xYVA5UldwYnpPX01RMVNkLVNYMy1JMnZMMGNsc3dKdzRZUDdFUmg2ZDBsajhZQ0NILUkxMld5S2xTUk1URU5MZ0RVRWNKVXBla2M1dHVkdDYwUjA0?oc=5",
-      "title": "Philips remains No. 1 in Medtech at European Patent Office and the largest Dutch patent applicant - Philips",
-      "source": "Google News Digital Health Germany",
-      "published_at": "2026-03-24T07:00:00Z",
-      "category": "medical-device",
-      "country": "GLOBAL",
-      "summary": "Philips remains No. 1 in Medtech at European Patent Office and the largest Dutch patent applicant Philips.",
-      "ingested_at": "2026-07-18T19:11:09Z"
-    },
-    {
-      "id": "533c8f25c96423d1",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlZkQ2hXSG1yX2thbmktUGtpQmNJcHhFV2JadmVHaUE0UmRtd3hXdjFHajkxR2JNR0t5VV9rZXg0X0ZsdzNFakdSNU8xZ2VHVm1peEIzZlhUNUNUWGszbUNha2NWN2YwVHBMdU1YRG9QM00yVlFjY1V4eUpzekJwZG5UT3FoZw?oc=5",
-      "title": "Buzzy AI doctor startup raises funds, will meet FDA - STAT",
-      "source": "Google News Digital Health US",
-      "published_at": "2026-03-24T07:00:00Z",
-      "category": "ai-in-health",
-      "country": "US",
-      "summary": "Buzzy AI doctor startup raises funds, will meet FDA STAT.",
-      "ingested_at": "2026-07-18T07:59:13Z"
     }
   ]
 }

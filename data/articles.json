@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-07-22T14:06:14Z",
+  "updated_at": "2026-07-22T19:27:58Z",
   "articles": [
+    {
+      "id": "68478f0e5849aa80",
+      "url": "https://www.fiercebiotech.com/biotech/celldex-ends-work-skin-disease-after-failing-phase-2-test",
+      "title": "Celldex ends skin disease program after failing phase 2 test",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-22T19:27:02Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Celldex ends skin disease program after failing phase 2 test from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:13Z"
+    },
+    {
+      "id": "7abe8621999f8f83",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYTA2azdDeDBKVnpVOVVCMl96cm9uNmtaVXlqcjRueWtWTVROMUY4TjBMdG1VSV9xLVlrN3JuNE1JRUM5dndORGxLSDRsM1c0MG9FeGx2R0h3SGozNDZHSTFidWFpdDBvZlJvdXlhSzRjZG5oZEo4MUk1MEF3Z09PVFRuYW9sZ3hqaDVoZ3BLc2RFYXV4dk5hWktPU1hjclJDeXhlVlNRTXd2aDN3SHk2YXExTVJvbkRtZFhfQVRidW1wTGpTaDhJSXZGZDVTTHBnaUZHbVZVNNIB3AFBVV95cUxNT3NUVHJ6MTluRjVSeENVOGFSUEYzbjcyam5GcHN1MXV6bF9QYzlQU1JJSlZYcXVkMDIxdTJPZXpKRDc3ZVhzcjBFRExfWXplNGd5NklrMmtrSHk0ZHctOW5sNWVRNEtLMDdQTy1BOTBDMDVjVzVoUFBOY2V3X0NWd0MxMHFQLThETWJWRXRiTEg4bjZYQU05T01QTDFydUlUMGdsY2E0eFFFYWNURzBRb2ZXclJqdGZRSkZudUZNSklHbU4zd2ZMRDh0RmxSUldOT3BRSWpGVnNPQ0Zl?oc=5",
+      "title": "Varanasi ranks 4th in UP for issuing Ayushman Vaya Vandana Cards - The Times of India",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T18:16:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Varanasi ranks 4th in UP for issuing Ayushman Vaya Vandana Cards The Times of India.",
+      "ingested_at": "2026-07-22T19:27:13Z"
+    },
+    {
+      "id": "c7ee4197f722f096",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-announces-first-participant-selected-tempo-digital-health-devices-pilot",
+      "title": "FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot",
+      "source": "FDA Newsroom",
+      "published_at": "2026-07-22T17:57:57Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:14Z"
+    },
+    {
+      "id": "d12e4aa2e2cafa0c",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdUVMRUpRdV9hNDlDV2NEdVlxTHlpM3NyaWF5OVNuZl9GOG42YjBnOHpjcEotd2Jwcy05OFNETVlhSTlEc21CeXFMU0p0S05wV1VESXl4QmszZzFpc200UFE0aXdaUFhHZ0ZVOWQwMWk5alhDVE1GSlQxd19xdEFyWmdiUTBaVDhCSTZheHJuVWhDdC01STI4OTRsazVlT3JZSkdSbnl4cGIwT0l2b0k2LW9VTl9lam5HN0E5MGZPbE9JRjE5MFRPWDczd3FHTmxmbWkxbWV2b193OEpZamxJ0gHkAUFVX3lxTE5UUGlCb3NFb2tGeWZrVEp4bzhQV0d6R3JabmNkTFNoYUtSSmVzLXdkNEZKOUFTTTJlMXRBbWtZNXRwYmFJSTNkQ0U2Zm5DTV9fUnZZOFFIYm84QkQ1d2F3MnJCdTYtTFZBLUdmMllMZEx4ZFNCUTk3YVJmVTZEUkZnQXZMZm54aWJMMk1wYVFjdGlZcGxHU3ozd09XdFV2dFZDYkxCVWdlZGY5eUlJOXpVd1hrSVEzdHlyNllrTzJrMjlneHpmMjZhcVRYb3JXZ3FFSEZ5eVpNSmZMSzktUThBbWhGTQ?oc=5",
+      "title": "Eligible children living in CCIs to be covered under Ayushman Bharat - The Times of India",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T17:55:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Eligible children living in CCIs to be covered under Ayushman Bharat The Times of India.",
+      "ingested_at": "2026-07-22T19:27:14Z"
+    },
+    {
+      "id": "3c2ec525844ecf51",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUUlOT3dOVXE4aEFRa3lBbnlXbF90cFNJLVZfRDVpck5ONktmY1ItTFkxdm0yOXZjQnNBOHlRRkVWMlJxX09EN3BHSDN5T09ERkhwU1JjbWpOVVQxMm04Njk4NWpuQnFUS1VQYlFqdDZvTnBUbExEc01DRG5DQkdNTlZBajlNTEU1eTc0c1V2UEs0c25pcjN3blJ4TlhPVlA3NWZRTXJ0bmEtZmZuTmhzcldLb3lIdjhRZlZQbVYyZzBETS15My1rWXpaRkFkMHdVVTRKcTlNamltR0FWWU1NYzBQcw?oc=5",
+      "title": "Enhanced Sermorelin Program 2026: Pricing, Telehealth Terms, Compounded Status, and FDA History Explained - ACCESS Newswire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T17:48:49Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Enhanced Sermorelin Program 2026: Pricing, Telehealth Terms, Compounded Status, and FDA History Explained ACCESS Newswire.",
+      "ingested_at": "2026-07-22T19:27:15Z"
+    },
+    {
+      "id": "155950be6e340b7c",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdFhMZVV0VXJhZFA0X0Zqc0FteWdKSHpjc09hQVJvOEtSVEhfemg5bHZ5S1pXUGxVR3BqSUdVdkZlY0tVbl9DazVlVVlZNGRHYUdvTXlGX2x2elR3MGx2Yk15YmJKWmEyMUNncU9iRms5ekFqRzVNOUctaV9kVkU1U1lKdmtyRkdrenJnNXNZdkhVUnA5U0M2RGNXZVpJZVZpYTlhQk9XZ3o0UEtwaXlkSGMtZnI4QmQzSU52akcyZU9faUF6bEJZcWpLbERQMG5oQy1IRDFycGRlZC1oSUFId0ZlUVpVbFYwYnA5a2dGR1Y0Zm9hcldzdWgtQlFOY1gzVFFXN1c1cGNOMFRaTzFwZTlQaWlRbl9nNUJyUUlVUVk?oc=5",
+      "title": "FDA Invites Digital Health Industry To Apply For Grants Supporting Drug Development Research - insights.citeline.com",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T17:01:55Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "FDA Invites Digital Health Industry To Apply For Grants Supporting Drug Development Research insights.citeline.com.",
+      "ingested_at": "2026-07-22T19:27:16Z"
+    },
+    {
+      "id": "8aa6a6d196b64c9a",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUxsLVY4dE5taTcyNTlGd2Zia0tKVHBqQkI5eWNwcmdod2owcXB0NW9MMDd5VDBPaE01NGttVUd5Z1k5UUp1SnhnMk9Hek5GbWpUYXQ0NFF1VXJVQkpfbHhOY2FMUHBrY09wc0dIdmIxMmtDZzBKNzd2bERZQUpzU2NDLUk3cnB2UXlmVUIyQzRmbFVWV29zR3MyOHVLNTNCeTUw?oc=5",
+      "title": "Ozeina Launches Telehealth Platform for Longevity Care - EIN Presswire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T17:01:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Ozeina Launches Telehealth Platform for Longevity Care EIN Presswire.",
+      "ingested_at": "2026-07-22T19:27:16Z"
+    },
+    {
+      "id": "b133de6d73a95111",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDZxeXZ2cmNibGdzYm1wMGpQaHNHQXJxNDNCd2xzR0NCX1lITEc5WkZfVldwTjI0MzlFVHZ1ajVEUEdlemZRRjZEWldjZWVaak5Ud0JlbzdSaUxDQTZ4N3lucEdBTTFCRWpfZmhQV1AtV3g5NlVxX0I3VXFvc1dPS3dNYU5UR1FBVlBzckJyOWRxQkFwUllEODJwREphR1pwdDZGOXNyWkU3ZVE?oc=5",
+      "title": "Out of class: Medtech startup MaiBand gains $375,000 R&D investment - BusinessDesk | NZ",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-22T17:00:00Z",
+      "category": "medical-device",
+      "country": "GB",
+      "summary": "Out of class: Medtech startup MaiBand gains $375,000 R&D investment BusinessDesk | NZ.",
+      "ingested_at": "2026-07-22T19:27:17Z"
+    },
+    {
+      "id": "69f2b7f3d351543a",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzJzbHRLOUZ6NkFBX0NaV3dwNmhJa05tWWVvT25EZVE3d3BJbVJ6UmxKcWJQU2tfOUt6aDdDclIxS3JGUFUycGQwZnh6ZU1FSWRGcmE4NHdmUGRwdW1sZ0pvV21SR1RoOWllTFI0ejVhUW5WclU5QUFuR1BzNUNUNGQ2OUpoYWZhckJpd2hJLVo?oc=5",
+      "title": "J&J MedTech jumps into surgical robot game as OTTAVA secures FDA nod - Yahoo Finance",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T16:39:10Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "J&J MedTech jumps into surgical robot game as OTTAVA secures FDA nod Yahoo Finance.",
+      "ingested_at": "2026-07-22T19:27:17Z"
+    },
+    {
+      "id": "4f7c827e5ae199af",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmE1UmxzQngzNG1tbkpQLThZSmlCNmVGWS03b3hoakpjYkpUdlJXQ2JWTHFaeHJiSHVXTEoyUDlHeDVxUzNMM2tJTjY2SGROdURxTEwwd25zdWNmWUc3RTZYSnNYWHVqMWU3SDZxMW5sbEZ5dUhHTVExbzBNbzhIS21zZy1hMGdrcTI0a1gzNUlFUWpkV0hOb21vbU0yODdUXzJrZlF1S0pLT1piMUVyT1hFd1dmVkwtN0tTemZ0ODJIbmlXWERoVW5pQ00wbkxZM3Z6azlTcE5yckJLX2pCdU5XXzI?oc=5",
+      "title": "Taurus NAD+ Injection Review 2026: Price, Telehealth Process, and What to Verify Before Ordering - ACCESS Newswire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T16:38:48Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Taurus NAD+ Injection Review 2026: Price, Telehealth Process, and What to Verify Before Ordering ACCESS Newswire.",
+      "ingested_at": "2026-07-22T19:27:18Z"
+    },
+    {
+      "id": "f9d9881073a460a1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12WEhodTVuZlJjY2NVZzl2NEg4V2RxalNXOXBFWUxyNTVsWnoxVW93Z3Q5Ym1tM3B3bWJvcjZsM1JYRXd1R21HMDBfZ3lob2pwblJYay1jXzdDVkJMdE4yODVyWlZXTEJoSVBtenRoNlY0bkVEOWc?oc=5",
+      "title": "South Korea Unveils 'AI Basic Healthcare Strategy,' but Telemedicine Regulations Remain a Stumbling Block - finance.biggo.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T16:26:00Z",
+      "category": "ai-in-health",
+      "country": "KR",
+      "summary": "South Korea Unveils 'AI Basic Healthcare Strategy,' but Telemedicine Regulations Remain a Stumbling Block finance.biggo.com.",
+      "ingested_at": "2026-07-22T19:27:18Z"
+    },
+    {
+      "id": "e2191140d18483fd",
+      "url": "https://www.statnews.com/2026/07/22/world-cup-argentina-loss-hospitals-lessons",
+      "title": "Opinion: What Argentina’s World Cup loss should teach American hospitals",
+      "source": "STAT News",
+      "published_at": "2026-07-22T16:25:44Z",
+      "category": "other",
+      "country": "US",
+      "summary": "“Hospitals often make Argentina’s mistake: We confuse continuity with progress,” writes physician, hospital administrator, and bioethicist Basel Tarab.",
+      "ingested_at": "2026-07-22T19:27:19Z"
+    },
+    {
+      "id": "616b10725cd272a4",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmF4OW1fMlYxR0x1Rk1KMzBsUU1JVzFGNlRnbVBseWZoZTRVTWQ4a19TbTB4dThKTFZwRFRvbmYyZk92cGhjMW5YQThNUWNyenpsa2F1MGpRU2ItaTlJRVAyNlp2TzRRREpXTS1HWmZDMkROR1kwNmRwMkNad21oV2s3VndfYnNwY1VLR0tkR2QtX0ViYnl5Mi1sMHVacWh6MjVpRzUtUmZRZ2RObE16eg?oc=5",
+      "title": "J&J MedTech jumps into surgical robot game as OTTAVA secures FDA nod - Medical Device Network",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T15:45:05Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "J&J MedTech jumps into surgical robot game as OTTAVA secures FDA nod Medical Device Network.",
+      "ingested_at": "2026-07-22T19:27:20Z"
+    },
+    {
+      "id": "576b8fff5efbc564",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2ppSlpueWEwMlhuQWJrcWZUbWN0QWFVa2FlbU1qcHU3b3E4VTlCWFNyS0lySlZPSFFpeTFKcGZ3QzNDLXg2UUt4b01UVVBKbzNWa01icXVpWUNnaG5fY09HS0E1NmtXX3F0emoyamdnUFRoQnI2VUNkUzVRRTNEZjB5NFBiajlsQlA1QTlEblM?oc=5",
+      "title": "First At-Home Depression Device Cleared by FDA - Telehealth.org",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T15:06:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "First At-Home Depression Device Cleared by FDA Telehealth.org.",
+      "ingested_at": "2026-07-22T19:27:20Z"
+    },
+    {
+      "id": "9d9c9f53c245d9ce",
+      "url": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905",
+      "title": "J&J gets FDA authorization for Ottava robot, teeing up competition with Intuitive",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-22T14:53:06Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "While Johnson & Johnson will go head to head with Intuitive in the U.S., analysts questioned whether its robotic surgery system will take meaningful share from the market leader.",
+      "ingested_at": "2026-07-22T19:27:21Z"
+    },
+    {
+      "id": "808ef9dd615bab4d",
+      "url": "https://www.statnews.com/2026/07/22/congo-ebola-outbreak-1000-deaths",
+      "title": "Congo’s Ebola outbreak has killed over 1,000 people",
+      "source": "STAT News",
+      "published_at": "2026-07-22T14:52:30Z",
+      "category": "other",
+      "country": "US",
+      "summary": "At least 999 people have died from the Ebola outbreak in Congo, a grim toll in what’s already been declared the fastest Ebola outbreak in history.",
+      "ingested_at": "2026-07-22T19:27:21Z"
+    },
+    {
+      "id": "243bea5239cced12",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHVOOWVmRGt4MkZ4WnpiMkxUWlV6Tnd5djBXbVNUQ2t0Mm1XLVRjZDJvdmlISFdtRl9tbmdLeFRFYkJUc0syeGR0bGVMbWpqT2N2LTUzVXU2RFpKNUs4SmJxakJzQWlkamRSOVZvZzVNZ1JabVRxMmFyY0RnOTUwdVhrY2dYOUZG?oc=5",
+      "title": "Samsung Launches Galaxy Watch Ultra 2, Watch 9 With Advanced Health Tech - 조선일보",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T14:31:49Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Samsung Launches Galaxy Watch Ultra 2, Watch 9 With Advanced Health Tech 조선일보.",
+      "ingested_at": "2026-07-22T19:27:22Z"
+    },
+    {
+      "id": "eba02c8f49a383f8",
+      "url": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions",
+      "title": "STAT+: Pharma tries to tamp down broad China restrictions",
+      "source": "STAT News",
+      "published_at": "2026-07-22T14:18:47Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "AI-focused VC firm raises $800M, Merck's new cholesterol pill, and more biotech news from The Readout.",
+      "ingested_at": "2026-07-22T19:27:22Z"
+    },
     {
       "id": "466a447cc76773ca",
       "url": "https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug",
@@ -33,6 +231,28 @@
       "country": "US",
       "summary": "Crystalys Therapeutics has raised $130 million in series B financing to advance the development of its gout drug dotinurad and prepare for a potential commercial launch.",
       "ingested_at": "2026-07-22T14:05:31Z"
+    },
+    {
+      "id": "0e311232371237e9",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQVlCTmhGM2pUSVRfT2xhZmJsREE1RjJXanlKeF90aWt2Q2hpSkxHc3YzeTFvZXpUS3NYOVNNTnJSQTQweWpVWjlFdFBUZ1ByekFjYW1JSlhYdjZ4UmVvUnluOExxeGd0NTV6cEJtSWFuZGdXTF9YZmluSExVSUdNRWxaUU1FdkNxa0Y3SDNmNVhYbnRoVnFBcE5Bc3Q0YlRCRGZIQXR2SURfcVRZOUdVX1FvS1JuWS1CbXgwR1pUdGZFRVc0UUtVUTI4WHVoVW9aNGlHQWN5c1Brcl92TWpfbU5XWW5sVms?oc=5",
+      "title": "Regulation, Data, and Digital Health: Why Ireland Is Emerging as a Hub for SaMD and EU Health Data Innovation - Healthcare IT Today",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T14:05:03Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Regulation, Data, and Digital Health: Why Ireland Is Emerging as a Hub for SaMD and EU Health Data Innovation Healthcare IT Today.",
+      "ingested_at": "2026-07-22T19:27:23Z"
+    },
+    {
+      "id": "e957d710095ac177",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVNxU2tqa1NYeGFXY1FwZHRPMjFxUU5HbjNhcjF5Q2JfQjNER01ROFpXQk8zd0xKTldiQWtnM0c3S1U4X0dHRGNpOUJTQkctYlVfZE5sUGMzdmh2a0g0WnVqZjlWRVBqRkVrcTFOVlRTaV9hdktmcnkwdWhGRmdvSlRrVU5MVTk3eGtoSjVUYTNXQUZ1aHhvSklYZ2ZBNHlWaWdnWmNCOWlhcWM?oc=5",
+      "title": "AcuityMD Now Trusted By More Than 500 Medical Device Companies, Including 16 of Top 20 - 01net",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T14:05:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "AcuityMD Now Trusted By More Than 500 Medical Device Companies, Including 16 of Top 20 01net.",
+      "ingested_at": "2026-07-22T19:27:24Z"
     },
     {
       "id": "dde987ee7cfa1a87",
@@ -110,6 +330,17 @@
       "country": "GLOBAL",
       "summary": "Adherium Limited (ASX:ADR) Falls 17.9%—Why Digital-Health Investors Are Reassessing the Story Kalkine.",
       "ingested_at": "2026-07-22T14:05:36Z"
+    },
+    {
+      "id": "69e86a9f6f0bf2c4",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeEN1eVRiRFVwVklUSUd2MG1QZ1NSdlNBUmV6V1ZNcTdncDBpTHJDWTA5OWY4VzlQaGxtZ2FOc1lGZF9DMFhsaGVHV0lYcTZudkNnN1NscnlFc0ZvdTdmNXFzcmdDLWtUeFlwdTI1VHUwX3E4MDdObEVyY0I4QUl5ekloYVZHQno5T1JFOTVJRjY3LW9PamFFb0lrYTdHTVpfVnF1ZnhuSmVFZWdQcnRpcDhncFpnajVBY2JXWnhIbE8wYXN1Y3p6RVhvYm9EbXlkUFZYYWF4QVRFUQ?oc=5",
+      "title": "Regulatory Traceability Demands Highlight Market Opportunity for Ventory in MedTech Compliance - TipRanks",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T12:17:09Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Regulatory Traceability Demands Highlight Market Opportunity for Ventory in MedTech Compliance TipRanks.",
+      "ingested_at": "2026-07-22T19:27:24Z"
     },
     {
       "id": "c670b5c26f763030",
@@ -286,6 +517,17 @@
       "country": "US",
       "summary": "Science Corporation announced the European launch of its retinal implant for patients with age-related macular degeneration.",
       "ingested_at": "2026-07-22T14:05:44Z"
+    },
+    {
+      "id": "b0eb99f97f2a1399",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHd3T1pWMVp5bXp2bE11ZE5Dank0S0doY0piWHhtYWNwMFR0OHBfdUlORWFJV21mUVhIak1Td3VQYjJYaFZZb19TRWNTYUpmQjJheDVhM3ZtaFZzSURuaWNwZUxwX2lxMTFrdFU4OEVLYXFVSFpQa0hqSDVFZnBQVDhKNUpMeVlldmhSUFI5dkNKM1JoOXROdzBqT0hHNElUZ3oxN2ZTRk5HWXZqS1ZKdGtBajFrdGVTNkNEY2kxUG1ZU1hjUzJLRQ?oc=5",
+      "title": "Bioscan Research raises $1 million in seed funding led by Unicorn India Ventures - expresshealthcare.in",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-07-22T09:59:58Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Bioscan Research raises $1 million in seed funding led by Unicorn India Ventures expresshealthcare.in.",
+      "ingested_at": "2026-07-22T19:27:25Z"
     },
     {
       "id": "8c23e3cf7e766791",
@@ -486,6 +728,28 @@
       "ingested_at": "2026-07-22T14:05:51Z"
     },
     {
+      "id": "355ed6716f34b38b",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlNxdXhhNkR3aW1sYjFJNnBCS1JJM3lfTmRRMS1TeEJQaHNMeVY3WGUtbGk0Z19vUVhZeUs2RFotVWJGTEJfMGdxeXZVOUJRUlFrS0daRFVPZ0piV0dOYUd5SHRaUlVIVGZNeDRyTEZ6WkpBajRZNDRsU1BhbEs1NjZOaGpDeTJJSGRIQlp2eHI1X0s2bk9NTzVOUjJaa0gyS1d0TA?oc=5",
+      "title": "Digital health EU funding scheme open for Welsh applications - Business Wales",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-22T07:57:53Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Digital health EU funding scheme open for Welsh applications Business Wales.",
+      "ingested_at": "2026-07-22T19:27:25Z"
+    },
+    {
+      "id": "87b0ecb8b8e77563",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLTFOSXd0a1d1cWhGUUZDV0hZLWNjTy1hWmVFaXJVa3pHSGxnRENKZ2toTHZCaUVlb3VMMFMtUFlVNG5EZS1ZWElrZlFYV2VPNklZNHowRHJVVWdpdW9wWmlZOVNDSkZoY0VXWTNwb2Jyd3FJSmlCeGJ0NXlaSEtLaHZFZG5HeS1xa0dyZTlMU01QdmFibXVqbGFaVk4yM0dOUkZSZnZxVjFGanlLUnlGakhGUk9kRVlmUjhOa2F4NUxPam5lbksxQmxsVk5aZ3dBcjByNjdQa9IB1wFBVV95cUxPLTFOSXd0a1d1cWhGUUZDV0hZLWNjTy1hWmVFaXJVa3pHSGxnRENKZ2toTHZCaUVlb3VMMFMtUFlVNG5EZS1ZWElrZlFYV2VPNklZNHowRHJVVWdpdW9wWmlZOVNDSkZoY0VXWTNwb2Jyd3FJSmlCeGJ0NXlaSEtLaHZFZG5HeS1xa0dyZTlMU01QdmFibXVqbGFaVk4yM0dOUkZSZnZxVjFGanlLUnlGakhGUk9kRVlmUjhOa2F4NUxPam5lbksxQmxsVk5aZ3dBcjByNjdQaw?oc=5",
+      "title": "Medtech startup Bioscan Research raises $1 million to scale brain injury diagnostic technology - Indian Startup News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T07:06:01Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Medtech startup Bioscan Research raises $1 million to scale brain injury diagnostic technology Indian Startup News.",
+      "ingested_at": "2026-07-22T19:27:26Z"
+    },
+    {
       "id": "902b6cfe78ae19b0",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRTV0Zks0MzNsbXVGTmozVVJOR2Zkb2ZOOGY0RFI2TFE2VjZMWmd3WEJNaFlmRjdjSUdISk5iWjNhZkdTb1RHd1RXeERCX1VWRVA1NzdzQ3JkU3U4UEFhbUN2QmVFWU5Ob2Y0ZVFvWmVndEtlRzNkdm9CMEcwX255M0dHcEZZUHdfSFBDd3hBTG5aOTlpeUx1TWUzamJoS3NVcjhmOHFMN0lOTUpGWWNCUjk5S0NQMmh1bkxGbk9YWVNCbEpYSWpJRTQ1Mk9vUQ?oc=5",
       "title": "Nagpur tops Maharashtra with 40 ‘Ayushman Arogya Mandirs’ under National AYUSH Mission - thehitavada.com",
@@ -550,6 +814,17 @@
       "country": "IN",
       "summary": "Bioscan Research raises $1 million seed funding led by Unicorn India Ventures Indian Television Dot Com.",
       "ingested_at": "2026-07-22T08:35:36Z"
+    },
+    {
+      "id": "8e9ad31db22694bf",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUhqb3JpT3lQMWt2eUZJU2J5SEdiazlFSGJIRXIzcEpkQmY1ZHliY01ub1lXVmlpTTBKYXlWNHVDLVEyckxZZkJaNUlZa3FoeXBObjJTWmYyUWVBZG5md01icWZ6aF9uR1JHbDVtb3c3T3EzanJIODNLSnVDVFZBX0ZiZWFPaDNlUk9odDRiY3JXUmRGUGVlS0dMS1czTzgtQWxpNzlINlppeklOaDdUN2Z5MDg4eFBONFREV2NERTlxUjdsa18w0gHHAUFVX3lxTE5BSGpvcmlPeVAxa3Z5RklTYnlIR2JrOUVIYkhFcjNwSmRCZjVkeWJjTW5vWVdWaWlNMEpheVY0dUMtUTJyTFlmQlo1SVlrcWh5cE5uMlNaZjJRZUFkbmZ3TWJxZnpoX25HUkdsNW1vdzdPcTNqckg4M0tKdUNUVkFfRmJlYU9oM2VST2h0NGJjcldSZEZQZWVLR0xLVzNPOC1BbGk3OUg2Wml6SU5oN1Q3ZnkwODh4UE40VERXY0RFOXFSN2xrXzA?oc=5",
+      "title": "Bioscan Research Raises $1 Million To Expand AI-Powered Brain Diagnostics - ciol.com",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-07-22T05:56:58Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Bioscan Research Raises $1 Million To Expand AI-Powered Brain Diagnostics ciol.com.",
+      "ingested_at": "2026-07-22T19:27:26Z"
     },
     {
       "id": "ecacb98b05d6aa05",
@@ -671,6 +946,61 @@
       "country": "US",
       "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'.",
       "ingested_at": "2026-07-22T08:35:40Z"
+    },
+    {
+      "id": "dde1ae0b7dfcce41",
+      "url": "https://arxiv.org/abs/2607.19203",
+      "title": "Evolutionary Entropy Shapes Lifespan of the Greenland Shar",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Evolutionary Entropy Shapes Lifespan of the Greenland Shar from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:27Z"
+    },
+    {
+      "id": "373fba72ea5cc5ca",
+      "url": "https://arxiv.org/abs/2607.19269",
+      "title": "Multiscale hemodynamics model for the pulmonary arteries, arterioles, capillaries, venules and veins",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Multiscale hemodynamics model for the pulmonary arteries, arterioles, capillaries, venules and veins from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:28Z"
+    },
+    {
+      "id": "97373a25e3f40543",
+      "url": "https://arxiv.org/abs/2607.19316",
+      "title": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:28Z"
+    },
+    {
+      "id": "a26f359c0a046508",
+      "url": "https://arxiv.org/abs/2607.18277",
+      "title": "Risk-mediated transmission dynamics govern epidemic trajectories beyond physical mobility",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Risk-mediated transmission dynamics govern epidemic trajectories beyond physical mobility from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:29Z"
+    },
+    {
+      "id": "6c63e940020cec78",
+      "url": "https://arxiv.org/abs/2607.18301",
+      "title": "Long-term Coexistence of Epidemics and Risk Awareness: Impacts of Adaptive Human Response and Fatigue",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-22T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Long-term Coexistence of Epidemics and Risk Awareness: Impacts of Adaptive Human Response and Fatigue from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T19:27:29Z"
     },
     {
       "id": "5f7fc4472db775ee",
@@ -5335,6 +5665,17 @@
       "country": "GLOBAL",
       "summary": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate Yahoo Finance.",
       "ingested_at": "2026-07-21T19:37:35Z"
+    },
+    {
+      "id": "6f6413362a100314",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM2dKVlJLTGxfZjYteHRmNldHbjNjV2ttZHRiMWNRSmtFX3BNOGhSVEJvSjR1RkFtLUZsNU8tWUJvYjM5aVpsM0t6UkVQOVdXTGotR2ZBbnRNcVpVTVYteTdPMDY4VUhNaFFzOTAwM3ZNV0ZaSV9ZaVZvVkh2dXNveHY5dmtGeWxXQUZnY2JRUHAzRUFxWWlJa2xFWHZ0WGpHU2cxUGxZanlzbVZWX3pHWWpCeWlUYWlSV2NrSTZxNm9Ud0h3U3d2Z3d1UTlMVTM1dG5z?oc=5",
+      "title": "Intuitive Surgical Falls as Obamacare Concerns Rekindle Medtech Demand Debate - US News Money",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-07-17T11:22:00Z",
+      "category": "medical-device",
+      "country": "DE",
+      "summary": "Intuitive Surgical Falls as Obamacare Concerns Rekindle Medtech Demand Debate US News Money.",
+      "ingested_at": "2026-07-22T19:27:30Z"
     },
     {
       "id": "f1ce652b091f8db4",
@@ -11079,6 +11420,17 @@
       "ingested_at": "2026-07-18T07:59:09Z"
     },
     {
+      "id": "8220e1f60d2f304b",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNzFLR054cG1PT2twMlphMFZXRzZLZzlFd1Ywd05BaDNrTGh2Q3hOUGJGc3d2dzZhS3U5Vm80eFpJTk1YZjJ0cHA2MVIxaDNFRFNCQThXWWJhOHZiaEZvVms1QXZ3MWVCbUM2UUI0dk9fTWZqUzd3U0lIZEc3bXZfaERzVzVmUUhoUDh6NUduc0JBTDFfZll2aHJoVFhTSWZEYmx2X0VlZHhyRTQyQ3lEdGI2VS16SktwZWlaMnI3anhGZEF3cUFGRkxmX0U1eDVfTlNwaXVlVl9pekJTS2cwdldSYWZDdjU3T2MzNFJpdG0?oc=5",
+      "title": "Dr Sunita Dube, NMC Chairman & Ministers Launch Red Alert De-Escalation & Medical Sainik by MedscapeIndia - ANI News",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-04T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Dr Sunita Dube, NMC Chairman & Ministers Launch Red Alert De-Escalation & Medical Sainik by MedscapeIndia ANI News.",
+      "ingested_at": "2026-07-22T19:27:30Z"
+    },
+    {
       "id": "8f22d638f8796648",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW1VWlhiMmM4a3lyV3F6TzBJZkFxSnZaVmFOaW5BWUFMa1BRekMxTVBvSlFxdUgyNjVsdWpiSzVBZXhHaHBUaF9sdVJKajVITFc5bTVTSEpFUndEem44RGhUWHoyRWtzcFpDZ0tXUl94U1h5T180cFA3UC1tYlJEQ2wwemthdm55M09DY05vVUtSRmFxMDc0WExIUUF0TDZ1MnotLTFYSU84TzBTb2NmcTA5dTgxWUk2X3l1THFzcXVxNy1kVXA0Rkg0dVdfVDhUZk5VdlVVZnJiTENM0gHiAUFVX3lxTE9HYlk0XzR4ZktEM3Y2VzliYm9sRkkzNmE3NUpaMlpTVHNiNVJYQXlreEY3cmQ4MFkyT2VWQWZTRjR3elhUOUhucGpIYUF2aXNuVkpPYWlXOVVaX0hXM1N1WEQ4YU94cHRhT0JlSmRBQ2NVUDlfZWx3Z0hWOEJQd19OUDg3Y3pzZmdRdUVXR3NzY1FfZFN5SU9fcDBPNVVNWVh2dzFwNXRvaURqZUxxanJDLUEyTl93aVpvV2VJWFVSZFByS0RQcGlhVU1MdmF5dGU4TS1ZSUM4endjc0Z0RUFWc3c?oc=5",
       "title": "Swasthya Sathi continues as hosps on verge of Ayushman Bharat rollout - The Times of India",
@@ -12949,6 +13301,17 @@
       "ingested_at": "2026-07-19T08:26:16Z"
     },
     {
+      "id": "8f3ee7f7676871b5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVFHTVRtZlZWdGRKMXExOU5nbzRxRkFNcEdsN1JHc0hFM0tQSmZZNXdsek1rWWgxMExibGlHQjl2WEd0M3d5WG5NTWZ5ZXhlU3REbmNnV1JhVlV3Y1ZRVUg4QzVCWlJ3NndiN0pqOFFYa29TOWlCakpzS1c0ZWV3WjFZb0pMUC10QUtOcE91MThycl90YkROcm5qM2JhQVZOMGJnbmR5MGNSUmdidjM4?oc=5",
+      "title": "Editorial: Exploring the benefits of digital health technologies in diabetes management - Frontiers",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-06-02T17:15:27Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Editorial: Exploring the benefits of digital health technologies in diabetes management Frontiers.",
+      "ingested_at": "2026-07-22T19:27:31Z"
+    },
+    {
       "id": "cfe8ddfb00c0152a",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-help-accelerate-cell-and-gene-therapies-patients",
       "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
@@ -13266,6 +13629,17 @@
       "country": "GLOBAL",
       "summary": "Coverage of Message by the WHO Director-General to the people of the Democratic Republic of the Congo from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:38:07Z"
+    },
+    {
+      "id": "d32bb759e0fdac6b",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZMWZhZ3NyZV9OSlg4ZE1DTTd4c3dLU29VNk1tbnZyZkpfVUJyVElJOHc4SHM4UWhfbW5vTDhqa0FDQjhWYi1MNE5rTzhkWGRzeGd2U0VLZW1veENrVFJkUDRXUldrYllFUWFRWmhRZGlZV1VoaE9wcFZ5NA?oc=5",
+      "title": "NHS App to be a lifelong companion - UKAuthority",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-05-28T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "NHS App to be a lifelong companion UKAuthority.",
+      "ingested_at": "2026-07-22T19:27:31Z"
     },
     {
       "id": "dd9f8d8ff160dd58",
@@ -14311,6 +14685,17 @@
       "country": "JP",
       "summary": "NATHEALTH inks MOU with Medical Excellence Japan to advance MedTech Medical Buyer.",
       "ingested_at": "2026-07-16T19:19:20Z"
+    },
+    {
+      "id": "96b0b887d65f958f",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80cThjQ2VVRjg2YncwOFp3azl4Uy1kbWdsYThic0JxZjBrMW02Z1RMYmsyNGJpYjdHOEJlRm9LdFpOdXZTMzdtam45bkN2THc3SnhkcXJZQzA2N2t3U2Vtc0ZQQlU2N0Y5MWswSmM5cw?oc=5",
+      "title": "Topic: Digital health in China - Statista",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-05-07T07:00:00Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "Topic: Digital health in China Statista.",
+      "ingested_at": "2026-07-22T19:27:32Z"
     },
     {
       "id": "21e2b88a4f0e108e",

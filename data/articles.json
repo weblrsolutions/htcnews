@@ -1,6 +1,281 @@
 {
-  "updated_at": "2026-07-23T14:11:48Z",
+  "updated_at": "2026-07-23T19:24:50Z",
   "articles": [
+    {
+      "id": "404d3e0995a4a113",
+      "url": "https://www.fiercebiotech.com/medtech/roche-diagnostics-see-3-growth-china-near-patient-care-unit-dragging-sales",
+      "title": "Roche Diagnostics growth remains muted amid China headwinds",
+      "source": "Fierce MedTech",
+      "published_at": "2026-07-23T19:23:53Z",
+      "category": "medical-device",
+      "country": "CN",
+      "summary": "Roche’s Diagnostics division continues to battle growth headwinds, notching a 3% increase in sales.",
+      "ingested_at": "2026-07-23T19:24:04Z"
+    },
+    {
+      "id": "a674314fc5f46633",
+      "url": "https://www.fiercebiotech.com/biotech/scancell-go-public-after-winning-reverse-merger-bid-troubled-neuphoria",
+      "title": "Scancell to go public after winning reverse merger bid for troubled Neuphoria",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-23T19:23:53Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Scancell to go public after winning reverse merger bid for troubled Neuphoria from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T19:24:05Z"
+    },
+    {
+      "id": "90190aae9055f637",
+      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+      "title": "Fierce Biotech Layoff Tracker 2026: Clinuvel cuts fifth of staff; Novartis loses 322 workers",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-23T19:23:53Z",
+      "category": "other",
+      "country": "US",
+      "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+      "ingested_at": "2026-07-23T19:24:05Z"
+    },
+    {
+      "id": "1d8d735ef327be86",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU1dmV0F1SURDb29KY29tMXhGZ0RRS0Y0eGUxRzlpRGFDbFlBVHJmTnBIM2pPSmlGQUU3Sllwc2h5T2tDMXd3WTkyV0FPbV9XWFMxVFFUVGRId3JVeGlhUF84ZGRoV0k0QXVZUmtBYW9MY2E3U1ZTNm1pUU1hdjV2akRsdVJGVVViM2JHMVhuZFU0amhNOVd1Vjl6ZlBualhCZFBNcFVmOWZVd2FCUS1QVmUtY29iaXpkS1ZOYXVRNHMwU2NNdVlDclR0UXdnbnJYdGZlNGR30gHbAUFVX3lxTE8tUHctcnMwNUZHVUxvV29Fc3E2MVdpeWgzUi0tRHppQ3pKMnU1RXBhYkFwaUM1Y3c2ZjJXQnY5UTFraFlmeXItM1hrWnRDb3FCc3BpRE1NakdYRzVIYW03aEtLWEoyRjBTYW8wUmFiNDExR1lVRVhaSWhYekEydGtFQnhVak1iMFJZRVV2Q3YtdDJ1T2ZJMG1lNWI5XzZIMERXZ3U4SFJnUE5iT1pSMUZQUlAzLUlaWkc2SFhscExIRkljTWRoZkh6aE54VFZHWUF4Z2c2dUtHUzZiVQ?oc=5",
+      "title": "DC calls for special camps to maximise Ayushman Card coverage - The Times of India",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T18:48:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "DC calls for special camps to maximise Ayushman Card coverage The Times of India.",
+      "ingested_at": "2026-07-23T19:24:06Z"
+    },
+    {
+      "id": "5d62404aa3f64329",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3JLdWlOcVpucnRvY3FuX0lzUlpaOHdzb0QySTQ1eVZHWFFTQmJURWpIVGJ5cXRWSWdxWndWMGtSVTVROFJzQ0xZS293ekpSREFhYVhYdGRZcXhlRGJWR29iU05KNWN0OV9fcUhsSHJMcUtOVTVxb3lkUFhVa0JPN3Z2UFBYWl9pNldLMjJxUG1iZ1pKak5CSjBFSHprNUxxTnhuXzl5V3hlWnZTYUE?oc=5",
+      "title": "FDA adcomm votes in favor of lifting restrictions on popular wellness peptide BPC-157 - Endpoints News",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-07-23T18:34:00Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA adcomm votes in favor of lifting restrictions on popular wellness peptide BPC-157 Endpoints News.",
+      "ingested_at": "2026-07-23T19:24:07Z"
+    },
+    {
+      "id": "77cdfd69ae77ac3a",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHhYcjhlNFdpUnd3UEtXNUdYTTR6ck52VS1VbC1mN3pOMmdvQXJVVE1Ia1FFcnhQQUloRjNSSm14dUFFcG5HT21pOVp3bVR1N2trdUZpemdNWWs4TVlROFhjWTdzdzRoak1ENkZnZGpRbzlMTGU4ME5TS3c2MGI1SkhRZzJvSEtfb2FWU3R5X2psd0Y4dzhUa0llMUVtRkVPYmdfZA?oc=5",
+      "title": "FDA names Dexcom as first participant in digital health pilot - MedTech Dive",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T18:09:52Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "FDA names Dexcom as first participant in digital health pilot MedTech Dive.",
+      "ingested_at": "2026-07-23T19:24:07Z"
+    },
+    {
+      "id": "048b3ce45c23120b",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlctQm90SVFoNkFMN3JfTEVnaEpVcTdGdWRCZ01JV0V6QjI5WWN4MGx0SVBSRHBabWNXWWVyZWZsUzhHZVJxcEg2UGZId3NIUWktcDlYVVl3eVlVOWMwSEVFcWh6OHBheEdGOXBPYXU0WDdtODRwWlNKa1Q1MVVkSDVRUmVmX1A5Nkc5WkpSNzZ6czhfQmJLc1RQU3BCVFhRYVlNekpGb2FjVFIxWFE?oc=5",
+      "title": "District Attorney warns residents about telehealth Medicare scams - WETM",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T18:02:12Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "District Attorney warns residents about telehealth Medicare scams WETM.",
+      "ingested_at": "2026-07-23T19:24:08Z"
+    },
+    {
+      "id": "c80bb3fe64a0358d",
+      "url": "https://www.medtechdive.com/news/fda-names-dexcom-as-first-participant-in-digital-health-pilot/826059",
+      "title": "FDA names Dexcom as first participant in digital health pilot",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-23T17:46:35Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Selected devices will be exempt from certain premarket requirements while manufacturers collect real-world data through Medicare.",
+      "ingested_at": "2026-07-23T19:24:08Z"
+    },
+    {
+      "id": "5524e5f3839b18e8",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJ0WXdPeHhEWnlta3Iwb3l4UEhYVHJ1dFNxLVBIUnJ1Tmh4VE00MWhhbktuWUVIYXhBOG1HUzZQU0lPWUI0aEVMdXEtbnRJNWh4Rk9wa29OMjJ4cmFoT1l1QVp6RGRROHVERmtRNlFsRUh3eV83d3FkTWZzN0NQV1pyTUZmNVBFMnRLOUo0XzU0U3V4NTZfRXVVRU5IZ2ZLMXBYX1JDY3l0NDBNcjZlLWRB?oc=5",
+      "title": "AbbVie, Allergan takes on Swiss aesthetics rival over syringe design - Life Sciences IP Review",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T17:45:33Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "AbbVie, Allergan takes on Swiss aesthetics rival over syringe design Life Sciences IP Review.",
+      "ingested_at": "2026-07-23T19:24:09Z"
+    },
+    {
+      "id": "a111962ae43d8a0c",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZGMyMFlWNFpiU0FQUmo0cmxMY0tIc1l6X3lsa1p4SVIzMGxDcUQtWnRIcWxRU0puWGpabkx4cEwzSy03R0tlalR2eGdoc3hxQmxEUWdFSy0zWlVSZWVxM2NQcVNoZ0hOb1FkM3VDc2J4OTlVZXpJY1JsMWdLYXZBRXRtMjBhQQ?oc=5",
+      "title": "Ramin Mousavi Launches Medtech Investment Firm - Orange County Business Journal",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T17:34:46Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Ramin Mousavi Launches Medtech Investment Firm Orange County Business Journal.",
+      "ingested_at": "2026-07-23T19:24:09Z"
+    },
+    {
+      "id": "bef41e2a495cd140",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHV3VGZ0RnZBMW5uaWdzZFhGNS0xTS1xa2NCcXlscy1HT0U1U3d3cjh4RHd3MnJYMDFOcjdkcGJFWUhoVEdCRFFYeDMyZEphSDBhRzdBSnVwMVFwTi1UVmNBNzhaaV9NTjZyQ3BwUnZLTEw2WEJhdnREWnpDVGw0MFNjMWVFMlBqbzZPUlNSS200U0xTX3A2Q0RpeTJyZ3BmWGJ3bw?oc=5",
+      "title": "ISRG vs. ABT: Which MedTech Giant Is the Smarter Investment Now? - Zacks Investment Research",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T17:30:01Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "ISRG vs. ABT: Which MedTech Giant Is the Smarter Investment Now? Zacks Investment Research.",
+      "ingested_at": "2026-07-23T19:24:10Z"
+    },
+    {
+      "id": "7d6494e371fc5627",
+      "url": "https://www.statnews.com/2026/07/23/cyclospora-second-outbreak-reported-fda-cites-72-new-cases",
+      "title": "U.S. health officials are investigating a new outbreak of a diarrhea-causing parasite",
+      "source": "STAT News",
+      "published_at": "2026-07-23T17:25:03Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Federal health officials are investigating a new outbreak involving the diarrhea-causing parasite cyclospora.",
+      "ingested_at": "2026-07-23T19:24:11Z"
+    },
+    {
+      "id": "dbd1ebc2260b7016",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUp2b01nNlgyVVVGQ2NoVm9qQTYxOTcwUUx6TmJ6eHVUMzJrUmFhZTkza2pmYm5QRkRPNUtLUlNsNlNaOGUxOG9KVFpFY0JHSmFIU2t6cHZjRzdYY2R6eVVwbFJVWS1DZ3Y5VEZWTEotTWZwV1gwOXVra2l2LWM2SWhvYzk?oc=5",
+      "title": "CathWorks leadership launches medtech growth platform NovoMed Partners - MassDevice",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T17:17:24Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "CathWorks leadership launches medtech growth platform NovoMed Partners MassDevice.",
+      "ingested_at": "2026-07-23T19:24:11Z"
+    },
+    {
+      "id": "4b6fbe2382346872",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzFGY3pjZkhXMzRTMkc3a29vTTJqQk9IaUprLTVFLXhyN0tjal9rM0dFTXJJb2JhNDlITmRFSFhhVk14Z21RQXhZb2pNR3hMNnVOc01rbUZfWmk3MWxrTDQ1d0MzcW15blV3blZoODdRTVl5RnV5b3N4YmRSLUtoNkdsa3ZNejJKTHZOSnVRNHlaSzRMakoyY0c1aHVYZlJsdFBxSQ?oc=5",
+      "title": "The Future of Digital Health Starts Here | Infineon - Embedded Computing Design",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T17:11:19Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "The Future of Digital Health Starts Here | Infineon Embedded Computing Design.",
+      "ingested_at": "2026-07-23T19:24:12Z"
+    },
+    {
+      "id": "c8778bc5bc2f7c40",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YSkJVeC1nbk02RVdJUldGSjR1U19ubnJfRjI1bklVWEc1TXZZbV9hNy1KR3BydFVIZm1hdVVVcWZsWDI5WFgtWFMxTThJN0xUcE1PeGItTWgxX25YbVhPUDJkbTFfVzRIaXRoRGVKbzZMd0VlMGV3NUxVeDE0Zw?oc=5",
+      "title": "Workplace wellness evolves with wearables and digital health in York - Lehigh Valley Business",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T17:07:50Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Workplace wellness evolves with wearables and digital health in York Lehigh Valley Business.",
+      "ingested_at": "2026-07-23T19:24:12Z"
+    },
+    {
+      "id": "fdd00e498f264e2c",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "source": "The Verge",
+      "published_at": "2026-07-23T17:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of OpenAI is making big claims as it rolls out ChatGPT Health to everyone from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T19:24:13Z"
+    },
+    {
+      "id": "f64ca1a241e29860",
+      "url": "https://www.statnews.com/pharmalot/2026/07/23/european-medicines-agency-bolster-clinical-trials-transparency",
+      "title": "STAT+: European regulators take steps to bolster clinical trial transparency",
+      "source": "STAT News",
+      "published_at": "2026-07-23T16:33:02Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "The European Medicines Agency is taking what advocacy groups are calling unexpectedly “rapid action” to ensure that clinical trial results are made public as required by law.",
+      "ingested_at": "2026-07-23T19:24:13Z"
+    },
+    {
+      "id": "81f422f49c2398c1",
+      "url": "https://www.statnews.com/2026/07/23/sanofi-insulin-lantus-solostar-pen-reported-short-supply",
+      "title": "STAT+: Popular insulin product enters shortage as other pens leave market",
+      "source": "STAT News",
+      "published_at": "2026-07-23T16:23:21Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "The Lantus Solostar insulin pen isn't in official FDA shortage, but patients are having a tough time finding it.",
+      "ingested_at": "2026-07-23T19:24:14Z"
+    },
+    {
+      "id": "f52b59b0c3e7fd7f",
+      "url": "https://www.statnews.com/2026/07/23/erica-schwartz-cdc-director-vote-delayed",
+      "title": "Senate health panel delays vote on CDC nominee",
+      "source": "STAT News",
+      "published_at": "2026-07-23T16:18:52Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Too few senators were in attendance to proceed with a vote on the CDC director nominee.",
+      "ingested_at": "2026-07-23T19:24:15Z"
+    },
+    {
+      "id": "9a36ee96ae85bfab",
+      "url": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-3",
+      "title": "STAT+: What’s in the last-minute flurry of health care bills?",
+      "source": "STAT News",
+      "published_at": "2026-07-23T15:26:27Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Congress is scrambling to advance a slew of health care bills before an August recess. Price transparency and prior authorization top the list.",
+      "ingested_at": "2026-07-23T19:24:15Z"
+    },
+    {
+      "id": "f8ead4fff810e355",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGd1VkFoSXJkMTdqNEw0bjd6Q0JzWlNzcW1kODFDRGp0ZldIQ1lPanhUZmc4eEt6cy10ZnlSVzlpbi1WSTFzS1FSSFZLTXg1YUc5OXN0bTZ4dEFJaHNkZEJaUHlIbHNFNUFBcFplczlmaHZnZ1dXdFJDR3VyY2NyaEVRZWI5eVF5Qjh3dTFaLVBza0tYdWVnQXpoWVBZaG1HRDJTTVVuMUoxejE3aDMwaXhEbHdISkVtdXp1Sk4tRzJWVnVaTi1Db2o0QWhfOENvTGsw?oc=5",
+      "title": "Irembo and Gates Foundation discuss AI and digital health opportunities for Rwanda’s digital future - Tech Review Africa",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T15:23:55Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "Irembo and Gates Foundation discuss AI and digital health opportunities for Rwanda’s digital future Tech Review Africa.",
+      "ingested_at": "2026-07-23T19:24:16Z"
+    },
+    {
+      "id": "509fe1b4bcebf7b7",
+      "url": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-2",
+      "title": "FDA panel confronting peptide controversy",
+      "source": "STAT News",
+      "published_at": "2026-07-23T14:58:41Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Today's biotech news features the FDA weighing the fate of peptides; approvals for RevMed, GSK; and data on Lilly's \"triple-G.\".",
+      "ingested_at": "2026-07-23T19:24:16Z"
+    },
+    {
+      "id": "63bff532cf036fef",
+      "url": "https://www.statnews.com/2026/07/23/readout-loud-podcast-matt-wilsey-rare-disease-lifemd-novo-nordisk-eli-lilly",
+      "title": "A father’s mission to save his daughter, and allegations on telehealth GLP-1 prescribing",
+      "source": "STAT News",
+      "published_at": "2026-07-23T14:45:52Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Has a wanted fugitive been posing as a biotech executive? And what does it take to develop a therapy for an ultra-rare disease? Find out on this week's episode of….",
+      "ingested_at": "2026-07-23T19:24:17Z"
+    },
+    {
+      "id": "50b9c963bedf6df8",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRF9nZ1VuM3VOYUhNWWRMX2dieWRjb1gxdmo5aVRpQmRucWFHeHdKTEM1RW1wOW5JX0ZXc00wTzZ3SzRFNFpxYThONVFXUl94QzQxd005ZExRbmpFYkN3bU1xeV94V2VnQWdVcVloUFdXc0NfQ2RhX3NrUmNaSEJkczRPY3poRnZpYVZ3?oc=5",
+      "title": "Global Healthcare IT Market to Reach $961.26 Billion by 2030, Driven by AI, EHR and Telehealth Adoption - Yahoo! Finance Canada",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T14:26:00Z",
+      "category": "other",
+      "country": "CA",
+      "summary": "Global Healthcare IT Market to Reach $961.26 Billion by 2030, Driven by AI, EHR and Telehealth Adoption Yahoo! Finance Canada.",
+      "ingested_at": "2026-07-23T19:24:17Z"
+    },
+    {
+      "id": "76eb8656112db0e5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZEdhc3lJRmxGV2o4b1FiY1hEbG1oUHk3VW85YmN0a0oteU5vcU5fQThCR2dCWWkyWnRZSjVNNmNCQzU2aHI1QkowTnR0OTc4dEp5M0tycWlxc21QcDhTcEpaZkJqQjE0RmJmWDFqUDZmakVLYmM1Y3B1eHU?oc=5",
+      "title": "Dexcom is first to join FDA/CMS health tech pilot - pharmaphorum",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T14:15:50Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Dexcom is first to join FDA/CMS health tech pilot pharmaphorum.",
+      "ingested_at": "2026-07-23T19:24:18Z"
+    },
     {
       "id": "fafb5fab1dd37736",
       "url": "https://www.fiercebiotech.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us",
@@ -167,6 +442,17 @@
       "ingested_at": "2026-07-23T14:11:11Z"
     },
     {
+      "id": "e7b5dd440d8fe86a",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXZZZHZLNkM0MWxrTGxZQ1hZLUs3TkhBV0JXQ3R6TnlNdU1XSDF5N0JGNlN5OV8zSmVUNkZCTzFJd2tHeDIyMkw1VWFwbC04OTlTRzJQb2hUeGlQMFBPQklkZV9ON0RLV0Zub1hFUFJKLXdqZU85cGlsZ1ZBLWJpbEd5TkRVLXgxZ3N0UVZ0NFozLUFURjF6N1BjLXdvVkJ0UlRucW9B?oc=5",
+      "title": "SINTX Technologies Engages Veteran MedTech Executive Chris Lyons and Southern Metrics to Establish Strategic Opportunity Management Program - Yahoo Finance",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T13:00:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "SINTX Technologies Engages Veteran MedTech Executive Chris Lyons and Southern Metrics to Establish Strategic Opportunity Management Program Yahoo Finance.",
+      "ingested_at": "2026-07-23T19:24:19Z"
+    },
+    {
       "id": "de59921ee28c9243",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
       "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
@@ -200,6 +486,28 @@
       "ingested_at": "2026-07-23T14:11:12Z"
     },
     {
+      "id": "aa3c6aaa3d8a8df4",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzVaZGRqSUtzRmNkbmZvT1l5bTdHdERPV2FMLVZiNkFSZ09CcUJwbU9NX2VPQ0ljc3ViQTFWWW0zYUl1Z29ha25Ob0V4d1JncmJtLWFpWkg4MDh5LWY1X1lXcVpxMWlGbmUxMk0xcjdUcE5VMkZWc3V2X05GUDQzUWZyUQ?oc=5",
+      "title": "Decathlon invests in health tech firm Health Endeavors - pehub.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T12:46:56Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Decathlon invests in health tech firm Health Endeavors pehub.com.",
+      "ingested_at": "2026-07-23T19:24:19Z"
+    },
+    {
+      "id": "463c0ec8dba56b2a",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVldwcVVFYktOSlZ0R1J1QnFuVlVXLS1uckh0bmFjUnhuYTJtMzdWRVgxS1JhRVpwb1ctRVNZVnlrMUxsV0txXzFGMWgzN212VVllS0RNQmw5NVp0NTEtM0pMa3lxZFh5RjZVdnBMX1otbWp2S2lYc1IwdDFPTFN3UnJIdTZCVGVPVTYwbjQ1TVRPWl9MY3F5Rk9ScjVnTWtCTU9fUFhaZ2w0NTI5Tmp3MEJTQ19KVkNwY1prSmFPYw?oc=5",
+      "title": "Chandigarh: 16th BRICS Health Ministers' meeting concludes under India's chairship - indiagazette.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T12:33:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Chandigarh: 16th BRICS Health Ministers' meeting concludes under India's chairship indiagazette.com.",
+      "ingested_at": "2026-07-23T19:24:20Z"
+    },
+    {
       "id": "dbf88d748d6efa4d",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1lWOGlvRklfNGt5ZjNwVFZiSjZuMjZ0QnBSZzZ0NFIzMEEzX25LSmxLakZWMnZfemF1d0V0TVNOOENHTjNxNDNkaW5fWmc2aS1YS2wzeU16QlhEampmM2tlYll6VWpIc0tQU04wam4yRmRfd2F1WjN1dDZhcHRCOElyUXZrOUFPdmdZWURETjlNekowM3FIbUdEaE9wY0wzeVdwVFZqRzY?oc=5",
       "title": "King’s Fund calls for national strategy to unlock NHS AVT potential - Home | Digital Health",
@@ -209,6 +517,17 @@
       "country": "GB",
       "summary": "King’s Fund calls for national strategy to unlock NHS AVT potential Home | Digital Health.",
       "ingested_at": "2026-07-23T14:11:13Z"
+    },
+    {
+      "id": "a15c1b5300fd6333",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUNLOFg4djlnaWZIaVh2VUFXV0x0THN2UjZNOEVSZVU1X24tbjBldzY0Nkl0ZlRRblRHWDhHS1pGWmR2Ulp4STA4eENSbUZ0NkcwM2lyRnRFWjFacG5HWG9GQmFmZC1zTmE4N2FxUDk5TzczeFJ6VVRaN0NiOUgzV3dsaURvMVVQdFdROU1IYzdXbE9SU2ExWmJtTm9OVmtuVkVudFh5b0Fqd3YxTGVoeGFjOUF6UzlRYXFtOVE0OA?oc=5",
+      "title": "Prosper Medical banks $16M to scale AI-driven concierge care platform - Fierce Healthcare",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T12:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Prosper Medical banks $16M to scale AI-driven concierge care platform Fierce Healthcare.",
+      "ingested_at": "2026-07-23T19:24:20Z"
     },
     {
       "id": "d69849e7a150488f",
@@ -277,6 +596,17 @@
       "ingested_at": "2026-07-23T14:11:16Z"
     },
     {
+      "id": "ca07e67bb1aeb03a",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWZEUjZraWRzMlktSXM1bEJHeHdUX2pmRWZaVmZrZm9vbnhCODlTaHBJME45N0JWOTI3dTRrTGJGbjR4YWpKbFlxSWtjR3Q4bVc3YkNiWnZQbG1UdTlzOVBsRENqamNrNjJlUDJOSkVqdEV3YXZBbjJUYUl6YW9LYldKbVRYeEoxNzBSZmFZWk05TThCTjl3VnRBUm1YWjJMcVN5eGs1OTJJZW9Yd0ljY01PSQ?oc=5",
+      "title": "Digital health partner Vyne bolsters team with chief clinical officer appointment - Healthcare Management Magazine",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T11:07:47Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Digital health partner Vyne bolsters team with chief clinical officer appointment Healthcare Management Magazine.",
+      "ingested_at": "2026-07-23T19:24:21Z"
+    },
+    {
       "id": "b87eb85bb4118e60",
       "url": "https://www.expresshealthcare.in/news/monsoon-infections-experts-call-for-early-laboratory-testing-to-improve-diagnosis-and-treatment/454479",
       "title": "Monsoon infections: Experts call for early laboratory testing to improve diagnosis and treatment",
@@ -286,6 +616,17 @@
       "country": "IN",
       "summary": "Coverage of Monsoon infections: Experts call for early laboratory testing to improve diagnosis and treatment from the health-tech news cycle.",
       "ingested_at": "2026-07-23T14:11:17Z"
+    },
+    {
+      "id": "3057c19a159d398d",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dURzNZdXpId0tZcGpGQnFEbHNoSHpWWnBELXVISU15bFJOQVotSFliZDF4eVJoTjVaWXdDNUJ4X09TN0dzUTJyN0ozdmZ4cnNoSEd1VWFGYnVFR1FBUmo1VGQyMDFCdDFQMzU5ZnVGUnRhLWpkZkdFdi1JN3RQUEV6OTQyeFlPOGp0Si1TU2NaX2dDeVhpZHVsbjR0Z3kxMmlGVnBuRVJ3dXE2b2pQUlUzZlg5LWd5NnFfeUpjcWJuVWtWUnJjTE9XVQ?oc=5",
+      "title": "Acentra Health Names Sreedevi Hegde to Lead India Operations, Strengthen Global Delivery Expansion - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T10:48:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Acentra Health Names Sreedevi Hegde to Lead India Operations, Strengthen Global Delivery Expansion Digital Health News.",
+      "ingested_at": "2026-07-23T19:24:21Z"
     },
     {
       "id": "9f40ca9acefd8bd2",
@@ -330,6 +671,17 @@
       "country": "IN",
       "summary": "Health tech firm gets a healthy dose of £520m funding TheBusinessDesk.com.",
       "ingested_at": "2026-07-23T14:11:20Z"
+    },
+    {
+      "id": "e66ee99116d05c35",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUFJRHI0U0ZpNmdZdEZ5THVxSUZtTHRBNm1UaXFrcXdOclY3cDhzeXdRd3J1UUVSaExhLUVrTHlDM3UzNjNPTGZpcEdiM0t2alAzYk0wSjhhMHI2VkZYcW4yWUYyZTdaSmluVUZNTXBpVDhVUVJSZFBleDlWWHktVV80RVF3TmNkc19HV0p6UWxEQy1lMXo4YVkycjVSaWJkcWMxazZUREwxRm14?oc=5",
+      "title": "Medical AI Privacy Study Finds Uneven Patient Risks - Telehealth.org",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T10:06:00Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "Medical AI Privacy Study Finds Uneven Patient Risks Telehealth.org.",
+      "ingested_at": "2026-07-23T19:24:22Z"
     },
     {
       "id": "042527721180abfd",
@@ -418,6 +770,17 @@
       "country": "IN",
       "summary": "Coverage of ePlane Company, Apollo Hospitals partner to introduce electric air ambulances and medical drones in India from the health-tech news cycle.",
       "ingested_at": "2026-07-23T14:11:24Z"
+    },
+    {
+      "id": "920eb899aceb0c4d",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUlmaDgwS084X01zSU9YMDVQT25XQXJfOXA3b1JkR0NNcExkR2x0WWs5SmdVRDBKbElHZmFYMm9KTzJWR0JKUU0tN29qTk5OSDdhRnZXNEZBcDVSazBGOHVXZWotM3ZSY3drU2pOMWxWWnItckdfQlkzcjJpanA5eDZ5VXFfOGxycFBrdFNRTFpfYjQ3bVo4MUNydXdiNjVJeGZVb0hzUFFpdFlfTC1WR3ZYVTNYMElSLThXS0Q3eHZ1ZlXSAcgBQVVfeXFMT2hlR1AzUTVCa1BBMGoxdG1TMFBKcWlqVHZmTFBxM0RhcFdLckpUQjJLYlpWNnVNM0RsRHY3elRubmtEdDJxOS1aS3JQMUUxZmhNTW1vT1lscEh5c2xlaVFJSG5wcmhsX0JXY1B3WGJwZHN4aU5fT0FkcHRxaE10b09IN2NFN3J1TU1uQ3FIU25wSHlsOFFkVGRib1NKTGxMb2FaUWVldUJ5S2dJSGE3MjEtMkstQmplVEdaaVdSU1BFOVJVdzdKLTk?oc=5",
+      "title": "Government clerk fraudulently claims Ayushman scheme benefits: Probe upheld complaint, report reached Colle... - Bhaskar English",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T08:38:34Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Government clerk fraudulently claims Ayushman scheme benefits: Probe upheld complaint, report reached Colle... Bhaskar English.",
+      "ingested_at": "2026-07-23T19:24:22Z"
     },
     {
       "id": "fe9c5ce4f0f3ee4f",
@@ -726,6 +1089,17 @@
       "country": "IN",
       "summary": "The total case load in the State rises to 32, while the death toll stands at four, says Health Department.",
       "ingested_at": "2026-07-23T08:36:54Z"
+    },
+    {
+      "id": "1682fac434797611",
+      "url": "https://arxiv.org/abs/2607.19422",
+      "title": "Aggregate models of liquidity-profit dynamics",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Aggregate models of liquidity-profit dynamics from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T19:24:23Z"
     },
     {
       "id": "8bf8828a74e27e61",
@@ -2983,6 +3357,17 @@
       "ingested_at": "2026-07-21T14:02:52Z"
     },
     {
+      "id": "03e8050965e27676",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd3lFSThkci05YWRPSkVwZjJmR0hRR3k3cGVKNnZmNmNnSUFGOUlGeUZfUWVHMnBHWHBiN2tidVU1cnE2TjljZnU4b0dvRkxVdlFvamszeFl3QWMxLWowX3ZwT0U4eEN6aE52dXFHSU9La0ktTFZLZXBmVDFVbjFjbTJfclZDck5xc2xIYXVKdVg3OVExU1NNQXlGN2NnM1p0blg0VDJvc0JQUE1zQ2hDdm8zLVBYWnRKUlRvbW9uMDNVd1ktbUV4X2VKMFVxTWFZSU12V3F3?oc=5",
+      "title": "Namibia launches National Digital Health Policy to advance equitable, people-centred healthcare - WHO | Regional Office for Africa",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-21T13:43:53Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Namibia launches National Digital Health Policy to advance equitable, people-centred healthcare WHO | Regional Office for Africa.",
+      "ingested_at": "2026-07-23T19:24:24Z"
+    },
+    {
       "id": "10779ee7abf48318",
       "url": "https://www.statnews.com/2026/07/21/is-there-an-exodus-underway-at-epic-health-tech",
       "title": "Is there an exodus underway at Epic?",
@@ -4763,6 +5148,17 @@
       "country": "IN",
       "summary": "Coverage of Medical colleges to decide own faculty appointments, promotions: NMC from the health-tech news cycle.",
       "ingested_at": "2026-07-20T14:16:06Z"
+    },
+    {
+      "id": "8421589731b5e87f",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamYwaUFtMkcxenQtam1kNVYwQVFhemQ0R0tFOU9HZ3hybU9ySmNJeWxxb21JSVRrU2p4STZ4X0FNdVJDMXNOWU1QSUZMQnA0MG56V1ZhMk9WWklaN2xadzltTUZHSUdCWnRPcC1lYktUVF9mZEptZWU2QmFNWUZObE1qZDh6dUZ4RU5B?oc=5",
+      "title": "Bunkerhill Lands Series B to Turn Ideas Into Action - Digital Health Wire",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-07-20T10:27:28Z",
+      "category": "other",
+      "country": "DE",
+      "summary": "Bunkerhill Lands Series B to Turn Ideas Into Action Digital Health Wire.",
+      "ingested_at": "2026-07-23T19:24:24Z"
     },
     {
       "id": "ea83c9aea93d8768",
@@ -13354,6 +13750,17 @@
       "country": "GLOBAL",
       "summary": "Coverage of WHO urges scale up of newborn screening to improve early detection and care of birth defects from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:37:57Z"
+    },
+    {
+      "id": "f9115b2668743c3d",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1pobjlRZW1TaE9hOU1RenZEcG9LNGx3c002U2xHNnlYUC11dXV4dzQyZXYydlpxeG95RlBmWHZ6VFRYcjBEd0tZVXNIbkVOWjRCTlNYTlV5TFhmRmc0ZmxOXzREQ0huOGRMTGo4WmxjTkkxMGFlRzhFT3J6Mk9jWGFFZ3gtSEhuZDNJdDZhV2I4OVgxQ08xeEUtREVsZENyS2FYQ2JTdHJ2RFYtSDg1dklQRFg?oc=5",
+      "title": "Lissun Raises INR 2.77 Cr in Fresh Funding From Rainmatter, India Foundation Fund - Digital Health News",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-06-23T09:38:02Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Lissun Raises INR 2.77 Cr in Fresh Funding From Rainmatter, India Foundation Fund Digital Health News.",
+      "ingested_at": "2026-07-23T19:24:25Z"
     },
     {
       "id": "fb629eed82ec6f30",
